@@ -38,6 +38,16 @@ contentSelector = "span.detail_playtime"
 imageSelector = "img.thumb_image"
 waitUntil = "networkidle"
 
+[sbs_coverage]
+title = "오디오클립 ─ SBS 취재파일"
+url = "https://audioclip.naver.com/channels/3244"
+entrySelector = "div.end_player_list div.list_item"
+titleSelector = "a.end_player_title"
+linkSelector = "a.end_player_title"
+contentSelector = "span.detail_playtime"
+imageSelector = "img.thumb_image"
+waitUntil = "networkidle"
+
 [kbs_news]
 title = "오디오클립 ─ KBS 뉴스"
 url = "https://audioclip.naver.com/channels/1847"
@@ -91,6 +101,16 @@ waitUntil = "networkidle"
 [hankyung_newslabit]
 title = "오디오클립 ─ 한국경제 뉴스래빗"
 url = "https://audioclip.naver.com/channels/1137"
+entrySelector = "div.end_player_list div.list_item"
+titleSelector = "a.end_player_title"
+linkSelector = "a.end_player_title"
+contentSelector = "span.detail_playtime"
+imageSelector = "img.thumb_image"
+waitUntil = "networkidle"
+
+[cbs_newsshow]
+title = "오디오클립 ─ CBS 김현정의 뉴스쇼"
+url = "https://audioclip.naver.com/channels/1256"
 entrySelector = "div.end_player_list div.list_item"
 titleSelector = "a.end_player_title"
 linkSelector = "a.end_player_title"
