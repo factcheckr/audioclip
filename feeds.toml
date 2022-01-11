@@ -1,9 +1,0 @@
-[audioclip_livesmarter]
-title = "오디오클립 ─ 듣똑라"
-url = "https://audioclip.naver.com/channels/310"
-entrySelector = "div.end_player_list div.list_item"
-titleSelector = "a.end_player_title"
-linkSelector = "a.end_player_title"
-contentSelector = "span.detail_playtime"
-imageSelector = "img.thumb_image"
-waitUntil = "networkidle"
