@@ -1,4 +1,4 @@
-[audioclip_livesmarter]
+[livesmarter]
 title = "오디오클립 ─ 듣똑라"
 url = "https://audioclip.naver.com/channels/310"
 entrySelector = "div.end_player_list div.list_item"
@@ -8,7 +8,7 @@ contentSelector = "span.detail_playtime"
 imageSelector = "img.thumb_image"
 waitUntil = "networkidle"
 
-[audioclip_sbsnews]
+[sbs_news]
 title = "오디오클립 ─ 귀로 듣는 스브스"
 url = "https://audioclip.naver.com/channels/3245"
 entrySelector = "div.end_player_list div.list_item"
@@ -18,9 +18,39 @@ contentSelector = "span.detail_playtime"
 imageSelector = "img.thumb_image"
 waitUntil = "networkidle"
 
-[audioclip_sbsgolroom]
+[sbs_golroom]
 title = "오디오클립 ─ SBS 골라듣는 뉴스룸"
 url = "https://audioclip.naver.com/channels/508"
+entrySelector = "div.end_player_list div.list_item"
+titleSelector = "a.end_player_title"
+linkSelector = "a.end_player_title"
+contentSelector = "span.detail_playtime"
+imageSelector = "img.thumb_image"
+waitUntil = "networkidle"
+
+[kbs_news]
+title = "오디오클립 ─ KBS 뉴스"
+url = "https://audioclip.naver.com/channels/1847"
+entrySelector = "div.end_player_list div.list_item"
+titleSelector = "a.end_player_title"
+linkSelector = "a.end_player_title"
+contentSelector = "span.detail_playtime"
+imageSelector = "img.thumb_image"
+waitUntil = "networkidle"
+
+[channela_newsa]
+title = "오디오클립 ─ 채널A 뉴스A"
+url = "https://audioclip.naver.com/channels/3117"
+entrySelector = "div.end_player_list div.list_item"
+titleSelector = "a.end_player_title"
+linkSelector = "a.end_player_title"
+contentSelector = "span.detail_playtime"
+imageSelector = "img.thumb_image"
+waitUntil = "networkidle"
+
+[channela_newstop10]
+title = "오디오클립 ─ 채널A 뉴스 TOP 10"
+url = "https://audioclip.naver.com/channels/3118"
 entrySelector = "div.end_player_list div.list_item"
 titleSelector = "a.end_player_title"
 linkSelector = "a.end_player_title"
