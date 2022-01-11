@@ -8,6 +8,16 @@ contentSelector = "span.detail_playtime"
 imageSelector = "img.thumb_image"
 waitUntil = "networkidle"
 
+[jtbc_news]
+title = "오디오클립 ─ JTBC 뉴스룸"
+url = "https://audioclip.naver.com/channels/2946"
+entrySelector = "div.end_player_list div.list_item"
+titleSelector = "a.end_player_title"
+linkSelector = "a.end_player_title"
+contentSelector = "span.detail_playtime"
+imageSelector = "img.thumb_image"
+waitUntil = "networkidle"
+
 [sbs_news]
 title = "오디오클립 ─ 귀로 듣는 스브스"
 url = "https://audioclip.naver.com/channels/3245"
@@ -71,6 +81,16 @@ waitUntil = "networkidle"
 [yonhapnewstv_newswatch]
 title = "오디오클립 ─ 연합뉴스TV 뉴스워치"
 url = "https://audioclip.naver.com/channels/3089"
+entrySelector = "div.end_player_list div.list_item"
+titleSelector = "a.end_player_title"
+linkSelector = "a.end_player_title"
+contentSelector = "span.detail_playtime"
+imageSelector = "img.thumb_image"
+waitUntil = "networkidle"
+
+[hankyung_newslabit]
+title = "오디오클립 ─ 한국경제 뉴스래빗"
+url = "https://audioclip.naver.com/channels/1137"
 entrySelector = "div.end_player_list div.list_item"
 titleSelector = "a.end_player_title"
 linkSelector = "a.end_player_title"
