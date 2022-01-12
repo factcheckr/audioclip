@@ -58,6 +58,16 @@ contentSelector = "span.detail_playtime"
 imageSelector = "img.thumb_image"
 waitUntil = "networkidle"
 
+[sbs_unanswered]
+title = "오디오클립 ─ SBS 그것이 알고싶다"
+url = "https://audioclip.naver.com/channels/2968"
+entrySelector = "div.end_player_list div.list_item"
+titleSelector = "a.end_player_title"
+linkSelector = "a.end_player_title"
+contentSelector = "span.detail_playtime"
+imageSelector = "img.thumb_image"
+waitUntil = "networkidle"
+
 [kbs_news]
 title = "오디오클립 ─ KBS 뉴스"
 url = "https://audioclip.naver.com/channels/1847"
