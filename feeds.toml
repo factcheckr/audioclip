@@ -118,6 +118,16 @@ contentSelector = "span.detail_playtime"
 imageSelector = "img.thumb_image"
 waitUntil = "networkidle"
 
+[ytn_news]
+title = "오디오클립 ─ YTN 최신 뉴스"
+url = "https://audioclip.naver.com/channels/197"
+entrySelector = "div.end_player_list div.list_item"
+titleSelector = "a.end_player_title"
+linkSelector = "a.end_player_title"
+contentSelector = "span.detail_playtime"
+imageSelector = "img.thumb_image"
+waitUntil = "networkidle"
+
 [yonhapnewstv_newswatch]
 title = "오디오클립 ─ 연합뉴스TV 뉴스워치"
 url = "https://audioclip.naver.com/channels/3089"
