@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 06:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 07:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1091,6 +1091,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[01월 24일 16시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/14325</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/14325</guid>
+            <pubDate>Mon, 24 Jan 2022 07:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220124_210/1643008445701zBjTg_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[01월 24일 14시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/14324</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/14324</guid>
@@ -1120,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/14321</guid>
             <pubDate>Mon, 24 Jan 2022 02:00:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220124_266/1642986850075gkBAY_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[01월 24일 07시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1156,13 +1163,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/14316</guid>
             <pubDate>Sun, 23 Jan 2022 12:16:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[01월 23일 19시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/14315</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/14315</guid>
-            <pubDate>Sun, 23 Jan 2022 11:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2022/01/24] [뉴스 연구소] "홍준표도 굿" 김건희 녹취록 (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
