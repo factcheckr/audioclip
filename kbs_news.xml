@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 21:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 22:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[01월 30일 06시] 6시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/15061</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/15061</guid>
+            <pubDate>Sat, 29 Jan 2022 22:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220130_40/1643490846696RWzEa_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[01월 30일 00시] 24시 뉴스]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/15060</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/15057</guid>
             <pubDate>Sat, 29 Jan 2022 13:12:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220129_107/1643460251797nRn46_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[01월 29일 19시] 19시 뉴스]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/15052</guid>
             <pubDate>Sat, 29 Jan 2022 06:12:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[01월 29일 12시] 정오 종합뉴스]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/15051</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/15051</guid>
-            <pubDate>Sat, 29 Jan 2022 04:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
 </rss>
