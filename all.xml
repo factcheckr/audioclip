@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 11:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 12:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1091,6 +1091,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[01월 30일 20시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/14400</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/14400</guid>
+            <pubDate>Sun, 30 Jan 2022 12:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220130_146/1643544853720G28eJ_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[01월 30일 19시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/14399</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/14399</guid>
@@ -1120,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/14396</guid>
             <pubDate>Sun, 30 Jan 2022 08:14:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220130_193/1643526846405QflmF_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[01월 30일 14시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1156,13 +1163,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/14391</guid>
             <pubDate>Sun, 30 Jan 2022 02:25:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[01월 30일 08시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/14390</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/14390</guid>
-            <pubDate>Sun, 30 Jan 2022 00:35:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2022/01/28] 심리상담가 박상미 교수 "명절에 가족 스트레스 주기 싫다면 이 말 하나 기억해요" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
