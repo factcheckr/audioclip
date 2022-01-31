@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 23:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 00:35:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>69분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[01월 31일 09시] 9시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/15079</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/15079</guid>
+            <pubDate>Mon, 31 Jan 2022 00:33:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220131_262/16435880357481rNwg_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[01월 31일 07시] 1R 7시뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/15078</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/15078</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/15075</guid>
             <pubDate>Sun, 30 Jan 2022 16:14:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220131_212/1643555636284CbntD_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[01월 30일 23시] 23시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -590,13 +597,6 @@
             <link>https://audioclip.naver.com/channels/1847/clips/15070</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/15070</guid>
             <pubDate>Sun, 30 Jan 2022 10:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[01월 30일 17시] 17시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/15069</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/15069</guid>
-            <pubDate>Sun, 30 Jan 2022 09:10:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
@@ -1091,6 +1091,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[01월 31일 07시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/14404</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/14404</guid>
+            <pubDate>Mon, 31 Jan 2022 00:34:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220131_77/1643584429917gsH3c_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[01월 31일 06시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/14403</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/14403</guid>
@@ -1120,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/14400</guid>
             <pubDate>Sun, 30 Jan 2022 12:15:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220130_146/1643544853720G28eJ_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[01월 30일 19시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1158,11 +1165,12 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[01월 30일 13시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/14394</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/14394</guid>
-            <pubDate>Sun, 30 Jan 2022 05:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <title><![CDATA[[2022/01/31] 설 특집 뉴스 연구소 "대선 승리, 내 손 안에 있소이다" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/7381</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/7381</guid>
+            <pubDate>Mon, 31 Jan 2022 00:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>73분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220131_128/1643588034841OCHa9_JPEG/ef736b6917aba7431692873b91ac4c5081af42ebd5efbcce5132f02819a62ddcc05eb3dc54c28b2e.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[2022/01/28] 심리상담가 박상미 교수 "명절에 가족 스트레스 주기 싫다면 이 말 하나 기억해요" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1194,7 +1202,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/7379</guid>
             <pubDate>Fri, 28 Jan 2022 01:56:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220128_33/1643334244258oQmr2_JPEG/ef736b6917aba7431692873b91ac4c5081af42ebd5efbcce5132f02819a62ddcc05eb3dc54c28b2e.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[2022/01/28] 원희룡 "이재명 성남FC 의혹, 바퀴벌레 잡을 회로도 있다" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1230,13 +1237,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/7374</guid>
             <pubDate>Thu, 27 Jan 2022 01:56:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022/01/27] 이준석 "사퇴하라" VS 최진석 "내 사퇴는 안철수만 결정" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/7369</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/7369</guid>
-            <pubDate>Thu, 27 Jan 2022 01:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보너스 에피소드: 와인을 알아가는 시간 (오디오클립 ─ 아메리카노)]]></title>
@@ -1387,6 +1387,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[하락장에서 다시 만나는 전설들 1부] 돈, 뜨겁게 사랑하고 차갑게 다루어라 - 앙드레 코스톨라니 (f.서준식) (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/4204</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/4204</guid>
+            <pubDate>Mon, 31 Jan 2022 00:35:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>64분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220128_165/164336065397028YMa_JPEG/naveraudio_thumbnail.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[투자는 책과 함께 #76] 같은 듯 다른 두 대통령의 서로 다른 리더십 (f.역사학자 심용환) (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
             <link>https://audioclip.naver.com/channels/6519/clips/4221</link>
             <guid>https://audioclip.naver.com/channels/6519/clips/4221</guid>
@@ -1408,7 +1416,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/4222</guid>
             <pubDate>Sun, 30 Jan 2022 05:11:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220129_271/1643445961240kLDzW_JPEG/naveraudio.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[고영경 박사의 말랑말랑 기업사 #18] 구찌, 떡락과 떡상의 역사 2편 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1451,13 +1458,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/4175</guid>
             <pubDate>Sat, 29 Jan 2022 00:34:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>42분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[신과함께 #195] 『신과함께』 제작자에게 직접 듣는 K-콘텐츠의 현재와 미래 f. 리얼라이즈픽쳐스 원동연 대표 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/4203</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/4203</guid>
-            <pubDate>Fri, 28 Jan 2022 23:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>76분]]></content:encoded>
         </item>
     </channel>
 </rss>
