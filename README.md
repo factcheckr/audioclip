@@ -1,34 +1,22 @@
-# CI setup for Feed me up, Scotty!
-
-You can fork this repository and edit `feeds.toml` to start generating your own
-RSS feeds.
-
-# Automatically generate feeds
-
-## On GitHub
-
-To automatically generate feeds twice a day on GitHub:
-
-1. Fork this repository and edit `feeds.toml`.
-2. Create a branch called `gh-pages`.
-3. Visit the _Actions_ tab for your fork, then enable workflows for your fork.
-4. Make sure the Publishing Source for your GitHub Pages site is set to the
-   `gh-pages` branch.
-   [Instructions here.](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
-
-GitHub Actions will then automatically run twice a day to check for updates,
-and publish your feeds at `https://<username>.github.io/feeds/`.
-
-## On GitLab
-
-To automatically generate feeds on GitLab:
-
-1. Fork this repository and edit `feeds.toml`.
-2. [Create a new pipeline schedule](./-/pipeline_schedules/new) (CI/CD ˃
-   Schedules).
-3. Set it to your desired interval (e.g. `30 5,17 * * *` to run at 5:30 and
-   17:30).
-4. Hit "Save pipeline schedule".
-
-GitLab CI/CD will then automatically run at your selected interval to check for
-updates, and publish your feeds at `https://<username>.gitlab.io/feeds/`.
+# 네이버 오디오클립
+https://factcheckr.github.io/audioclip/all.xml
+- https://factcheckr.github.io/audioclip/livesmarter.xml
+- https://factcheckr.github.io/audioclip/jtbc_news.xml
+- https://factcheckr.github.io/audioclip/sbs_news.xml
+- https://factcheckr.github.io/audioclip/sbs_golroom.xml
+- https://factcheckr.github.io/audioclip/sbs_coverage.xml
+- https://factcheckr.github.io/audioclip/sbs_newstory.xml
+- https://factcheckr.github.io/audioclip/sbs_unanswered.xml
+- https://factcheckr.github.io/audioclip/kbs_news.xml
+- https://factcheckr.github.io/audioclip/channela_newsa.xml
+- https://factcheckr.github.io/audioclip/channela_newstop10.xml
+- https://factcheckr.github.io/audioclip/tvchosun_news9.xml
+- https://factcheckr.github.io/audioclip/mbn_news.xml
+- https://factcheckr.github.io/audioclip/ytn_news.xml
+- https://factcheckr.github.io/audioclip/yonhapnewstv_newswatch.xml
+- https://factcheckr.github.io/audioclip/hankyung_newslabit.xml
+- https://factcheckr.github.io/audioclip/cbs_news.xml
+- https://factcheckr.github.io/audioclip/cbs_newsshow.xml
+- https://factcheckr.github.io/audioclip/americaknow.xml
+- https://factcheckr.github.io/audioclip/bookjournalism.xml
+- https://factcheckr.github.io/audioclip/3protv.xml
