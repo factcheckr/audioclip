@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/2914</id>
-    <title>오디오클립 ─ SBS 뉴스토리</title>
-    <updated>2022-02-08T16:16:56.078Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ SBS 뉴스토리</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 08 Feb 2022 17:15:55 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[362회 호랑이 없는 ‘호랑이 나라’]]></title>
+            <link>https://audioclip.naver.com/channels/2914/clips/213</link>
+            <guid>https://audioclip.naver.com/channels/2914/clips/213</guid>
+            <pubDate>Tue, 08 Feb 2022 17:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220205_182/1644020034523G3zeG_PNG/12f81f3064dec6555894000f47fbff13.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[361회 ‘경항모’, 21세기 거북선? 돈 먹는 하마?]]></title>
+            <link>https://audioclip.naver.com/channels/2914/clips/212</link>
+            <guid>https://audioclip.naver.com/channels/2914/clips/212</guid>
+            <pubDate>Tue, 08 Feb 2022 17:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220122_165/1642810440642seRam_PNG/12f81f3064dec6555894000f47fbff13.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[360회 제가 투기꾼인가요?]]></title>
+            <link>https://audioclip.naver.com/channels/2914/clips/211</link>
+            <guid>https://audioclip.naver.com/channels/2914/clips/211</guid>
+            <pubDate>Tue, 08 Feb 2022 17:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220115_46/16422056274528EuWM_PNG/12f81f3064dec6555894000f47fbff13.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[359회 인공지능이 운전한다]]></title>
+            <link>https://audioclip.naver.com/channels/2914/clips/210</link>
+            <guid>https://audioclip.naver.com/channels/2914/clips/210</guid>
+            <pubDate>Tue, 08 Feb 2022 17:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220108_122/16415990431618sb0r_PNG/12f81f3064dec6555894000f47fbff13.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[358회 암 환자들의 분노]]></title>
+            <link>https://audioclip.naver.com/channels/2914/clips/209</link>
+            <guid>https://audioclip.naver.com/channels/2914/clips/209</guid>
+            <pubDate>Tue, 08 Feb 2022 17:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[357회 사회 초년생 두 번 울리는 ‘취업 사기’]]></title>
+            <link>https://audioclip.naver.com/channels/2914/clips/208</link>
+            <guid>https://audioclip.naver.com/channels/2914/clips/208</guid>
+            <pubDate>Tue, 08 Feb 2022 17:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[356회 ‘그놈’, 당신을 노린다]]></title>
+            <link>https://audioclip.naver.com/channels/2914/clips/207</link>
+            <guid>https://audioclip.naver.com/channels/2914/clips/207</guid>
+            <pubDate>Tue, 08 Feb 2022 17:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[355회 가난·추위...움츠린 이웃들]]></title>
+            <link>https://audioclip.naver.com/channels/2914/clips/206</link>
+            <guid>https://audioclip.naver.com/channels/2914/clips/206</guid>
+            <pubDate>Tue, 08 Feb 2022 17:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[354회 ‘지옥고’와 ‘코리빙’]]></title>
+            <link>https://audioclip.naver.com/channels/2914/clips/205</link>
+            <guid>https://audioclip.naver.com/channels/2914/clips/205</guid>
+            <pubDate>Tue, 08 Feb 2022 17:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[353회 막나가는 1인 미디어]]></title>
+            <link>https://audioclip.naver.com/channels/2914/clips/204</link>
+            <guid>https://audioclip.naver.com/channels/2914/clips/204</guid>
+            <pubDate>Tue, 08 Feb 2022 17:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
