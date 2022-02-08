@@ -4,9 +4,17 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 00:37:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 01:58:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2022/02/08] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/7404</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/7404</guid>
+            <pubDate>Tue, 08 Feb 2022 01:57:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>84분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220208_86/1644282847129aW35n_JPEG/ef736b6917aba7431692873b91ac4c5081af42ebd5efbcce5132f02819a62ddcc05eb3dc54c28b2e.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[2022/02/07] [뉴스 연구소] 대선 D-30 | 8개 여론조사 뚜껑 여니]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/7403</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/7400</guid>
             <pubDate>Mon, 07 Feb 2022 01:55:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220207_123/16441964692368UdTl_JPEG/ef736b6917aba7431692873b91ac4c5081af42ebd5efbcce5132f02819a62ddcc05eb3dc54c28b2e.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[2022/02/07] [놓지마 뉴스]]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/7393</guid>
             <pubDate>Fri, 04 Feb 2022 02:14:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022/02/04] [놓지마 뉴스]]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/7394</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/7394</guid>
-            <pubDate>Fri, 04 Feb 2022 02:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
     </channel>
 </rss>
