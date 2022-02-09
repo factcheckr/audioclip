@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 03:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 04:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>69분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[02월 09일 12시] 정오 종합뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/15205</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/15205</guid>
+            <pubDate>Wed, 09 Feb 2022 04:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220209_215/1644378244391IrIwY_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[02월 09일 11시] 11시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/15204</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/15204</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/15201</guid>
             <pubDate>Tue, 08 Feb 2022 22:10:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220209_160/1644356634414zDs4E_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[02월 09일 05시] 5시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -591,13 +598,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/15196</guid>
             <pubDate>Tue, 08 Feb 2022 11:09:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[02월 08일 17시] 17시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/15195</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/15195</guid>
-            <pubDate>Tue, 08 Feb 2022 09:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2월 8일 (화) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
@@ -1189,7 +1189,7 @@
             <enclosure url="https://audio-phinf.pstatic.net/20220209_210/1644371051816oSPTv_JPEG/ef736b6917aba7431692873b91ac4c5081af42ebd5efbcce5132f02819a62ddcc05eb3dc54c28b2e.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[2022/02/09] 안민석 “이재명-안철수-김종인-이낙연 등 실용 원팀 기대” (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <title><![CDATA[[2022/02/09] 안민석 "중국 베이징 올림픽 편파판정, 삼성 지원 끊겼을때 이미 예견" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/7418</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/7418</guid>
             <pubDate>Wed, 09 Feb 2022 02:02:13 GMT</pubDate>
