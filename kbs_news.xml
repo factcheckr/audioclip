@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 21:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 22:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[02월 13일 06시] 6시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/15255</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/15255</guid>
+            <pubDate>Sat, 12 Feb 2022 22:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220213_281/1644700437562Vl3pT_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[02월 13일 00시] 24시 뉴스]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/15254</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/15251</guid>
             <pubDate>Sat, 12 Feb 2022 13:11:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220212_34/1644669834140sqT2E_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[02월 12일 19시] 19시 뉴스]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/15246</guid>
             <pubDate>Sat, 12 Feb 2022 06:11:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[02월 12일 12시] 정오 종합뉴스]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/15245</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/15245</guid>
-            <pubDate>Sat, 12 Feb 2022 04:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
 </rss>
