@@ -4,9 +4,17 @@
         <title>오디오클립 ─ MBN 종합뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 12:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 13:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2월 18일 (금) MBN 종합뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/2994/clips/987</link>
+            <guid>https://audioclip.naver.com/channels/2994/clips/987</guid>
+            <pubDate>Fri, 18 Feb 2022 13:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220218_85/16451882353875NiXl_PNG/e15443caca31e6d521efad81de242cf2.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2월 17일 (목) MBN 종합뉴스]]></title>
             <link>https://audioclip.naver.com/channels/2994/clips/986</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2994/clips/983</guid>
             <pubDate>Mon, 14 Feb 2022 13:15:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220214_124/1644842624570ULgip_PNG/e15443caca31e6d521efad81de242cf2.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2월 13일 (일) MBN 종합뉴스]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/2994/clips/978</link>
             <guid>https://audioclip.naver.com/channels/2994/clips/978</guid>
             <pubDate>Tue, 08 Feb 2022 13:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2월 7일 (월) MBN 종합뉴스]]></title>
-            <link>https://audioclip.naver.com/channels/2994/clips/977</link>
-            <guid>https://audioclip.naver.com/channels/2994/clips/977</guid>
-            <pubDate>Mon, 07 Feb 2022 13:15:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
         </item>
     </channel>
