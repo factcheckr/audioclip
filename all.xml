@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 15:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 16:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[02월 21일 00시] 24시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/15364</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/15364</guid>
+            <pubDate>Sun, 20 Feb 2022 16:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220221_76/1645370036738eSxDD_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[02월 20일 23시] 23시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/15363</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/15363</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/15360</guid>
             <pubDate>Sun, 20 Feb 2022 10:13:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220220_295/1645348427757aPvC4_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[02월 20일 17시] 17시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -590,13 +597,6 @@
             <link>https://audioclip.naver.com/channels/1847/clips/15355</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/15355</guid>
             <pubDate>Sun, 20 Feb 2022 02:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[02월 20일 10시] 10시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/15354</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/15354</guid>
-            <pubDate>Sun, 20 Feb 2022 02:01:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
@@ -748,6 +748,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>84분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2월 20일 (일) TV CHOSUN 뉴스9 (오디오클립 ─ TV조선 뉴스9)]]></title>
+            <link>https://audioclip.naver.com/channels/3108/clips/956</link>
+            <guid>https://audioclip.naver.com/channels/3108/clips/956</guid>
+            <pubDate>Sun, 20 Feb 2022 16:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220221_26/16453736404009aXuk_PNG/23939818e7c14b96c6546958148d1e29.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[2월 19일 (토) TV CHOSUN 뉴스9 (오디오클립 ─ TV조선 뉴스9)]]></title>
             <link>https://audioclip.naver.com/channels/3108/clips/955</link>
             <guid>https://audioclip.naver.com/channels/3108/clips/955</guid>
@@ -777,7 +785,6 @@
             <guid>https://audioclip.naver.com/channels/3108/clips/952</guid>
             <pubDate>Wed, 16 Feb 2022 15:11:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220216_294/1645020839166tI3MI_PNG/23939818e7c14b96c6546958148d1e29.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2월 15일 (화) TV CHOSUN 뉴스 9 (오디오클립 ─ TV조선 뉴스9)]]></title>
@@ -815,11 +822,12 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>45분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2월 10일 (목) TV CHOSUN 뉴스 9 (오디오클립 ─ TV조선 뉴스9)]]></title>
-            <link>https://audioclip.naver.com/channels/3108/clips/946</link>
-            <guid>https://audioclip.naver.com/channels/3108/clips/946</guid>
-            <pubDate>Thu, 10 Feb 2022 14:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
+            <title><![CDATA[2월 20일 (일) MBN 종합뉴스 (오디오클립 ─ MBN 종합뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/2994/clips/989</link>
+            <guid>https://audioclip.naver.com/channels/2994/clips/989</guid>
+            <pubDate>Sun, 20 Feb 2022 16:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>38분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220221_106/16453736400422wtBA_PNG/e15443caca31e6d521efad81de242cf2.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2월 19일 (토) MBN 종합뉴스 (오디오클립 ─ MBN 종합뉴스)]]></title>
@@ -851,7 +859,6 @@
             <guid>https://audioclip.naver.com/channels/2994/clips/985</guid>
             <pubDate>Fri, 18 Feb 2022 22:12:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220216_273/1645015433597fUKGm_PNG/e15443caca31e6d521efad81de242cf2.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2월 15일 (화) MBN 종합뉴스 (오디오클립 ─ MBN 종합뉴스)]]></title>
@@ -887,13 +894,6 @@
             <guid>https://audioclip.naver.com/channels/2994/clips/980</guid>
             <pubDate>Fri, 18 Feb 2022 22:12:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>63분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2월 10일 (목) MBN 종합뉴스 (오디오클립 ─ MBN 종합뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/2994/clips/979</link>
-            <guid>https://audioclip.naver.com/channels/2994/clips/979</guid>
-            <pubDate>Fri, 18 Feb 2022 22:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>57분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[올해 집값 전망...중개업소 63% "하락" vs 전문가 64% "상승" (오디오클립 ─ YTN 최신 뉴스)]]></title>
@@ -1313,6 +1313,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[오디오톡스] 김민하 시사평론가 - 2022 대선 D-20, 유권자는 어떤 기준으로 선택해야 하는가 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/137</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/137</guid>
+            <pubDate>Sun, 20 Feb 2022 16:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220221_179/16453711325570jhax_JPEG/366798_222.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[네이버와 카카오는 뉴스 알고리즘을 두고 다른 길을 걷는다. 뉴스와 미디어는 어떻게 달라질까? (오디오클립 ─ 북저널리즘 라디오)]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/136</link>
             <guid>https://audioclip.naver.com/channels/2939/clips/136</guid>
@@ -1342,7 +1350,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/133</guid>
             <pubDate>Fri, 11 Feb 2022 15:12:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220214_194/1644818909477cATqf_JPEG/r220212.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[북저널라디오] 2월 2주 ; 전체듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -1378,13 +1385,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/123</guid>
             <pubDate>Fri, 28 Jan 2022 15:13:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[북저널라디오] 1월 5주 ; 전체듣기_2 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/124</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/124</guid>
-            <pubDate>Fri, 28 Jan 2022 15:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인플레이션 시대를 준비하는 방법! [삼프로TV x 밀리의서재 북vs북 1화] (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
