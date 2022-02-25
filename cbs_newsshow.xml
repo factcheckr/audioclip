@@ -4,9 +4,17 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 00:43:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 02:05:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2022/02/25] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/7491</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/7491</guid>
+            <pubDate>Fri, 25 Feb 2022 02:04:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>83분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220225_90/1645749851135YUc8E_JPEG/ef736b6917aba7431692873b91ac4c5081af42ebd5efbcce5132f02819a62ddcc05eb3dc54c28b2e.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[2022/02/24] 이태규 "이준석 이중플레이, 왜 그러나 진짜 궁금해"]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/7487</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/7490</guid>
             <pubDate>Thu, 24 Feb 2022 02:06:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220224_147/1645665241617uX7VK_JPEG/ef736b6917aba7431692873b91ac4c5081af42ebd5efbcce5132f02819a62ddcc05eb3dc54c28b2e.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[2022/02/24] [놓지마 뉴스]]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/7482</guid>
             <pubDate>Wed, 23 Feb 2022 03:13:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022/02/23] [윤태곤의 판] 왜 이준석은 끝까지 안철수를 자극할까]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/7483</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/7483</guid>
-            <pubDate>Wed, 23 Feb 2022 03:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
         </item>
     </channel>
 </rss>

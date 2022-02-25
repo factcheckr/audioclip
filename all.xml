@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 00:43:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 02:05:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[02월 25일 10시] 10시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/15422</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/15422</guid>
+            <pubDate>Fri, 25 Feb 2022 02:03:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220225_176/1645751643566nlMWf_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[02월 25일 09시] 9시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/15421</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/15421</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/15418</guid>
             <pubDate>Thu, 24 Feb 2022 21:10:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220225_212/1645733662794adAWJ_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[02월 25일 00시] 24시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -590,13 +597,6 @@
             <link>https://audioclip.naver.com/channels/1847/clips/15413</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/15413</guid>
             <pubDate>Thu, 24 Feb 2022 09:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[02월 24일 16시] 16시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/15412</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/15412</guid>
-            <pubDate>Thu, 24 Feb 2022 08:13:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
@@ -1091,6 +1091,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[02월 25일 10시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/14702</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/14702</guid>
+            <pubDate>Fri, 25 Feb 2022 02:04:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220225_38/1645753456268P4Bjt_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[02월 25일 07시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/14701</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/14701</guid>
@@ -1120,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/14698</guid>
             <pubDate>Thu, 24 Feb 2022 12:19:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220224_296/1645704850608kUcCc_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[02월 24일 20시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1158,11 +1165,12 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[02월 24일 11시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/14692</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/14692</guid>
-            <pubDate>Thu, 24 Feb 2022 03:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <title><![CDATA[[2022/02/25] [뉴스쇼 방송 전체듣기] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/7491</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/7491</guid>
+            <pubDate>Fri, 25 Feb 2022 02:04:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>83분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220225_90/1645749851135YUc8E_JPEG/ef736b6917aba7431692873b91ac4c5081af42ebd5efbcce5132f02819a62ddcc05eb3dc54c28b2e.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[2022/02/24] 이태규 "이준석 이중플레이, 왜 그러나 진짜 궁금해" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1194,7 +1202,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/7490</guid>
             <pubDate>Thu, 24 Feb 2022 02:06:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220224_147/1645665241617uX7VK_JPEG/ef736b6917aba7431692873b91ac4c5081af42ebd5efbcce5132f02819a62ddcc05eb3dc54c28b2e.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[2022/02/24] [놓지마 뉴스] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1230,13 +1237,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/7482</guid>
             <pubDate>Wed, 23 Feb 2022 03:13:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022/02/23] [윤태곤의 판] 왜 이준석은 끝까지 안철수를 자극할까 (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/7483</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/7483</guid>
-            <pubDate>Wed, 23 Feb 2022 03:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보너스 에피소드: 와인을 알아가는 시간 (오디오클립 ─ 아메리카노)]]></title>
@@ -1387,12 +1387,56 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[증시 염염승환 이사탐정] 어제와 정반대... 정세 따라 들썩이는 증시 f. 이베스트투자증권 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/4538</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/4538</guid>
+            <pubDate>Fri, 25 Feb 2022 02:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220225_118/164575040451371BGo_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[심층 인터뷰] 모든게 해결된 것은 아니다 f. 이베스트투자증권 윤지호 센터장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/4537</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/4537</guid>
+            <pubDate>Fri, 25 Feb 2022 02:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220225_205/1645750369223I759N_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[마켓인사이트] 금리인상 속도보다 중요한 건 가이드라인과 경기방향 f. 교보증권 박병창 부장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/4536</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/4536</guid>
+            <pubDate>Fri, 25 Feb 2022 02:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220225_293/1645750341514hs5lS_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스3]  중국, 러시아에 비난·유감 표명 없어…"대화와 협상해야" (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/4535</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/4535</guid>
+            <pubDate>Fri, 25 Feb 2022 02:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[아침 라이브] 대포소리가 지배하는 시장_22.02.25_박병창, 윤지호, 염승환 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/4534</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/4534</guid>
+            <pubDate>Fri, 25 Feb 2022 02:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>133분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[월스트리트 모닝브리핑] 러시아 침공에도 기술주의 급반등으로 3대 지수상승마감_22.02.25 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/4533</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/4533</guid>
+            <pubDate>Fri, 25 Feb 2022 02:05:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[글로벌 라이브] 중국 전기차 산업... 중저가 브랜드로 급성장배경은?_22.02.24_이찬구, 이필상, 장우석 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
             <link>https://audioclip.naver.com/channels/6519/clips/4532</link>
             <guid>https://audioclip.naver.com/channels/6519/clips/4532</guid>
             <pubDate>Thu, 24 Feb 2022 14:13:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>94분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220224_108/1645710512090u7c4I_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌 개장시황] 전쟁 이후 미국 증시는 얼마나 하락할까? f. 미국주식에미치다 장우석 부사장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1400,7 +1444,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/4531</guid>
             <pubDate>Thu, 24 Feb 2022 14:13:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220224_282/1645710484209mOyKQ_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌 이슈체크] 중국 전기차 산업... 중저가 브랜드로 급성장한 배경은? f. 미래에셋자산운용(홍콩) 이필상 상무 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1408,7 +1451,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/4529</guid>
             <pubDate>Thu, 24 Feb 2022 14:13:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220224_131/1645709073532AKH3X_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌 마켓브리핑] 1조 펀드의 저주? 테슬라가 유독 많이 하락하는 이유 f. 미래에셋증권 이찬구 선임매니저 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1416,48 +1458,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/4528</guid>
             <pubDate>Thu, 24 Feb 2022 14:13:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[백브리핑 라이브] 러시아 침공 시작, 3차 세계대전 정말 일어날까?_22.02.24 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/4527</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/4527</guid>
-            <pubDate>Thu, 24 Feb 2022 13:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>73분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[심층인터뷰] 저가매수 신중해야 할 때, 길게 봐도 늦지 않는다!  f. 유진투자증권 영업부 강영현 부장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/4526</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/4526</guid>
-            <pubDate>Thu, 24 Feb 2022 13:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[퇴근길 라이브] 폭락 유발한 우크라이나 침공, 추락한 계좌 회복 가능 할까_22.02.24_박현상, 최창규, 강영현 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/4525</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/4525</guid>
-            <pubDate>Thu, 24 Feb 2022 13:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>107분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[ETF마켓워치] 위기? 기회? 나스닥을 바라보는 여러가지 시각 f. 삼성자산운용 최창규 본부장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/4524</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/4524</guid>
-            <pubDate>Thu, 24 Feb 2022 13:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[증시셔터맨] 결국 시작된 전면전, 급락한 양 시장 f. 유안타증권 박현상 차장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/4523</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/4523</guid>
-            <pubDate>Thu, 24 Feb 2022 13:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>38분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[컴퍼니 백브리핑] 아기사진 전문 인스타 만들었더니 대박!_22.02.24_제제미미 박미영 대표, 전제우 이사 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/4522</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/4522</guid>
-            <pubDate>Thu, 24 Feb 2022 12:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
         </item>
     </channel>
 </rss>
