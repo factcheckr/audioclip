@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 15:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 16:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[02월 26일 00시] 24시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/15429</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/15429</guid>
+            <pubDate>Fri, 25 Feb 2022 16:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220226_75/1645802039675Dpzzi_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[02월 25일 22시] 22시 뉴스]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/15428</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/15425</guid>
             <pubDate>Fri, 25 Feb 2022 08:14:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220225_103/1645773238938nlJyc_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[02월 25일 14시] 뉴스 중계탑]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/15420</guid>
             <pubDate>Thu, 24 Feb 2022 23:12:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[02월 25일 06시] KBS뉴스광장(R)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/15419</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/15419</guid>
-            <pubDate>Thu, 24 Feb 2022 22:11:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
         </item>
     </channel>
 </rss>
