@@ -20,3 +20,7 @@ https://factcheckr.github.io/audioclip/all.xml
 - https://factcheckr.github.io/audioclip/americaknow.xml
 - https://factcheckr.github.io/audioclip/bookjournalism.xml
 - https://factcheckr.github.io/audioclip/3protv.xml
+
+---
+
+[▶️ 네이버 오디오클립 ─ 영어뉴스](https://github.com/factcheckr/audioclip_eng)
