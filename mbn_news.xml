@@ -4,9 +4,17 @@
         <title>오디오클립 ─ MBN 종합뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 11:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 12:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 2일 (수) MBN 종합뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/2994/clips/998</link>
+            <guid>https://audioclip.naver.com/channels/2994/clips/998</guid>
+            <pubDate>Wed, 02 Mar 2022 12:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220302_24/1646223251049C7fHC_PNG/e15443caca31e6d521efad81de242cf2.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[3월 1일 (화) MBN 종합뉴스]]></title>
             <link>https://audioclip.naver.com/channels/2994/clips/997</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2994/clips/994</guid>
             <pubDate>Fri, 25 Feb 2022 12:17:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>63분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220225_213/1645791241109BdfyC_PNG/e15443caca31e6d521efad81de242cf2.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2월 24일 (목) MBN 종합뉴스]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2994/clips/989</guid>
             <pubDate>Sun, 20 Feb 2022 16:14:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>38분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2월 19일 (토) MBN 종합뉴스]]></title>
-            <link>https://audioclip.naver.com/channels/2994/clips/988</link>
-            <guid>https://audioclip.naver.com/channels/2994/clips/988</guid>
-            <pubDate>Sat, 19 Feb 2022 15:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>37분]]></content:encoded>
         </item>
     </channel>
 </rss>
