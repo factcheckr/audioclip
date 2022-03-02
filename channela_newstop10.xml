@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 채널A 뉴스 TOP 10</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 10:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 11:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 2일 (수) 뉴스 TOP 10]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/676</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/676</guid>
+            <pubDate>Wed, 02 Mar 2022 11:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>83분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220302_4/1646217839927azQ8u_PNG/256f786be70a33a5c9cec789390d82c1.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[3월 1일 (화) 뉴스 TOP 10]]></title>
             <link>https://audioclip.naver.com/channels/3118/clips/675</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3118/clips/672</guid>
             <pubDate>Thu, 24 Feb 2022 12:18:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>83분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220224_209/16457012429379QXoD_PNG/256f786be70a33a5c9cec789390d82c1.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2월 23일 (수) 뉴스 TOP 10]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3118/clips/667</guid>
             <pubDate>Thu, 17 Feb 2022 12:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>83분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2월 16일 (수) 뉴스 TOP 10]]></title>
-            <link>https://audioclip.naver.com/channels/3118/clips/666</link>
-            <guid>https://audioclip.naver.com/channels/3118/clips/666</guid>
-            <pubDate>Wed, 16 Feb 2022 12:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>84분]]></content:encoded>
         </item>
     </channel>
 </rss>
