@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 13:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 14:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1387,6 +1387,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[Live] 컴퍼니 백브리핑 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/4588</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/4588</guid>
+            <pubDate>Wed, 02 Mar 2022 14:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>337분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220302_190/1646184252341LYM5k_JPEG/KakaoTalk_20201228_184324933_01.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[백브리핑 라이브] 잘 봐, 이게 독재자 푸틴의 찐얼굴이다_22.03.02_장순원, 어예진 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
             <link>https://audioclip.naver.com/channels/6519/clips/4587</link>
             <guid>https://audioclip.naver.com/channels/6519/clips/4587</guid>
@@ -1408,7 +1416,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/4585</guid>
             <pubDate>Wed, 02 Mar 2022 13:19:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220302_203/1646223034711osfjK_JPEG/KakaoTalk_20201228_184324933_01.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[증시 셔터맨] 상승 마감한 시장.. 위드 코로나 산업, 온기 스며드나? f.IBK투자증권 박근형 부장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1451,13 +1458,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/4578</guid>
             <pubDate>Wed, 02 Mar 2022 02:15:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스3] 유가 100달러 돌파… 에너지시장 지각변동 꿈틀 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/4577</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/4577</guid>
-            <pubDate>Wed, 02 Mar 2022 02:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
         </item>
     </channel>
 </rss>
