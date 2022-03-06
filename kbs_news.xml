@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 09:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 10:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[03월 06일 18시] 18시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/15548</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/15548</guid>
+            <pubDate>Sun, 06 Mar 2022 10:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220306_217/1646558046177dwphK_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[03월 06일 17시] 17시 뉴스]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/15547</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/15544</guid>
             <pubDate>Sun, 06 Mar 2022 04:13:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220306_97/1646536435596iDr59_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[03월 06일 11시] 11시 뉴스]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/1847/clips/15539</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/15539</guid>
             <pubDate>Sat, 05 Mar 2022 22:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[03월 06일 00시] 24시 뉴스]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/15538</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/15538</guid>
-            <pubDate>Sat, 05 Mar 2022 16:13:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
     </channel>
