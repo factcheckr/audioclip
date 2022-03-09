@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 채널A 뉴스A</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 11:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 12:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 9일 (수) 뉴스A]]></title>
+            <link>https://audioclip.naver.com/channels/3117/clips/974</link>
+            <guid>https://audioclip.naver.com/channels/3117/clips/974</guid>
+            <pubDate>Wed, 09 Mar 2022 12:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220309_289/16468280710100qE2K_PNG/e6b8802c632ba6d1c3181933ed939dbf.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[3월 7일 (월) 뉴스A]]></title>
             <link>https://audioclip.naver.com/channels/3117/clips/973</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3117/clips/970</guid>
             <pubDate>Fri, 04 Mar 2022 12:18:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>47분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220304_144/16463960397671BHN3_PNG/e6b8802c632ba6d1c3181933ed939dbf.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[3월 3일 (목) 뉴스A]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3117/clips/965</link>
             <guid>https://audioclip.naver.com/channels/3117/clips/965</guid>
             <pubDate>Sun, 27 Feb 2022 19:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2월 26일 (토) 뉴스A]]></title>
-            <link>https://audioclip.naver.com/channels/3117/clips/964</link>
-            <guid>https://audioclip.naver.com/channels/3117/clips/964</guid>
-            <pubDate>Sat, 26 Feb 2022 13:14:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
         </item>
     </channel>
