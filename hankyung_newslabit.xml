@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/1137</id>
-    <title>오디오클립 ─ 한국경제 뉴스래빗</title>
-    <updated>2022-03-24T16:17:06.802Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ 한국경제 뉴스래빗</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 24 Mar 2022 17:25:26 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[미니경제] 이직 인센티브 드려요 #사이닝보너스]]></title>
+            <link>https://audioclip.naver.com/channels/1137/clips/786</link>
+            <guid>https://audioclip.naver.com/channels/1137/clips/786</guid>
+            <pubDate>Thu, 24 Mar 2022 17:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220323_36/1648015227225tIGiz_JPEG/main_singing_bonus.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미니경제] 성장은 둔화, 물가는 오르는 #슬로플레이션]]></title>
+            <link>https://audioclip.naver.com/channels/1137/clips/785</link>
+            <guid>https://audioclip.naver.com/channels/1137/clips/785</guid>
+            <pubDate>Thu, 24 Mar 2022 17:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220317_233/1647493209470ql3vI_JPEG/main_slowflation_copy.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미니경제] '금융 핵무기' #스위프트]]></title>
+            <link>https://audioclip.naver.com/channels/1137/clips/784</link>
+            <guid>https://audioclip.naver.com/channels/1137/clips/784</guid>
+            <pubDate>Thu, 24 Mar 2022 17:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220316_295/1647409400890sl6Pl_JPEG/main_swift.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미니경제] 재고 없는데 수요 급증, 원자재 대란 속 #백워데이션]]></title>
+            <link>https://audioclip.naver.com/channels/1137/clips/783</link>
+            <guid>https://audioclip.naver.com/channels/1137/clips/783</guid>
+            <pubDate>Thu, 24 Mar 2022 17:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220311_65/16469630706239QTeM_JPEG/main_back-wardation.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미니경제] 프사는 NFT로 #PFP NFT]]></title>
+            <link>https://audioclip.naver.com/channels/1137/clips/782</link>
+            <guid>https://audioclip.naver.com/channels/1137/clips/782</guid>
+            <pubDate>Thu, 24 Mar 2022 17:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[미니경제] 높아진 소비습관, 바꾸기 어려워 #래칫효과]]></title>
+            <link>https://audioclip.naver.com/channels/1137/clips/781</link>
+            <guid>https://audioclip.naver.com/channels/1137/clips/781</guid>
+            <pubDate>Thu, 24 Mar 2022 17:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[미니경제] NFT 열풍 속 '먹튀' 등장? #러그풀]]></title>
+            <link>https://audioclip.naver.com/channels/1137/clips/780</link>
+            <guid>https://audioclip.naver.com/channels/1137/clips/780</guid>
+            <pubDate>Thu, 24 Mar 2022 17:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[미니경제] 전문가 예측 완전 틀렸네 #마이클피시]]></title>
+            <link>https://audioclip.naver.com/channels/1137/clips/779</link>
+            <guid>https://audioclip.naver.com/channels/1137/clips/779</guid>
+            <pubDate>Thu, 24 Mar 2022 17:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[오디오래빗] 재생에너지 + 원자력 #CF100]]></title>
+            <link>https://audioclip.naver.com/channels/1137/clips/778</link>
+            <guid>https://audioclip.naver.com/channels/1137/clips/778</guid>
+            <pubDate>Thu, 24 Mar 2022 17:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[미니경제] 돈 버는 NFT 나도 #민팅 해볼까?]]></title>
+            <link>https://audioclip.naver.com/channels/1137/clips/777</link>
+            <guid>https://audioclip.naver.com/channels/1137/clips/777</guid>
+            <pubDate>Thu, 24 Mar 2022 17:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
