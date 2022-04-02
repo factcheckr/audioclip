@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 10:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 11:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[04월 02일 19시] 19시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/15925</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/15925</guid>
+            <pubDate>Sat, 02 Apr 2022 11:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220402_34/1648894434640LeDUY_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[04월 02일 18시] 18시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/15924</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/15924</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/15921</guid>
             <pubDate>Sat, 02 Apr 2022 06:14:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220402_26/1648876447102xBjIT_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[04월 02일 12시] 정오 종합뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -591,13 +598,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/15916</guid>
             <pubDate>Fri, 01 Apr 2022 23:12:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[04월 02일 06시] KBS뉴스광장(R) (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/15915</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/15915</guid>
-            <pubDate>Fri, 01 Apr 2022 22:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[4월 1일 (금) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
