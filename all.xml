@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 00:47:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 02:27:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[04월 05일 10시] 10시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/15963</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/15963</guid>
+            <pubDate>Tue, 05 Apr 2022 02:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220405_264/16491212574078U9iO_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[04월 05일 09시] 9시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/15962</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/15962</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/15959</guid>
             <pubDate>Mon, 04 Apr 2022 21:11:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220405_54/1649103234626A9EqK_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[04월 05일 00시] 24시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -589,13 +596,6 @@
             <title><![CDATA[[04월 04일 17시] 17시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/15954</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/15954</guid>
-            <pubDate>Mon, 04 Apr 2022 08:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[04월 04일 16시] 16시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/15953</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/15953</guid>
             <pubDate>Mon, 04 Apr 2022 08:14:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
@@ -1091,6 +1091,22 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[04월 05일 11시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/15176</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/15176</guid>
+            <pubDate>Tue, 05 Apr 2022 02:26:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220405_259/1649124858772LofmN_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[04월 05일 10시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/15175</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/15175</guid>
+            <pubDate>Tue, 05 Apr 2022 02:26:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220405_221/1649121257261TGHCG_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[04월 05일 07시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/15174</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/15174</guid>
@@ -1112,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/15172</guid>
             <pubDate>Mon, 04 Apr 2022 13:24:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220404_121/1649078045611A5zth_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[04월 04일 21시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1120,7 +1135,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/15171</guid>
             <pubDate>Mon, 04 Apr 2022 12:19:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220404_153/16490744482021A0sI_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[04월 04일 20시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1151,18 +1165,12 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[04월 04일 13시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/15166</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/15166</guid>
-            <pubDate>Mon, 04 Apr 2022 04:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[04월 04일 11시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/15165</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/15165</guid>
-            <pubDate>Mon, 04 Apr 2022 02:43:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <title><![CDATA[[2022/04/05] [뉴스 연구소] 예비비 핑퐁, 경기도청 캐비닛 열렸다 (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/7681</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/7681</guid>
+            <pubDate>Tue, 05 Apr 2022 02:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220405_194/1649124854386J95vX_JPEG/ef736b6917aba7431692873b91ac4c5081af42ebd5efbcce5132f02819a62ddcc05eb3dc54c28b2e.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[2022/04/05] [뉴스쇼 방송 전체듣기] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1194,7 +1202,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/7679</guid>
             <pubDate>Mon, 04 Apr 2022 02:43:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220404_192/1649038465970XarjP_JPEG/ef736b6917aba7431692873b91ac4c5081af42ebd5efbcce5132f02819a62ddcc05eb3dc54c28b2e.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[2022/04/04] [뉴스 연구소] 한덕수 청문회 통과의 허들은? (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1230,13 +1237,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/7672</guid>
             <pubDate>Fri, 01 Apr 2022 06:16:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>79분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022/04/01] [뉴스 연구소] 알박기 몰염치 vs 눈독들이기 놀랍다 (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/7667</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/7667</guid>
-            <pubDate>Fri, 01 Apr 2022 02:55:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아메리카노 첫 책이 나왔습니다 (오디오클립 ─ 아메리카노)]]></title>
@@ -1387,12 +1387,49 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[오늘아침 라이브] 지정학적 리스크에 뼈저리게 느낀 식량안보 중요성_22.04.05_박병창, 남재작, 염승환 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/5064</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/5064</guid>
+            <pubDate>Tue, 05 Apr 2022 02:27:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>137분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220405_149/16491203526445Q0vY_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[증시 염탐정] 2022년에도 애플의 독주는 이어진다? f.이베스트투자증권 염승환 이사 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/5063</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/5063</guid>
+            <pubDate>Tue, 05 Apr 2022 02:27:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220405_2/1649120321169oRJCW_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[심층 인터뷰] 식량안보를 높이는 방법, 자급률이 전부가 아니다 f.한국정밀농업연구소 남재작 박사 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/5062</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/5062</guid>
+            <pubDate>Tue, 05 Apr 2022 02:27:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220405_10/1649118680886dhgp6_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[박병창의 마켓인사이드] 생산 차질과 원자재값 상승으로 1분기 약세 보인 배터리 업체 f.교보증권 박병창 부장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/5061</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/5061</guid>
+            <pubDate>Tue, 05 Apr 2022 02:27:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스3] 코스피 상장사, 지난해 역대 최대로 벌었다… 삼성전자 빼도 '우수' (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/5060</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/5060</guid>
+            <pubDate>Tue, 05 Apr 2022 02:27:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[월모브] 빅테크 기업의 상승으로 3대 지수 상승마감_22.04.05_장우석, 안예하, 이항영 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
             <link>https://audioclip.naver.com/channels/6519/clips/5059</link>
             <guid>https://audioclip.naver.com/channels/6519/clips/5059</guid>
             <pubDate>Mon, 04 Apr 2022 23:15:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220405_258/1649113307714yUQuf_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌 라이브]  리오프닝, 이번엔 진짜? 회복세 뜨거운 글로벌 소비재_22.04.04_ 장의성, 심지현, 장우석 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1400,7 +1437,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/5058</guid>
             <pubDate>Mon, 04 Apr 2022 14:14:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>100분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220404_98/1649080190851mNEDm_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌 개장시황] 바이백 줄이는 스타벅스... 주주를 위해? 직원을 위해? f. 미국주식에미치다 장우석 부사장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1408,7 +1444,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/5057</guid>
             <pubDate>Mon, 04 Apr 2022 14:14:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>37분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220404_48/1649080153430JmhKW_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌 이슈체크]  글로벌 소비재, 상승 준비 끝! 콕콕 찝어 살펴보기 f. 신한금융투자 심지현 책임연구원 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1423,41 +1458,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/5054</guid>
             <pubDate>Mon, 04 Apr 2022 14:14:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[백브리핑 라이브] 국민연금 개혁, 어떻게 해야할까_22.04.04_김상훈, 오건호 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/5053</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/5053</guid>
-            <pubDate>Mon, 04 Apr 2022 13:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>74분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[퇴근길 라이브] 계속되는 외국인 매도, 대응은 어떻게?_22.04.04_박근형, 최창규, 사영관 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/5052</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/5052</guid>
-            <pubDate>Mon, 04 Apr 2022 13:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>102분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[심층인터뷰] 멈추지 않는 외국인 매도세, 산업 트렌드에 접근하라 f. 교보증권 사영관 차장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/5051</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/5051</guid>
-            <pubDate>Mon, 04 Apr 2022 13:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[ETF마켓워치] 올해 주식 확대 전망 일제히 내놓은 증권사들 f. 삼성자산운용 최창규 본부장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/5050</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/5050</guid>
-            <pubDate>Mon, 04 Apr 2022 13:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[증시셔터맨] 글로벌 리오프닝 최대 수혜주는 의류·신발 OEM? f. IBK투자증권 박근형 부장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/5049</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/5049</guid>
-            <pubDate>Mon, 04 Apr 2022 13:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>37분]]></content:encoded>
         </item>
     </channel>
 </rss>
