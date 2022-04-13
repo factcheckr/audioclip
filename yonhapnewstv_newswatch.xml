@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 연합뉴스TV 뉴스워치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 10:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 11:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월 13일 (수) 뉴스워치]]></title>
+            <link>https://audioclip.naver.com/channels/3089/clips/528</link>
+            <guid>https://audioclip.naver.com/channels/3089/clips/528</guid>
+            <pubDate>Wed, 13 Apr 2022 11:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>57분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220413_172/1649846657701yWgTo_PNG/79caef51776caaaf77a3388373f0e8cd.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[4월 12일 (화) 뉴스워치]]></title>
             <link>https://audioclip.naver.com/channels/3089/clips/527</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3089/clips/524</guid>
             <pubDate>Thu, 07 Apr 2022 13:25:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220407_171/16493354435151VmiU_PNG/79caef51776caaaf77a3388373f0e8cd.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[4월 6일 (수) 뉴스워치]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3089/clips/519</guid>
             <pubDate>Thu, 31 Mar 2022 12:20:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>50분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[3월 30일 (수) 뉴스워치]]></title>
-            <link>https://audioclip.naver.com/channels/3089/clips/518</link>
-            <guid>https://audioclip.naver.com/channels/3089/clips/518</guid>
-            <pubDate>Wed, 30 Mar 2022 12:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
         </item>
     </channel>
 </rss>
