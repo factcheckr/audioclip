@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 01:00:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 03:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[04월 20일 10시] 10시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/16171</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/16171</guid>
+            <pubDate>Wed, 20 Apr 2022 03:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220420_25/1650417276673dQVgW_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[04월 20일 07시] 뉴스와 화제]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/16170</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/16167</guid>
             <pubDate>Tue, 19 Apr 2022 16:17:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220420_243/1650381311191CTTwW_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[04월 19일 22시] 22시 뉴스]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/16162</guid>
             <pubDate>Tue, 19 Apr 2022 08:16:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[04월 19일 14시] 뉴스 중계탑]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/16161</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/16161</guid>
-            <pubDate>Tue, 19 Apr 2022 06:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
         </item>
     </channel>
 </rss>
