@@ -4,9 +4,17 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 23:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 00:55:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2022/04/21] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/7760</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/7760</guid>
+            <pubDate>Thu, 21 Apr 2022 00:55:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>83분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220421_127/16505018547488b3hH_JPEG/ef736b6917aba7431692873b91ac4c5081af42ebd5efbcce5132f02819a62ddcc05eb3dc54c28b2e.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[2022/04/20] "동물 머리 수집에 교환... 동물판 n번방 잡아주세요"]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/7759</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/7755</guid>
             <pubDate>Wed, 20 Apr 2022 00:59:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220420_280/1650415461216WrCaj_JPEG/ef736b6917aba7431692873b91ac4c5081af42ebd5efbcce5132f02819a62ddcc05eb3dc54c28b2e.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[2022/04/20] [뉴스 연구소] 송영길 컷오프?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/7753</guid>
             <pubDate>Tue, 19 Apr 2022 02:59:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022/04/19] [놓지마 뉴스]]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/7747</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/7747</guid>
-            <pubDate>Tue, 19 Apr 2022 02:59:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
     </channel>
 </rss>
