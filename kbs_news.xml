@@ -4,9 +4,25 @@
         <title>오디오클립 ─ KBS 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 14:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 15:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[05월 02일 00시] 24시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/16335</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/16335</guid>
+            <pubDate>Sun, 01 May 2022 15:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220502_236/1651418046325rYtPC_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[05월 01일 23시] 23시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/16334</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/16334</guid>
+            <pubDate>Sun, 01 May 2022 15:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220501_22/1651414443867pRUBC_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[05월 01일 22시] 22시 뉴스]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/16333</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/16331</guid>
             <pubDate>Sun, 01 May 2022 10:16:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220501_211/1651400068274jkpQK_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[05월 01일 18시] 18시 뉴스]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/16330</guid>
             <pubDate>Sun, 01 May 2022 10:16:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220501_141/16513964778247n7ng_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[05월 01일 17시] 17시 뉴스]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/16326</guid>
             <pubDate>Sun, 01 May 2022 03:38:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[05월 01일 11시] 11시 뉴스]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/16325</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/16325</guid>
-            <pubDate>Sun, 01 May 2022 03:38:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[05월 01일 10시] 10시 뉴스]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/16324</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/16324</guid>
-            <pubDate>Sun, 01 May 2022 03:38:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
     </channel>
 </rss>
