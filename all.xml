@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 03:58:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 04:30:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1091,6 +1091,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[05월 05일 13시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/15533</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/15533</guid>
+            <pubDate>Thu, 05 May 2022 04:29:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220505_214/1651724069578UuSxm_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[05월 05일 11시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/15532</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/15532</guid>
@@ -1120,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/15529</guid>
             <pubDate>Wed, 04 May 2022 22:13:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220505_172/1651698849531RBlGM_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[05월 04일 22시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1154,13 +1161,6 @@
             <title><![CDATA[[05월 04일 16시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/15523</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/15523</guid>
-            <pubDate>Wed, 04 May 2022 08:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[05월 04일 14시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/15524</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/15524</guid>
             <pubDate>Wed, 04 May 2022 08:16:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
