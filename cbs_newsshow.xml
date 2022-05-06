@@ -4,9 +4,17 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 23:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 00:49:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2022/05/06] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/7832</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/7832</guid>
+            <pubDate>Fri, 06 May 2022 00:48:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>79분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220506_272/1651797863090h4LBR_JPEG/ef736b6917aba7431692873b91ac4c5081af42ebd5efbcce5132f02819a62ddcc05eb3dc54c28b2e.jpeg?type=f150_150" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[2022/05/05] 놓지마 뉴스]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/7830</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/7827</guid>
             <pubDate>Thu, 05 May 2022 02:59:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220505_43/1651718641730WBluc_JPEG/ef736b6917aba7431692873b91ac4c5081af42ebd5efbcce5132f02819a62ddcc05eb3dc54c28b2e.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[2022/05/05] [뉴스연구소] 이은해 가스라이팅  '나 그만 볼거야?']]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/7824</guid>
             <pubDate>Wed, 04 May 2022 03:01:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022/05/04] [뉴스 연구소] '한줄공약' 어디로 갔나?]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/7820</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/7820</guid>
-            <pubDate>Wed, 04 May 2022 00:56:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
         </item>
     </channel>
 </rss>
