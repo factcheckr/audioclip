@@ -4,9 +4,17 @@
         <title>오디오클립 ─ SBS 뉴스토리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 23:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 00:51:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[375회 대통령의 성공조건]]></title>
+            <link>https://audioclip.naver.com/channels/2914/clips/226</link>
+            <guid>https://audioclip.naver.com/channels/2914/clips/226</guid>
+            <pubDate>Sat, 07 May 2022 00:48:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220507_217/1651882492865lI659_PNG/12f81f3064dec6555894000f47fbff13.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[374회 우크라이나 침공, 갈라지는 세계]]></title>
             <link>https://audioclip.naver.com/channels/2914/clips/225</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2914/clips/222</guid>
             <pubDate>Sat, 09 Apr 2022 00:44:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220409_165/1649461457807KHEV9_PNG/12f81f3064dec6555894000f47fbff13.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[369회 편리와 편향-추천 알고리즘의 두 얼굴]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2914/clips/216</guid>
             <pubDate>Sat, 26 Feb 2022 00:37:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[364회 가상 인간이 온다]]></title>
-            <link>https://audioclip.naver.com/channels/2914/clips/215</link>
-            <guid>https://audioclip.naver.com/channels/2914/clips/215</guid>
-            <pubDate>Sat, 19 Feb 2022 00:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
         </item>
     </channel>
 </rss>
