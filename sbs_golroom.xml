@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/508</id>
-    <title>오디오클립 ─ SBS 골라듣는 뉴스룸</title>
-    <updated>2022-05-08T17:18:23.536Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ SBS 골라듣는 뉴스룸</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 08 May 2022 18:18:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전셋집 수리 비용은 누가 내야 하나요? (feat. 내용증명) [최종의견 법률상담166]]]></title>
+            <link>https://audioclip.naver.com/channels/508/clips/2228</link>
+            <guid>https://audioclip.naver.com/channels/508/clips/2228</guid>
+            <pubDate>Sun, 08 May 2022 18:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220506_295/1651831656608skzmD_JPEG/%C3%D6%C1%BE%C0%C7%B0%DF_%C1%B6%BC%BA%C8%AF.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[《세상의 끝과 부재중 통화》 [북적북적338]]]></title>
+            <link>https://audioclip.naver.com/channels/508/clips/2214</link>
+            <guid>https://audioclip.naver.com/channels/508/clips/2214</guid>
+            <pubDate>Sun, 08 May 2022 18:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>43분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220428_300/1651112154600ThAQD_JPEG/%BC%BC%BB%F3%C0%C7_%B3%A1%B0%FA_%BA%CE%C0%E7%C1%DF_%C5%EB%C8%AD.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나 한풀 꺾였지만...사회 곳곳 '코로나 후유증' [뽀얀거탑329]]]></title>
+            <link>https://audioclip.naver.com/channels/508/clips/2227</link>
+            <guid>https://audioclip.naver.com/channels/508/clips/2227</guid>
+            <pubDate>Sun, 08 May 2022 18:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220506_294/1651828003699uviLC_JPEG/06_%BB%C7%BE%E1%B0%C5%C5%BE_%C1%A4%B9%E6%C7%FC.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["한국 부동산 버블 매우 심각"...90년대 일본 따라갈까 (feat. 한문도 교수) [뭘스트리트]]]></title>
+            <link>https://audioclip.naver.com/channels/508/clips/2222</link>
+            <guid>https://audioclip.naver.com/channels/508/clips/2222</guid>
+            <pubDate>Sun, 08 May 2022 18:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220503_46/1651566969507lWHIU_JPEG/thum_%B9%BB%BD%BA%C6%AE%B8%AE%C6%AE_1400x1400.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[막걸리는 전통주가 아닌데.. 박재범 소주가 전통주? [뭘스트리트]]]></title>
+            <link>https://audioclip.naver.com/channels/508/clips/2221</link>
+            <guid>https://audioclip.naver.com/channels/508/clips/2221</guid>
+            <pubDate>Sun, 08 May 2022 18:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[워런 버핏도 64조 '줍줍'...저평가 우량주 찾는 법 (feat. 박병창) [뭘스트리트]]]></title>
+            <link>https://audioclip.naver.com/channels/508/clips/2224</link>
+            <guid>https://audioclip.naver.com/channels/508/clips/2224</guid>
+            <pubDate>Sun, 08 May 2022 18:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오른발잡이 SON, 왼발로 '2%' 확률 뚫었다! [축덕쑥덕167]]]></title>
+            <link>https://audioclip.naver.com/channels/508/clips/2225</link>
+            <guid>https://audioclip.naver.com/channels/508/clips/2225</guid>
+            <pubDate>Sun, 08 May 2022 18:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[탈마스크 시작! 리오프닝 투자 변수는? (feat. 이남수, 이선화) [뭘스트리트]]]></title>
+            <link>https://audioclip.naver.com/channels/508/clips/2220</link>
+            <guid>https://audioclip.naver.com/channels/508/clips/2220</guid>
+            <pubDate>Sun, 08 May 2022 18:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[피아노 듀오가 생소하다고? 젓가락행진곡이 있잖아!ㅣ신박듀오 [커튼콜133]]]></title>
+            <link>https://audioclip.naver.com/channels/508/clips/2223</link>
+            <guid>https://audioclip.naver.com/channels/508/clips/2223</guid>
+            <pubDate>Sun, 08 May 2022 18:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>82분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA['오늘은 내가 타자 요리사!'...롯데 이인복 인터뷰 [야구에산다78]]]></title>
+            <link>https://audioclip.naver.com/channels/508/clips/2219</link>
+            <guid>https://audioclip.naver.com/channels/508/clips/2219</guid>
+            <pubDate>Sun, 08 May 2022 18:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>70분]]></content:encoded>
+        </item>
+    </channel>
+</rss>

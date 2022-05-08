@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/2946</id>
-    <title>오디오클립 ─ JTBC 뉴스룸</title>
-    <updated>2022-05-08T17:18:23.597Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ JTBC 뉴스룸</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 08 May 2022 18:18:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 5월 8일 (일) JTBC 뉴스룸]]></title>
+            <link>https://audioclip.naver.com/channels/2946/clips/1296</link>
+            <guid>https://audioclip.naver.com/channels/2946/clips/1296</guid>
+            <pubDate>Sun, 08 May 2022 18:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220508_57/1652013852053WukU3_JPEG/a20963544e5de908f840addfb66290c4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 5월 7일 (토) JTBC 뉴스룸]]></title>
+            <link>https://audioclip.naver.com/channels/2946/clips/1295</link>
+            <guid>https://audioclip.naver.com/channels/2946/clips/1295</guid>
+            <pubDate>Sun, 08 May 2022 18:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220507_19/16519238465593ebDD_JPEG/a20963544e5de908f840addfb66290c4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 5월 6일 (금) JTBC 뉴스룸]]></title>
+            <link>https://audioclip.naver.com/channels/2946/clips/1294</link>
+            <guid>https://audioclip.naver.com/channels/2946/clips/1294</guid>
+            <pubDate>Sun, 08 May 2022 18:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220506_191/1651841053630s0y6a_JPEG/a20963544e5de908f840addfb66290c4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 5월 5일 (목) JTBC 뉴스룸]]></title>
+            <link>https://audioclip.naver.com/channels/2946/clips/1293</link>
+            <guid>https://audioclip.naver.com/channels/2946/clips/1293</guid>
+            <pubDate>Sun, 08 May 2022 18:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>64분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220505_230/1651762213938GaRn8_JPEG/a20963544e5de908f840addfb66290c4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 5월 4일 (수) JTBC 뉴스룸]]></title>
+            <link>https://audioclip.naver.com/channels/2946/clips/1292</link>
+            <guid>https://audioclip.naver.com/channels/2946/clips/1292</guid>
+            <pubDate>Sun, 08 May 2022 18:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 5월 3일 (화) JTBC 뉴스룸]]></title>
+            <link>https://audioclip.naver.com/channels/2946/clips/1291</link>
+            <guid>https://audioclip.naver.com/channels/2946/clips/1291</guid>
+            <pubDate>Sun, 08 May 2022 18:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>69분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 5월 2일 (월) JTBC 뉴스룸]]></title>
+            <link>https://audioclip.naver.com/channels/2946/clips/1290</link>
+            <guid>https://audioclip.naver.com/channels/2946/clips/1290</guid>
+            <pubDate>Sun, 08 May 2022 18:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>68분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 5월 1일 (일) JTBC 뉴스룸]]></title>
+            <link>https://audioclip.naver.com/channels/2946/clips/1289</link>
+            <guid>https://audioclip.naver.com/channels/2946/clips/1289</guid>
+            <pubDate>Sun, 08 May 2022 18:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 4월 30일 (토) JTBC 뉴스룸]]></title>
+            <link>https://audioclip.naver.com/channels/2946/clips/1288</link>
+            <guid>https://audioclip.naver.com/channels/2946/clips/1288</guid>
+            <pubDate>Sun, 08 May 2022 18:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 4월 29일 (금) JTBC 뉴스룸]]></title>
+            <link>https://audioclip.naver.com/channels/2946/clips/1287</link>
+            <guid>https://audioclip.naver.com/channels/2946/clips/1287</guid>
+            <pubDate>Sun, 08 May 2022 18:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
+        </item>
+    </channel>
+</rss>

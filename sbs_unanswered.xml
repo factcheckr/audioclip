@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/2968</id>
-    <title>오디오클립 ─ SBS 그것이 알고싶다</title>
-    <updated>2022-05-08T17:18:23.537Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ SBS 그것이 알고싶다</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 08 May 2022 18:18:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1305회 예고된 재앙 - 후지산은 폭발하는가]]></title>
+            <link>https://audioclip.naver.com/channels/2968/clips/225</link>
+            <guid>https://audioclip.naver.com/channels/2968/clips/225</guid>
+            <pubDate>Sun, 08 May 2022 18:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220508_275/1651940119187mB9ie_PNG/b64dc5bbd76ad3d15aff5d23021bedd7.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[1304회 학살자와 목격자 - 전쟁 속의 전쟁]]></title>
+            <link>https://audioclip.naver.com/channels/2968/clips/224</link>
+            <guid>https://audioclip.naver.com/channels/2968/clips/224</guid>
+            <pubDate>Sun, 08 May 2022 18:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220501_25/1651335239396OD41K_PNG/b64dc5bbd76ad3d15aff5d23021bedd7.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[1303회 그녀의 마지막 시나리오 - 이은해 조현수, 775일간의 추적]]></title>
+            <link>https://audioclip.naver.com/channels/2968/clips/223</link>
+            <guid>https://audioclip.naver.com/channels/2968/clips/223</guid>
+            <pubDate>Sun, 08 May 2022 18:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220424_293/16507466461624pFxa_PNG/b64dc5bbd76ad3d15aff5d23021bedd7.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[1302회 78억 건의 꿀벌 연쇄 실종 사건 - 무엇을 알리는 시그널인가]]></title>
+            <link>https://audioclip.naver.com/channels/2968/clips/222</link>
+            <guid>https://audioclip.naver.com/channels/2968/clips/222</guid>
+            <pubDate>Sun, 08 May 2022 18:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220417_264/1650125660627Hr56J_PNG/b64dc5bbd76ad3d15aff5d23021bedd7.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[1301회 미끼남의 은밀한 유혹 - 데이팅앱 사기사건]]></title>
+            <link>https://audioclip.naver.com/channels/2968/clips/221</link>
+            <guid>https://audioclip.naver.com/channels/2968/clips/221</guid>
+            <pubDate>Sun, 08 May 2022 18:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1299회 81일간의 ‘지옥’ - 공군 이예람 중사 사망사건]]></title>
+            <link>https://audioclip.naver.com/channels/2968/clips/219</link>
+            <guid>https://audioclip.naver.com/channels/2968/clips/219</guid>
+            <pubDate>Sun, 08 May 2022 18:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>64분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1298회 어느 전쟁의 기록 - 승자는 누구인가]]></title>
+            <link>https://audioclip.naver.com/channels/2968/clips/218</link>
+            <guid>https://audioclip.naver.com/channels/2968/clips/218</guid>
+            <pubDate>Sun, 08 May 2022 18:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1297회 사이버 렉카 - 쩐과 혐오의 전쟁]]></title>
+            <link>https://audioclip.naver.com/channels/2968/clips/217</link>
+            <guid>https://audioclip.naver.com/channels/2968/clips/217</guid>
+            <pubDate>Sun, 08 May 2022 18:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1296회 질주 속 의문의 시그널 - 2016년 부산 감만동 급발진 의혹]]></title>
+            <link>https://audioclip.naver.com/channels/2968/clips/216</link>
+            <guid>https://audioclip.naver.com/channels/2968/clips/216</guid>
+            <pubDate>Sun, 08 May 2022 18:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>82분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1295회 소년심판 - 두 번의 ‘죄와 벌’]]></title>
+            <link>https://audioclip.naver.com/channels/2968/clips/215</link>
+            <guid>https://audioclip.naver.com/channels/2968/clips/215</guid>
+            <pubDate>Sun, 08 May 2022 18:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
