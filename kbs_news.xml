@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/1847</id>
-    <title>오디오클립 ─ KBS 뉴스</title>
-    <updated>2022-05-08T22:13:54.510Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ KBS 뉴스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 08 May 2022 23:13:57 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[05월 09일 07시] 뉴스와 화제]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/16436</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/16436</guid>
+            <pubDate>Sun, 08 May 2022 23:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220509_201/1652050674784bWqdF_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[05월 09일 06시] KBS뉴스광장(R)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/16435</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/16435</guid>
+            <pubDate>Sun, 08 May 2022 23:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220509_127/16520462404038i9HX_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[05월 09일 05시] 5시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/16434</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/16434</guid>
+            <pubDate>Sun, 08 May 2022 23:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220509_182/1652040845571Wh75K_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[05월 09일 00시] 24시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/16433</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/16433</guid>
+            <pubDate>Sun, 08 May 2022 23:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220509_161/1652022836102MULOr_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[05월 08일 23시] 23시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/16432</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/16432</guid>
+            <pubDate>Sun, 08 May 2022 23:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[05월 08일 22시] 22시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/16431</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/16431</guid>
+            <pubDate>Sun, 08 May 2022 23:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[05월 08일 21시] KBS 뉴스 9 (1TV  수중계)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/16430</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/16430</guid>
+            <pubDate>Sun, 08 May 2022 23:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[05월 08일 19시] 19시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/16429</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/16429</guid>
+            <pubDate>Sun, 08 May 2022 23:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[05월 08일 18시] 18시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/16428</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/16428</guid>
+            <pubDate>Sun, 08 May 2022 23:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[05월 08일 17시] 17시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/16427</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/16427</guid>
+            <pubDate>Sun, 08 May 2022 23:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
