@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 10:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 11:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[05월 08일 19시] 19시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/16429</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/16429</guid>
+            <pubDate>Sun, 08 May 2022 11:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220508_211/1652004864041otEoO_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[05월 08일 18시] 18시 뉴스]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/16428</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/16425</guid>
             <pubDate>Sun, 08 May 2022 06:15:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220508_44/1651986846379LQ6DO_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[05월 08일 12시] 정오 종합뉴스]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/1847/clips/16420</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/16420</guid>
             <pubDate>Sat, 07 May 2022 23:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[05월 08일 06시] 6시 뉴스]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/16419</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/16419</guid>
-            <pubDate>Sat, 07 May 2022 22:11:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
     </channel>
