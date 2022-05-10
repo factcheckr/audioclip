@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 22:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 23:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[05월 11일 07시] 뉴스와 화제]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/16461</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/16461</guid>
+            <pubDate>Tue, 10 May 2022 23:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220511_193/1652222664269eGNes_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[05월 11일 06시] KBS뉴스광장(R)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/16460</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/16457</guid>
             <pubDate>Tue, 10 May 2022 13:42:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220510_48/1652188531330OCbEJ_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[05월 10일 19시] 저녁 종합뉴스]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/16452</guid>
             <pubDate>Tue, 10 May 2022 04:15:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[05월 10일 10시] 10시 뉴스]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/16451</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/16451</guid>
-            <pubDate>Tue, 10 May 2022 02:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
     </channel>
 </rss>
