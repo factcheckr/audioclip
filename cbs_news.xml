@@ -4,9 +4,17 @@
         <title>오디오클립 ─ CBS뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 03:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 04:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[05월 10일 13시]]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/15596</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/15596</guid>
+            <pubDate>Tue, 10 May 2022 04:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220510_257/1652156068430oRfiT_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[05월 10일 11시]]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/15595</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/15592</guid>
             <pubDate>Mon, 09 May 2022 22:13:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220510_20/1652131385079rtrUR_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[05월 09일 22시]]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/1635/clips/15587</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/15587</guid>
             <pubDate>Mon, 09 May 2022 08:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[05월 09일 14시]]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/15586</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/15586</guid>
-            <pubDate>Mon, 09 May 2022 05:18:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
     </channel>
