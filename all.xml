@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 03:57:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 06:37:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[05월 27일 14시] 뉴스 중계탑 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/16687</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/16687</guid>
+            <pubDate>Fri, 27 May 2022 06:35:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220527_195/16536302763352FNKG_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[05월 27일 12시] 정오 종합뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/16686</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/16686</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/16683</guid>
             <pubDate>Fri, 27 May 2022 00:54:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220527_223/1653610489348kztqV_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[05월 27일 07시] 뉴스와 화제 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -591,13 +598,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/16678</guid>
             <pubDate>Thu, 26 May 2022 13:32:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[05월 26일 21시] KBS 뉴스 9 (1TV  수중계) (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/16677</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/16677</guid>
-            <pubDate>Thu, 26 May 2022 13:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[5월 26일 (목) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
@@ -1017,6 +1017,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[미니경제] 물가 상승, 점심값도 ㅎㄷㄷ#런치플레이션 (오디오클립 ─ 한국경제 뉴스래빗)]]></title>
+            <link>https://audioclip.naver.com/channels/1137/clips/805</link>
+            <guid>https://audioclip.naver.com/channels/1137/clips/805</guid>
+            <pubDate>Fri, 27 May 2022 06:36:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220527_294/1653625582721xL3hd_JPEG/main_lunchflation.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[미니경제] 공급망 대란, 동맹국 모여 극복 #프렌드쇼어링 (오디오클립 ─ 한국경제 뉴스래빗)]]></title>
             <link>https://audioclip.naver.com/channels/1137/clips/804</link>
             <guid>https://audioclip.naver.com/channels/1137/clips/804</guid>
@@ -1046,7 +1054,6 @@
             <guid>https://audioclip.naver.com/channels/1137/clips/800</guid>
             <pubDate>Tue, 24 May 2022 01:57:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220513_215/16524157031291JYNL_JPEG/main_gorp.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이슈복습] 경기 흐름 '이것' 보면 알 수 있다? #닥터코퍼 (오디오클립 ─ 한국경제 뉴스래빗)]]></title>
@@ -1084,11 +1091,20 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[미니경제] 메타, 자체 화폐 재도전? 이름은 #저크벅스 (오디오클립 ─ 한국경제 뉴스래빗)]]></title>
-            <link>https://audioclip.naver.com/channels/1137/clips/794</link>
-            <guid>https://audioclip.naver.com/channels/1137/clips/794</guid>
-            <pubDate>Sun, 08 May 2022 18:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
+            <title><![CDATA[[05월 27일 14시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/15799</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/15799</guid>
+            <pubDate>Fri, 27 May 2022 06:36:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220527_270/1653630276237c8vI6_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[05월 27일 13시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/15798</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/15798</guid>
+            <pubDate>Fri, 27 May 2022 06:36:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220527_300/1653624855542ITJkF_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[05월 27일 11시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1112,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/15795</guid>
             <pubDate>Fri, 27 May 2022 00:55:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220527_19/16536068482800geJL_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[05월 27일 06시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1120,7 +1135,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/15794</guid>
             <pubDate>Thu, 26 May 2022 22:15:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220527_264/165359964204953dtr_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[05월 26일 22시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1151,18 +1165,12 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[05월 26일 16시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/15789</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/15789</guid>
-            <pubDate>Thu, 26 May 2022 08:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[05월 26일 14시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/15788</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/15788</guid>
-            <pubDate>Thu, 26 May 2022 06:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <title><![CDATA[[2022/05/27] [댓꿀쇼] 깜깜이 전 마지막 여론조사 | 박지현 vs 윤호중, 봉합될까 (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/7938</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/7938</guid>
+            <pubDate>Fri, 27 May 2022 06:36:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>88분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220527_215/1653624853135QocmN_JPEG/ef736b6917aba7431692873b91ac4c5081af42ebd5efbcce5132f02819a62ddcc05eb3dc54c28b2e.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[2022/05/27] 김병관 "이재명이 철새? 안철수 얼굴 참 두껍다" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1194,7 +1202,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/7935</guid>
             <pubDate>Fri, 27 May 2022 03:03:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220527_144/1653617657089FjIjN_JPEG/ef736b6917aba7431692873b91ac4c5081af42ebd5efbcce5132f02819a62ddcc05eb3dc54c28b2e.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[2022/05/27] [뉴스 연구소] 마지막 여론조사 몇 대 몇? (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1230,13 +1237,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/7927</guid>
             <pubDate>Thu, 26 May 2022 03:04:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022/05/26] 박용진 "책상치는 민주당, 박지현 입 닫아라?" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/7928</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/7928</guid>
-            <pubDate>Thu, 26 May 2022 03:04:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[커리어 그리고 가정 03 (오디오클립 ─ 아메리카노)]]></title>
