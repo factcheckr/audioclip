@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 07:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 08:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>64분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[06월 05일 17시] 17시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/16811</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/16811</guid>
+            <pubDate>Sun, 05 Jun 2022 08:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220605_147/1654416837070G76e7_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[06월 05일 15시] 15시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/16810</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/16810</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/16807</guid>
             <pubDate>Sun, 05 Jun 2022 02:50:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220605_2/1654395260243gbNy3_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[06월 05일 10시] 10시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -590,13 +597,6 @@
             <link>https://audioclip.naver.com/channels/1847/clips/16802</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/16802</guid>
             <pubDate>Sat, 04 Jun 2022 16:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[06월 04일 23시] 23시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/16801</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/16801</guid>
-            <pubDate>Sat, 04 Jun 2022 15:11:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
@@ -1091,6 +1091,22 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[06월 05일 17시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/15913</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/15913</guid>
+            <pubDate>Sun, 05 Jun 2022 08:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220605_163/1654416836431qRMN2_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[06월 05일 16시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/15912</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/15912</guid>
+            <pubDate>Sun, 05 Jun 2022 08:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220605_198/16544132424239204J_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[06월 05일 14시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/15911</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/15911</guid>
@@ -1112,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/15909</guid>
             <pubDate>Sun, 05 Jun 2022 03:35:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220605_9/16543988376424oowf_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[06월 05일 11시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1120,7 +1135,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/15908</guid>
             <pubDate>Sun, 05 Jun 2022 02:51:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220605_98/1654395259612UNNl1_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[06월 05일 10시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1149,20 +1163,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/15906</guid>
             <pubDate>Sun, 05 Jun 2022 01:00:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[06월 04일 22시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/15903</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/15903</guid>
-            <pubDate>Sat, 04 Jun 2022 13:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[06월 04일 21시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/15901</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/15901</guid>
-            <pubDate>Sat, 04 Jun 2022 13:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2022/06/03] [댓꿀쇼] 지방선거 결과 분석: 국민의힘과 민주당은 앞으로 무엇을 할까? (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
