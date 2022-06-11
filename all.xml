@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 22:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 23:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[06월 12일 07시] 7시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/16900</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/16900</guid>
+            <pubDate>Sat, 11 Jun 2022 23:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220612_34/1654985646661vCc2u_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[06월 12일 06시] 6시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/16899</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/16899</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/16896</guid>
             <pubDate>Sat, 11 Jun 2022 13:20:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220611_121/16549532393454yqmQ_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[06월 11일 21시] KBS 뉴스 9 (1TV  수중계) (오디오클립 ─ KBS 뉴스)]]></title>
@@ -589,13 +596,6 @@
             <title><![CDATA[[06월 11일 15시] 15시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/16891</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/16891</guid>
-            <pubDate>Sat, 11 Jun 2022 06:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[06월 11일 14시] 14시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/16890</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/16890</guid>
             <pubDate>Sat, 11 Jun 2022 06:14:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
