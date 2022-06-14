@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 04:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 05:28:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1091,6 +1091,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[06월 14일 14시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/16020</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/16020</guid>
+            <pubDate>Tue, 14 Jun 2022 05:27:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220614_246/1655183655932pujwh_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[06월 14일 13시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/16019</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/16019</guid>
@@ -1120,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/16016</guid>
             <pubDate>Tue, 14 Jun 2022 01:03:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220614_93/1655162053410VjUzR_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[06월 14일 06시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1156,13 +1163,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/16011</guid>
             <pubDate>Mon, 13 Jun 2022 12:23:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[06월 13일 16시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/16010</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/16010</guid>
-            <pubDate>Mon, 13 Jun 2022 08:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2022/06/14] [뉴스 연구소] 김건희 여사 조용한 내조? (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
