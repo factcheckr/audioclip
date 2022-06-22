@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/3089</id>
-    <title>오디오클립 ─ 연합뉴스TV 뉴스워치</title>
-    <updated>2022-06-22T07:13:53.212Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ 연합뉴스TV 뉴스워치</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 22 Jun 2022 08:20:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6월 20일 (월) 뉴스워치]]></title>
+            <link>https://audioclip.naver.com/channels/3089/clips/572</link>
+            <guid>https://audioclip.naver.com/channels/3089/clips/572</guid>
+            <pubDate>Wed, 22 Jun 2022 08:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220620_148/1655723696819NxsjH_PNG/79caef51776caaaf77a3388373f0e8cd.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[6월 17일 (금) 뉴스워치]]></title>
+            <link>https://audioclip.naver.com/channels/3089/clips/571</link>
+            <guid>https://audioclip.naver.com/channels/3089/clips/571</guid>
+            <pubDate>Wed, 22 Jun 2022 08:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>38분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220617_3/1655468063237FfYpK_PNG/79caef51776caaaf77a3388373f0e8cd.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[6월 16일 (목) 뉴스워치]]></title>
+            <link>https://audioclip.naver.com/channels/3089/clips/570</link>
+            <guid>https://audioclip.naver.com/channels/3089/clips/570</guid>
+            <pubDate>Wed, 22 Jun 2022 08:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220616_104/1655388839283yxnRI_PNG/79caef51776caaaf77a3388373f0e8cd.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[6월 15일 (수) 뉴스워치]]></title>
+            <link>https://audioclip.naver.com/channels/3089/clips/569</link>
+            <guid>https://audioclip.naver.com/channels/3089/clips/569</guid>
+            <pubDate>Wed, 22 Jun 2022 08:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220615_112/1655300633645UyvhD_PNG/79caef51776caaaf77a3388373f0e8cd.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[6월 14일 (화) 뉴스워치]]></title>
+            <link>https://audioclip.naver.com/channels/3089/clips/568</link>
+            <guid>https://audioclip.naver.com/channels/3089/clips/568</guid>
+            <pubDate>Wed, 22 Jun 2022 08:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6월 13일 (월) 뉴스워치]]></title>
+            <link>https://audioclip.naver.com/channels/3089/clips/567</link>
+            <guid>https://audioclip.naver.com/channels/3089/clips/567</guid>
+            <pubDate>Wed, 22 Jun 2022 08:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6월 10일 (금) 뉴스워치]]></title>
+            <link>https://audioclip.naver.com/channels/3089/clips/566</link>
+            <guid>https://audioclip.naver.com/channels/3089/clips/566</guid>
+            <pubDate>Wed, 22 Jun 2022 08:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6월 9일 (목) 뉴스워치]]></title>
+            <link>https://audioclip.naver.com/channels/3089/clips/565</link>
+            <guid>https://audioclip.naver.com/channels/3089/clips/565</guid>
+            <pubDate>Wed, 22 Jun 2022 08:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>57분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6월 8일 (수) 뉴스워치]]></title>
+            <link>https://audioclip.naver.com/channels/3089/clips/564</link>
+            <guid>https://audioclip.naver.com/channels/3089/clips/564</guid>
+            <pubDate>Wed, 22 Jun 2022 08:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6월 7일 (화) 뉴스워치]]></title>
+            <link>https://audioclip.naver.com/channels/3089/clips/563</link>
+            <guid>https://audioclip.naver.com/channels/3089/clips/563</guid>
+            <pubDate>Wed, 22 Jun 2022 08:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
