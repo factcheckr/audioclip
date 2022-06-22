@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 12:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 13:35:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,22 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[06월 22일 22시] 22시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/17048</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/17048</guid>
+            <pubDate>Wed, 22 Jun 2022 13:33:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220622_66/1655903671985l5YpA_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[06월 22일 21시] KBS 뉴스 9 (1TV  수중계) (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/17047</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/17047</guid>
+            <pubDate>Wed, 22 Jun 2022 13:33:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220622_170/1655901864880K5sLz_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[06월 22일 19시] 저녁 종합뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/17046</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/17046</guid>
@@ -547,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/17044</guid>
             <pubDate>Wed, 22 Jun 2022 08:17:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220622_58/1655882048721MW5Ke_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[06월 22일 14시] 뉴스 중계탑 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -555,7 +570,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/17043</guid>
             <pubDate>Wed, 22 Jun 2022 06:14:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220622_103/1655876714631Giyb4_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[06월 22일 12시] 정오 종합뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -584,20 +598,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/17039</guid>
             <pubDate>Wed, 22 Jun 2022 01:01:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[06월 22일 07시] 뉴스와 화제 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/17038</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/17038</guid>
-            <pubDate>Tue, 21 Jun 2022 23:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[06월 22일 06시] KBS뉴스광장(R) (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/17037</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/17037</guid>
-            <pubDate>Tue, 21 Jun 2022 22:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[6월 21일 (화) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
@@ -1091,10 +1091,18 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[06월 22일 22시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/16117</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/16117</guid>
+            <pubDate>Wed, 22 Jun 2022 13:34:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220622_261/16559036718401ka3B_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[06월 22일 21시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/16116</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/16116</guid>
-            <pubDate>Wed, 22 Jun 2022 12:23:46 GMT</pubDate>
+            <pubDate>Wed, 22 Jun 2022 13:34:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
             <enclosure url="https://audio-phinf.pstatic.net/20220622_79/1655900075504Rraox_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
@@ -1102,7 +1110,7 @@
             <title><![CDATA[[06월 22일 20시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/16115</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/16115</guid>
-            <pubDate>Wed, 22 Jun 2022 12:23:46 GMT</pubDate>
+            <pubDate>Wed, 22 Jun 2022 13:34:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
             <enclosure url="https://audio-phinf.pstatic.net/20220622_75/1655896478949YCT5c_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
@@ -1120,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/16113</guid>
             <pubDate>Wed, 22 Jun 2022 08:19:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220622_70/1655882048550BtuFt_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[06월 22일 14시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1155,13 +1162,6 @@
             <link>https://audioclip.naver.com/channels/1635/clips/16108</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/16108</guid>
             <pubDate>Tue, 21 Jun 2022 22:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[06월 21일 22시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/16107</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/16107</guid>
-            <pubDate>Tue, 21 Jun 2022 13:40:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
         <item>
@@ -1387,10 +1387,18 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[언더스탠딩] 푸틴 나와! 러시아 맞짱 뜨는 리투아니아 _22.06.22_김상훈, 어예진 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/6211</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/6211</guid>
+            <pubDate>Wed, 22 Jun 2022 13:35:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>69분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220622_88/1655901974656OSzIG_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[퇴근길 라이브] 혼란한 하반기 퀀트로 답을 찾는다_22.06.22_박근형, 최창규, 유명간, 강환국 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
             <link>https://audioclip.naver.com/channels/6519/clips/6210</link>
             <guid>https://audioclip.naver.com/channels/6519/clips/6210</guid>
-            <pubDate>Wed, 22 Jun 2022 12:24:29 GMT</pubDate>
+            <pubDate>Wed, 22 Jun 2022 13:35:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>105분]]></content:encoded>
             <enclosure url="https://audio-phinf.pstatic.net/20220622_229/1655897746307QpRcS_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
@@ -1398,7 +1406,7 @@
             <title><![CDATA[[퀀트 대결] 어두운 전망 속, 퀀트로 찾는 투자의 적기 f. 미래에셋증권 유명간 수석연구위원, 강환국 작가 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
             <link>https://audioclip.naver.com/channels/6519/clips/6209</link>
             <guid>https://audioclip.naver.com/channels/6519/clips/6209</guid>
-            <pubDate>Wed, 22 Jun 2022 12:24:29 GMT</pubDate>
+            <pubDate>Wed, 22 Jun 2022 13:35:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
             <enclosure url="https://audio-phinf.pstatic.net/20220622_132/1655897312853v3mme_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
@@ -1406,22 +1414,21 @@
             <title><![CDATA[[ETF마켓워치] 인플레시대 투자할 자산 3위 원자재, 1위는? f. 삼성자산운용 최창규 본부장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
             <link>https://audioclip.naver.com/channels/6519/clips/6208</link>
             <guid>https://audioclip.naver.com/channels/6519/clips/6208</guid>
-            <pubDate>Wed, 22 Jun 2022 12:24:29 GMT</pubDate>
+            <pubDate>Wed, 22 Jun 2022 13:35:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220622_91/1655897296466clxBh_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[증시셔터맨] 곡물가 하락세, 수익장에  f. IBK투자증권 박근형 부장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
             <link>https://audioclip.naver.com/channels/6519/clips/6207</link>
             <guid>https://audioclip.naver.com/channels/6519/clips/6207</guid>
-            <pubDate>Wed, 22 Jun 2022 12:24:29 GMT</pubDate>
+            <pubDate>Wed, 22 Jun 2022 13:35:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>43분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[언더스탠딩] 클라우드는 알겠는데, MSP는 또 뭐야? _22.06.22_이민재 아웃스탠딩 기자 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
             <link>https://audioclip.naver.com/channels/6519/clips/6206</link>
             <guid>https://audioclip.naver.com/channels/6519/clips/6206</guid>
-            <pubDate>Wed, 22 Jun 2022 12:24:29 GMT</pubDate>
+            <pubDate>Wed, 22 Jun 2022 13:35:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
         </item>
         <item>
@@ -1451,13 +1458,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/6198</guid>
             <pubDate>Wed, 22 Jun 2022 03:11:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스3] '삼성전자, 너마저'…전자업계 실적 전망 줄줄이 '하향' (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/6197</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/6197</guid>
-            <pubDate>Wed, 22 Jun 2022 03:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
         </item>
     </channel>
 </rss>
