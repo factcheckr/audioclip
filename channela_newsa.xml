@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 채널A 뉴스A</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 13:35:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 14:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6월 22일 (수)  뉴스A]]></title>
+            <link>https://audioclip.naver.com/channels/3117/clips/1079</link>
+            <guid>https://audioclip.naver.com/channels/3117/clips/1079</guid>
+            <pubDate>Wed, 22 Jun 2022 14:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220622_117/16559054923084NvtB_PNG/e6b8802c632ba6d1c3181933ed939dbf.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[6월 21일 (화) 뉴스A]]></title>
             <link>https://audioclip.naver.com/channels/3117/clips/1078</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3117/clips/1075</guid>
             <pubDate>Sat, 18 Jun 2022 16:14:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220619_5/16555688411905iLNE_PNG/e6b8802c632ba6d1c3181933ed939dbf.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[6월 17일 (금) 뉴스A]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3117/clips/1070</guid>
             <pubDate>Mon, 13 Jun 2022 12:22:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[6월 12일 (일) 뉴스A]]></title>
-            <link>https://audioclip.naver.com/channels/3117/clips/1069</link>
-            <guid>https://audioclip.naver.com/channels/3117/clips/1069</guid>
-            <pubDate>Sun, 12 Jun 2022 17:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>42분]]></content:encoded>
         </item>
     </channel>
 </rss>
