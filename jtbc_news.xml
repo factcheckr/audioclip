@@ -4,9 +4,17 @@
         <title>오디오클립 ─ JTBC 뉴스룸</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 13:38:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 14:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 6월 23일 (목) JTBC 뉴스룸]]></title>
+            <link>https://audioclip.naver.com/channels/2946/clips/1344</link>
+            <guid>https://audioclip.naver.com/channels/2946/clips/1344</guid>
+            <pubDate>Thu, 23 Jun 2022 14:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220623_224/1655991852210HpcC0_JPEG/a20963544e5de908f840addfb66290c4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년 6월 22일 (수) JTBC 뉴스룸]]></title>
             <link>https://audioclip.naver.com/channels/2946/clips/1343</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2946/clips/1340</guid>
             <pubDate>Sun, 19 Jun 2022 13:19:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220619_78/1655642685952pFl38_JPEG/a20963544e5de908f840addfb66290c4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 6월 18일 (토) JTBC 뉴스룸]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2946/clips/1335</guid>
             <pubDate>Tue, 14 Jun 2022 14:12:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 6월 13일 (월) JTBC 뉴스룸]]></title>
-            <link>https://audioclip.naver.com/channels/2946/clips/1334</link>
-            <guid>https://audioclip.naver.com/channels/2946/clips/1334</guid>
-            <pubDate>Mon, 13 Jun 2022 14:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
         </item>
     </channel>
 </rss>
