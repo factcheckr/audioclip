@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 13:37:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 14:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -82,6 +82,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>45분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2022년 6월 29일 (수) JTBC 뉴스룸 (오디오클립 ─ JTBC 뉴스룸)]]></title>
+            <link>https://audioclip.naver.com/channels/2946/clips/1350</link>
+            <guid>https://audioclip.naver.com/channels/2946/clips/1350</guid>
+            <pubDate>Wed, 29 Jun 2022 14:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>70분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220629_40/1656510235710WYhz2_JPEG/a20963544e5de908f840addfb66290c4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022년 6월 28일 (화) JTBC 뉴스룸 (오디오클립 ─ JTBC 뉴스룸)]]></title>
             <link>https://audioclip.naver.com/channels/2946/clips/1349</link>
             <guid>https://audioclip.naver.com/channels/2946/clips/1349</guid>
@@ -111,7 +119,6 @@
             <guid>https://audioclip.naver.com/channels/2946/clips/1346</guid>
             <pubDate>Sat, 25 Jun 2022 12:16:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220625_147/1656157438009T8qfs_JPEG/a20963544e5de908f840addfb66290c4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 6월 24일 (금) JTBC 뉴스룸 (오디오클립 ─ JTBC 뉴스룸)]]></title>
@@ -147,13 +154,6 @@
             <guid>https://audioclip.naver.com/channels/2946/clips/1341</guid>
             <pubDate>Mon, 20 Jun 2022 14:09:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>68분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 6월 19일 (일) JTBC 뉴스룸 (오디오클립 ─ JTBC 뉴스룸)]]></title>
-            <link>https://audioclip.naver.com/channels/2946/clips/1340</link>
-            <guid>https://audioclip.naver.com/channels/2946/clips/1340</guid>
-            <pubDate>Sun, 19 Jun 2022 13:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA["마사지 받으러 갔다가 성폭행당해"…온라인 게시글 사실로 드러나 (오디오클립 ─ 귀로 듣는 스브스)]]></title>
@@ -1387,12 +1387,49 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[글로벌 개장시황] 설마 지금 수건을 던지나? f. 미국주식에미치다 장우석 부사장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/6317</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/6317</guid>
+            <pubDate>Wed, 29 Jun 2022 14:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220629_298/1656510256212M1Fwh_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌 라이브] 현실이 되어가는 우주산업_22.06.29_이진용, 이재광, 장우석 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/6316</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/6316</guid>
+            <pubDate>Wed, 29 Jun 2022 14:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>102분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220629_56/1656510208064270Vv_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[언더스탠딩] 러시아 석유만 싸게 산다고? 그게 가능해?_22.06.29_김상훈, 어예진 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/6315</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/6315</guid>
+            <pubDate>Wed, 29 Jun 2022 14:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>70분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220629_119/1656509988963p87CE_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌 이슈체크] 누리호 어서 오고~ 우주산업 성장세↑ f. 미래에셋증권 이재광 선임연구위원 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/6314</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/6314</guid>
+            <pubDate>Wed, 29 Jun 2022 14:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌 마켓브리핑] 잘 나가는 중국 전기차 회계 조작 의심? f. 미래에셋증권 이진용 선임매니저 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/6313</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/6313</guid>
+            <pubDate>Wed, 29 Jun 2022 14:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[퇴근길 라이브] 효율 높아지는 그린 에너지, 기회가 온다_22.06.29_박근형, 류제현 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
             <link>https://audioclip.naver.com/channels/6519/clips/6312</link>
             <guid>https://audioclip.naver.com/channels/6519/clips/6312</guid>
             <pubDate>Wed, 29 Jun 2022 12:22:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>102분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220629_169/1656500770743EeoE6_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[심층인터뷰] 고난의 태양광, 해뜰날 오나? f. 미래에셋증권 류제현 수석연구위원 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1400,7 +1437,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/6311</guid>
             <pubDate>Wed, 29 Jun 2022 12:22:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>42분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220629_99/1656500725421lhcTW_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[증시셔터맨] 독일에게 한대 맞은 현대차, 대책은 어떻게? f. IBK투자증권 박근형 부장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1408,7 +1444,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/6310</guid>
             <pubDate>Wed, 29 Jun 2022 12:22:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220629_200/1656500319397ynO1w_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[언더스탠딩] 사람 잡는 층간소음, 안잡는걸까 못잡는걸까_22.06.29_DL이앤씨 최영락 상무 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1423,41 +1458,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/6305</guid>
             <pubDate>Wed, 29 Jun 2022 03:18:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>154분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[증시 박탐정] 분위기 안좋은 초반.. 2400 지지할까? f. 한국투자증권 박제영 차장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/6303</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/6303</guid>
-            <pubDate>Wed, 29 Jun 2022 03:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[심층 인터뷰] 국제정세 불안, 인플레이션과 시장 대응법 분석 f. 신한금융투자 이선엽 부장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/6302</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/6302</guid>
-            <pubDate>Wed, 29 Jun 2022 03:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[마켓인사이드]  시장 추세 반전은 매크로 지표로 확인.. 시간은 필요! f. 교보증권 박병창 부장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/6301</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/6301</guid>
-            <pubDate>Wed, 29 Jun 2022 03:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스3]  최대 135만원…美캘리포니아 '인플레 수당' 준다 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/6300</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/6300</guid>
-            <pubDate>Wed, 29 Jun 2022 03:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[월스트리트 모닝브리핑] 소비자신뢰지수 악화 재확인,  미국증시 하락폭 다시 확대_22.06.29 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/6299</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/6299</guid>
-            <pubDate>Wed, 29 Jun 2022 03:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>57분]]></content:encoded>
         </item>
     </channel>
 </rss>
