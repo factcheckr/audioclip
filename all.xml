@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 04:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 05:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1091,6 +1091,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[06월 30일 14시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/16206</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/16206</guid>
+            <pubDate>Thu, 30 Jun 2022 05:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220630_261/16565660511553Tiz6_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[06월 30일 13시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/16205</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/16205</guid>
@@ -1120,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/16202</guid>
             <pubDate>Thu, 30 Jun 2022 00:55:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220630_193/1656544460807W58Cd_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[06월 30일 06시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1156,13 +1163,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/16197</guid>
             <pubDate>Wed, 29 Jun 2022 09:13:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[06월 29일 16시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/16196</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/16196</guid>
-            <pubDate>Wed, 29 Jun 2022 08:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2022/06/30] [뉴스 연구소] 완도 유나양 "아이가 무슨 죄?" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
