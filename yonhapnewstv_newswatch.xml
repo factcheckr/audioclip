@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 연합뉴스TV 뉴스워치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 11:23:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 12:35:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 5일 (화) 뉴스워치]]></title>
+            <link>https://audioclip.naver.com/channels/3089/clips/583</link>
+            <guid>https://audioclip.naver.com/channels/3089/clips/583</guid>
+            <pubDate>Tue, 05 Jul 2022 12:34:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220705_103/16570214283666sRT4_PNG/79caef51776caaaf77a3388373f0e8cd.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[7월 4일 (월) 뉴스워치]]></title>
             <link>https://audioclip.naver.com/channels/3089/clips/582</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3089/clips/579</guid>
             <pubDate>Wed, 29 Jun 2022 15:45:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220629_236/1656512054254mMsj4_PNG/79caef51776caaaf77a3388373f0e8cd.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[6월 28일 (화)뉴스워치]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3089/clips/574</guid>
             <pubDate>Fri, 24 Jun 2022 10:14:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[6월 22일 (수)  뉴스워치]]></title>
-            <link>https://audioclip.naver.com/channels/3089/clips/573</link>
-            <guid>https://audioclip.naver.com/channels/3089/clips/573</guid>
-            <pubDate>Wed, 22 Jun 2022 11:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
         </item>
     </channel>
 </rss>
