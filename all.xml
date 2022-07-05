@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 05:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 06:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[07월 05일 14시] 뉴스 중계탑 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/17226</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/17226</guid>
+            <pubDate>Tue, 05 Jul 2022 06:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220705_68/1656999899514EML6E_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[07월 05일 12시] 정오 종합뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/17225</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/17225</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/17222</guid>
             <pubDate>Tue, 05 Jul 2022 00:57:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220705_239/1656980058566w1s4s_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[07월 05일 07시] 뉴스와 화제 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -591,13 +598,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/17217</guid>
             <pubDate>Mon, 04 Jul 2022 13:33:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[07월 04일 21시] KBS 뉴스 9 (1TV  수중계) (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/17216</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/17216</guid>
-            <pubDate>Mon, 04 Jul 2022 13:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7월 4일 (월) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
@@ -1387,12 +1387,20 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[Live] 월스트리트 모닝브리핑 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/6388</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/6388</guid>
-            <pubDate>Tue, 05 Jul 2022 03:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>224분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220704_222/165694349308607wl6_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
+            <title><![CDATA[[월스트리트 모닝브리핑] 유럽증시 '혼조세' 마감... 독일증시만 '약세'_22.07.05_여도은, 문남중, 이항영 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/6390</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/6390</guid>
+            <pubDate>Tue, 05 Jul 2022 06:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>57분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220705_273/16569845338394QI45_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘아침 라이브] 김한진, 김영익이 보는 7월 전망_22.07.05_김한진, 김영익, 박병창, 염승환 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/6389</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/6389</guid>
+            <pubDate>Tue, 05 Jul 2022 06:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>141분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220705_98/1656984336359L53Qg_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[증시 염탐정] 건설주 급등! 우크라이나 재건 기대감? f.이베스트투자증권 염승환 이사_22.07.05 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1408,7 +1416,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/6386</guid>
             <pubDate>Tue, 05 Jul 2022 03:15:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220705_160/1656979451379u5h65_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[마켓 인사이드] 한국과 대만 시장만 유독 약한 이유 f. 교보증권 박병창 부장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1451,13 +1458,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/6379</guid>
             <pubDate>Mon, 04 Jul 2022 14:13:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[언더스탠딩] 윤석열 부동산 박근혜와 다르다_22.07.04_채상욱 작가 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/6378</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/6378</guid>
-            <pubDate>Mon, 04 Jul 2022 13:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>72분]]></content:encoded>
         </item>
     </channel>
 </rss>
