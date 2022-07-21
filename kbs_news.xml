@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 15:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 16:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[07월 22일 00시] 24시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/17458</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/17458</guid>
+            <pubDate>Thu, 21 Jul 2022 16:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220722_132/1658416442432KWUJU_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[07월 21일 22시] 22시 뉴스]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/17457</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/17454</guid>
             <pubDate>Thu, 21 Jul 2022 08:15:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220721_262/1658391251268UHpot_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[07월 21일 16시] 16시 뉴스]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/1847/clips/17449</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/17449</guid>
             <pubDate>Thu, 21 Jul 2022 03:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[07월 21일 09시] 9시 뉴스]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/17448</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/17448</guid>
-            <pubDate>Thu, 21 Jul 2022 01:01:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
     </channel>
