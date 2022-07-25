@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 23:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 01:01:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[07월 25일 09시] 9시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/17505</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/17505</guid>
+            <pubDate>Mon, 25 Jul 2022 00:58:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220725_28/1658708085282Goh5W_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[07월 25일 07시] 뉴스와 화제 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/17504</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/17504</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/17501</guid>
             <pubDate>Sun, 24 Jul 2022 16:15:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220725_13/1658675635710yW7Ua_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[07월 24일 23시] 23시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -590,13 +597,6 @@
             <link>https://audioclip.naver.com/channels/1847/clips/17496</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/17496</guid>
             <pubDate>Sun, 24 Jul 2022 10:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[07월 24일 17시] 17시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/17495</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/17495</guid>
-            <pubDate>Sun, 24 Jul 2022 08:14:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
@@ -1416,6 +1416,7 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/6660</guid>
             <pubDate>Sat, 23 Jul 2022 10:14:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>38분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220722_214/165847949868834O50_JPEG/KakaoTalk_20201228_184324933_01.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인플레이션은 왜 위험한가? f.한양대학교 임형록 교수 [삼프로TV 200만 구독자와 함께하는 삼프로TV 공개방송] (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
