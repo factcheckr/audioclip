@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/3118</id>
-    <title>오디오클립 ─ 채널A 뉴스 TOP 10</title>
-    <updated>2022-07-30T05:19:04.684Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ 채널A 뉴스 TOP 10</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 30 Jul 2022 06:16:40 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 29일 (금) 뉴스 TOP 10]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/781</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/781</guid>
+            <pubDate>Sat, 30 Jul 2022 06:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>81분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220729_202/1659091511624K8o7z_PNG/256f786be70a33a5c9cec789390d82c1.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[7월 28일 (목) 뉴스 TOP 10]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/780</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/780</guid>
+            <pubDate>Sat, 30 Jul 2022 06:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>81분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220728_300/1659017642470c1q16_PNG/256f786be70a33a5c9cec789390d82c1.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[7월 27일 (수) 뉴스 TOP 10]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/779</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/779</guid>
+            <pubDate>Sat, 30 Jul 2022 06:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>81분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220727_252/1658920492983eQ5GR_PNG/256f786be70a33a5c9cec789390d82c1.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[7월 26일 (화) 뉴스 TOP 10]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/778</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/778</guid>
+            <pubDate>Sat, 30 Jul 2022 06:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>80분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220726_25/1658834042625rw2cI_PNG/256f786be70a33a5c9cec789390d82c1.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[7월 25일 (월) 뉴스 TOP 10]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/777</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/777</guid>
+            <pubDate>Sat, 30 Jul 2022 06:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>80분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7월 22일 (금) 뉴스 TOP 10]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/776</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/776</guid>
+            <pubDate>Sat, 30 Jul 2022 06:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>81분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7월 21일 (목) 뉴스 TOP 10]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/775</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/775</guid>
+            <pubDate>Sat, 30 Jul 2022 06:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>81분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7월 20일 (수)  뉴스 TOP 10]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/774</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/774</guid>
+            <pubDate>Sat, 30 Jul 2022 06:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>81분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7월 19일 (화) 뉴스 TOP 10]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/773</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/773</guid>
+            <pubDate>Sat, 30 Jul 2022 06:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>81분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[7월 18일 (월) 뉴스 TOP 10]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/772</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/772</guid>
+            <pubDate>Sat, 30 Jul 2022 06:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>81분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
