@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 04:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 05:31:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1091,6 +1091,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[08월 05일 14시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/16635</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/16635</guid>
+            <pubDate>Fri, 05 Aug 2022 05:30:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220805_235/1659676444189Kxobr_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[08월 05일 13시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/16634</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/16634</guid>
@@ -1120,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/16631</guid>
             <pubDate>Fri, 05 Aug 2022 01:09:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220805_109/1659654856239Vca2B_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[08월 05일 06시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1158,13 +1165,6 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[08월 04일 16시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/16625</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/16625</guid>
-            <pubDate>Thu, 04 Aug 2022 08:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[2022/08/05] [뉴스 연구소] 이준석, 루비콘강 건넜다 (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/8249</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/8249</guid>
@@ -1173,7 +1173,7 @@
             <enclosure url="https://audio-phinf.pstatic.net/20220805_36/1659671092994wljdz_JPEG/ef736b6917aba7431692873b91ac4c5081af42ebd5efbcce5132f02819a62ddcc05eb3dc54c28b2e.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[2022/08/05] 강민정 "김건희 'Yuji' 논문 교육부가 감독? 박순애는 더 심각" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <title><![CDATA[[2022/08/05] 강민정 "김건희 'Yuji' 논문? 박순애도 자유롭지 못하다" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/8248</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/8248</guid>
             <pubDate>Fri, 05 Aug 2022 03:41:18 GMT</pubDate>
