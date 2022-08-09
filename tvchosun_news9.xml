@@ -4,9 +4,17 @@
         <title>오디오클립 ─ TV조선 뉴스9</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 13:44:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 14:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8월 9일 (화) TV CHOSUN 뉴스 9]]></title>
+            <link>https://audioclip.naver.com/channels/3108/clips/1123</link>
+            <guid>https://audioclip.naver.com/channels/3108/clips/1123</guid>
+            <pubDate>Tue, 09 Aug 2022 14:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>50분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220809_184/16600544982152hFPs_PNG/23939818e7c14b96c6546958148d1e29.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[8월 8일 (월) TV CHOSUN 뉴스 9]]></title>
             <link>https://audioclip.naver.com/channels/3108/clips/1122</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3108/clips/1119</guid>
             <pubDate>Fri, 05 Aug 2022 14:14:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>51분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220805_219/1659707040501rcyDW_PNG/23939818e7c14b96c6546958148d1e29.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8월 4일 (목) TV CHOSUN 뉴스 9]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3108/clips/1114</guid>
             <pubDate>Sun, 31 Jul 2022 16:15:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>44분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[7월 29일 (금) TV CHOSUN 뉴스 9]]></title>
-            <link>https://audioclip.naver.com/channels/3108/clips/1112</link>
-            <guid>https://audioclip.naver.com/channels/3108/clips/1112</guid>
-            <pubDate>Fri, 29 Jul 2022 16:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
         </item>
     </channel>
 </rss>
