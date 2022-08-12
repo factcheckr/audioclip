@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 04:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 05:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1091,6 +1091,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[08월 12일 14시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/16720</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/16720</guid>
+            <pubDate>Fri, 12 Aug 2022 05:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220812_20/1660281240333COLrk_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[08월 12일 13시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/16719</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/16719</guid>
@@ -1120,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/16716</guid>
             <pubDate>Fri, 12 Aug 2022 00:58:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220812_265/1660259645592Iea10_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[08월 12일 06시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1156,13 +1163,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/16711</guid>
             <pubDate>Thu, 11 Aug 2022 08:16:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[08월 11일 16시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/16710</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/16710</guid>
-            <pubDate>Thu, 11 Aug 2022 08:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2022/08/12] [뉴스 연구소] "비 좀 왔으면" 국힘 망언 논란 (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
