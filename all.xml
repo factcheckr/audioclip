@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 03:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 04:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>70분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[08월 14일 12시] 정오 종합뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/17786</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/17786</guid>
+            <pubDate>Sun, 14 Aug 2022 04:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220814_95/1660446861035ByLIx_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[08월 14일 11시] 11시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/17785</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/17785</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/17782</guid>
             <pubDate>Sat, 13 Aug 2022 23:12:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220814_73/1660428840432RJYji_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[08월 14일 06시] 6시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -591,13 +598,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/17777</guid>
             <pubDate>Sat, 13 Aug 2022 13:23:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[08월 13일 19시] 19시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/17776</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/17776</guid>
-            <pubDate>Sat, 13 Aug 2022 11:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[8월 13일 (토) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
@@ -1091,6 +1091,22 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[08월 14일 13시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/16747</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/16747</guid>
+            <pubDate>Sun, 14 Aug 2022 04:24:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220814_296/1660450485236MeNMM_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[08월 14일 12시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/16746</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/16746</guid>
+            <pubDate>Sun, 14 Aug 2022 04:24:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220814_130/1660446860299EiClt_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[08월 14일 11시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/16745</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/16745</guid>
@@ -1112,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/16743</guid>
             <pubDate>Sun, 14 Aug 2022 01:01:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220814_203/1660434256350muVzh_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[08월 14일 07시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1120,7 +1135,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/16742</guid>
             <pubDate>Sat, 13 Aug 2022 23:14:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220814_279/1660428839810LqfLr_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[08월 14일 06시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1148,20 +1162,6 @@
             <link>https://audioclip.naver.com/channels/1635/clips/16738</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/16738</guid>
             <pubDate>Sat, 13 Aug 2022 12:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[08월 13일 19시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/16737</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/16737</guid>
-            <pubDate>Sat, 13 Aug 2022 11:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[08월 13일 18시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/16736</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/16736</guid>
-            <pubDate>Sat, 13 Aug 2022 11:12:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
         <item>
@@ -1387,6 +1387,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[중역회의 #50] 자본금 2배 날린 일개 직원의 만행 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/6991</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/6991</guid>
+            <pubDate>Sun, 14 Aug 2022 04:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220812_32/1660311083571DHrvl_JPEG/podcast_%C0%CC%B9%CC%C1%F6.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[강성용의 남아시아 인사이드 10화] 방글라데시를 둘러싼 두 세력의 권력 전쟁 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
             <link>https://audioclip.naver.com/channels/6519/clips/6979</link>
             <guid>https://audioclip.naver.com/channels/6519/clips/6979</guid>
@@ -1408,7 +1416,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/6990</guid>
             <pubDate>Sat, 13 Aug 2022 04:22:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220812_278/1660310054750hYYb4_JPEG/podcast_%C0%CC%B9%CC%C1%F6.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김두얼 교수의 사소한 경제사 #9] 우리가 몰랐던 GDP의 진실 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1451,13 +1458,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/6983</guid>
             <pubDate>Fri, 12 Aug 2022 13:39:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>105분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌 이슈체크] 중국, 눈높이는 조정해도 방향성은 변함없다! f.하나증권 김경환 연구위원 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/6988</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/6988</guid>
-            <pubDate>Fri, 12 Aug 2022 13:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
         </item>
     </channel>
 </rss>
