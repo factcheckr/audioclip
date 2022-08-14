@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 01:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 03:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,22 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>70분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[08월 14일 11시] 11시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/17785</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/17785</guid>
+            <pubDate>Sun, 14 Aug 2022 03:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220814_86/1660443265600Lne2l_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[08월 14일 10시] 10시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/17784</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/17784</guid>
+            <pubDate>Sun, 14 Aug 2022 03:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220814_185/16604396506393Sloc_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[08월 14일 09시] 9시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/17783</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/17783</guid>
@@ -547,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/17781</guid>
             <pubDate>Sat, 13 Aug 2022 22:12:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220814_270/1660425254647Iz670_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[08월 14일 00시] 24시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -555,7 +570,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/17780</guid>
             <pubDate>Sat, 13 Aug 2022 16:14:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220814_231/1660403653009wBSCM_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[08월 13일 23시] 23시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -583,20 +597,6 @@
             <link>https://audioclip.naver.com/channels/1847/clips/17776</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/17776</guid>
             <pubDate>Sat, 13 Aug 2022 11:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[08월 13일 18시] 18시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/17775</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/17775</guid>
-            <pubDate>Sat, 13 Aug 2022 10:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[08월 13일 17시] 17시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/17774</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/17774</guid>
-            <pubDate>Sat, 13 Aug 2022 09:12:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
@@ -896,50 +896,50 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[과학 한스푼] 유전자 가위로 돌연변이 제거...고질 유전병 없앤 복제 개 첫 탄생 (오디오클립 ─ YTN 최신 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/197/clips/57721</link>
-            <guid>https://audioclip.naver.com/channels/197/clips/57721</guid>
-            <pubDate>Sat, 13 Aug 2022 21:12:14 GMT</pubDate>
+            <title><![CDATA["약국에 인슐린 주사가 없어요"...냉장유통에 당뇨환자 '발동동' (오디오클립 ─ YTN 최신 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/197/clips/57727</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/57727</guid>
+            <pubDate>Sun, 14 Aug 2022 03:12:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220814_35/1660424615267KIzgE_JPEG/202208140122168087_t.jpg?type=f150_150" length="0" type="image/jpg"/>
+            <enclosure url="https://audio-phinf.pstatic.net/20220814_209/1660445654089nmXQD_JPEG/202208140920467181_t.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['검수완박' 무력화한 시행령...또 사법기관으로? (오디오클립 ─ YTN 최신 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/197/clips/57720</link>
-            <guid>https://audioclip.naver.com/channels/197/clips/57720</guid>
-            <pubDate>Sat, 13 Aug 2022 21:12:14 GMT</pubDate>
+            <title><![CDATA[밀정 논란 경찰국장 정정보도신청...인노회 "합리화" (오디오클립 ─ YTN 최신 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/197/clips/57726</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/57726</guid>
+            <pubDate>Sun, 14 Aug 2022 03:12:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220814_254/16604246151288DlbK_JPEG/202208132219547994_t.jpg?type=f150_150" length="0" type="image/jpg"/>
+            <enclosure url="https://audio-phinf.pstatic.net/20220814_162/1660445653881Jo6S5_JPEG/202208140559359663_t.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이재명, 부·울·경서도 '대세론' 입증...독주 굳히기 (오디오클립 ─ YTN 최신 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/197/clips/57719</link>
-            <guid>https://audioclip.naver.com/channels/197/clips/57719</guid>
-            <pubDate>Sat, 13 Aug 2022 21:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220814_226/1660424615006h5h6A_JPEG/202208140100127779_t.jpg?type=f150_150" length="0" type="image/jpg"/>
+            <title><![CDATA[한때 부러움의 대상 우리사주, 1년 만에 골칫거리로 (오디오클립 ─ YTN 최신 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/197/clips/57725</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/57725</guid>
+            <pubDate>Sun, 14 Aug 2022 03:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220814_296/1660445653767TA4Mm_JPEG/202208140606444157_t.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이준석, 尹 정부와 향후 관계는?...곳곳 충돌 불가피 (오디오클립 ─ YTN 최신 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/197/clips/57718</link>
-            <guid>https://audioclip.naver.com/channels/197/clips/57718</guid>
-            <pubDate>Sat, 13 Aug 2022 21:12:14 GMT</pubDate>
+            <title><![CDATA[北, '여름 금강산' 홍보...금강산 독자 개발 본격화하나? (오디오클립 ─ YTN 최신 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/197/clips/57724</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/57724</guid>
+            <pubDate>Sun, 14 Aug 2022 03:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220814_201/16604456536228l38v_JPEG/202208140525215036_t.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주당 휩쓴 당헌 80조 논란...野 탄압 대책? 李 방탄? (오디오클립 ─ YTN 최신 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/197/clips/57723</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/57723</guid>
+            <pubDate>Sun, 14 Aug 2022 03:12:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220814_5/1660424614911Hdj7g_JPEG/202208132157073341_t.jpg?type=f150_150" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령실 "입장 없다" 여론 주시...취임 100일 맞춰 개편 가시화 (오디오클립 ─ YTN 최신 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/197/clips/57717</link>
-            <guid>https://audioclip.naver.com/channels/197/clips/57717</guid>
-            <pubDate>Sat, 13 Aug 2022 21:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220814_80/1660424614848OfSnP_JPEG/202208140254590428_t.jpg?type=f150_150" length="0" type="image/jpg"/>
+            <enclosure url="https://audio-phinf.pstatic.net/20220814_296/1660445653428WPOKr_JPEG/202208140417490679_t.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헤드라인 (오디오클립 ─ YTN 최신 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/197/clips/57716</link>
-            <guid>https://audioclip.naver.com/channels/197/clips/57716</guid>
-            <pubDate>Sat, 13 Aug 2022 21:12:14 GMT</pubDate>
+            <link>https://audioclip.naver.com/channels/197/clips/57722</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/57722</guid>
+            <pubDate>Sun, 14 Aug 2022 03:12:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
@@ -1091,6 +1091,22 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[08월 14일 11시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/16745</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/16745</guid>
+            <pubDate>Sun, 14 Aug 2022 03:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220814_108/1660443264964PuJHM_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[08월 14일 10시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/16744</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/16744</guid>
+            <pubDate>Sun, 14 Aug 2022 03:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220814_64/1660439650424Cdr3G_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[08월 14일 08시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/16743</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/16743</guid>
@@ -1112,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/16741</guid>
             <pubDate>Sat, 13 Aug 2022 22:13:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220814_49/1660427037663OY7RX_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[08월 13일 22시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1120,7 +1135,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/16740</guid>
             <pubDate>Sat, 13 Aug 2022 13:24:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220813_188/16603964615182Kagu_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[08월 13일 21시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1149,20 +1163,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/16736</guid>
             <pubDate>Sat, 13 Aug 2022 11:12:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[08월 13일 17시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/16735</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/16735</guid>
-            <pubDate>Sat, 13 Aug 2022 08:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[08월 13일 16시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/16734</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/16734</guid>
-            <pubDate>Sat, 13 Aug 2022 08:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2022/08/12] [뉴스 연구소] "비 좀 왔으면" 국힘 망언 논란 (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
