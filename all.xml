@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 13:40:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 14:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -748,6 +748,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>81분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[8월 22일 (월) TV CHOSUN 뉴스 9 (오디오클립 ─ TV조선 뉴스9)]]></title>
+            <link>https://audioclip.naver.com/channels/3108/clips/1136</link>
+            <guid>https://audioclip.naver.com/channels/3108/clips/1136</guid>
+            <pubDate>Mon, 22 Aug 2022 14:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220822_120/1661175838807FflS3_PNG/23939818e7c14b96c6546958148d1e29.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[8월 21일 (일) TV CHOSUN 뉴스9 (오디오클립 ─ TV조선 뉴스9)]]></title>
             <link>https://audioclip.naver.com/channels/3108/clips/1135</link>
             <guid>https://audioclip.naver.com/channels/3108/clips/1135</guid>
@@ -777,7 +785,6 @@
             <guid>https://audioclip.naver.com/channels/3108/clips/1132</guid>
             <pubDate>Thu, 18 Aug 2022 14:14:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220818_58/1660830232465uvITS_PNG/23939818e7c14b96c6546958148d1e29.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8월 17일 (수) TV CHOSUN 뉴스 9 (오디오클립 ─ TV조선 뉴스9)]]></title>
@@ -813,13 +820,6 @@
             <guid>https://audioclip.naver.com/channels/3108/clips/1127</guid>
             <pubDate>Sat, 13 Aug 2022 18:14:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>42분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[8월 12일 (금) TV CHOSUN 뉴스 9 (오디오클립 ─ TV조선 뉴스9)]]></title>
-            <link>https://audioclip.naver.com/channels/3108/clips/1126</link>
-            <guid>https://audioclip.naver.com/channels/3108/clips/1126</guid>
-            <pubDate>Fri, 12 Aug 2022 14:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>51분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[8월 22일 (월) 뉴스7 (오디오클립 ─ MBN 종합뉴스)]]></title>
@@ -1387,6 +1387,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>63분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[Live] 언더스탠딩 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/7087</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/7087</guid>
+            <pubDate>Mon, 22 Aug 2022 14:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>342분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220822_226/1661153666529mgTnH_JPEG/%BF%C0%B5%F0%BF%C0_%BD%E6%B3%D7%C0%CF%BB%E7%C1%F8.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[심층인터뷰] 수주 풍년 조선, 조선기자재 상승 더 기대된다! f. 신영증권 엄경아 연구위원 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
             <link>https://audioclip.naver.com/channels/6519/clips/7085</link>
             <guid>https://audioclip.naver.com/channels/6519/clips/7085</guid>
@@ -1451,13 +1459,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/7076</guid>
             <pubDate>Mon, 22 Aug 2022 01:03:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>117분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[월스트리트 모닝브리핑] 금리, 달러 또 상승, 미국증시 모두 하락_22.08.22_여도은, 박종훈, 이항영 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/7075</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/7075</guid>
-            <pubDate>Mon, 22 Aug 2022 01:03:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>57분]]></content:encoded>
         </item>
     </channel>
 </rss>
