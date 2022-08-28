@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 15:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 16:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[08월 29일 00시] 24시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/17992</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/17992</guid>
+            <pubDate>Sun, 28 Aug 2022 16:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220829_281/1661699640619flJ14_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[08월 28일 23시] 23시 뉴스]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/17991</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/17988</guid>
             <pubDate>Sun, 28 Aug 2022 11:10:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220828_155/1661681655864gw5sh_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[08월 28일 18시] 18시 뉴스]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/17983</guid>
             <pubDate>Sun, 28 Aug 2022 03:53:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[08월 28일 11시] 11시 뉴스]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/17982</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/17982</guid>
-            <pubDate>Sun, 28 Aug 2022 03:53:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
     </channel>
 </rss>
