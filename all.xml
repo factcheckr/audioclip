@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 07:38:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 08:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[09월 06일 17시] 17시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/18100</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/18100</guid>
+            <pubDate>Tue, 06 Sep 2022 08:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220906_18/16624520949028OoPo_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[09월 06일 16시] 16시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/18099</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/18099</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/18096</guid>
             <pubDate>Mon, 05 Sep 2022 13:38:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>57분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220905_182/1662383631385PP8Cf_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[09월 05일 17시] 17시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -591,13 +598,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/18091</guid>
             <pubDate>Sun, 04 Sep 2022 23:12:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[09월 05일 06시] 태풍 힌남노 관련 특집 KBS뉴스광장(R) (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/18090</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/18090</guid>
-            <pubDate>Sun, 04 Sep 2022 23:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>57분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[9월 05일 (월) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
