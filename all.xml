@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 21:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 22:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>78분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[09월 18일 06시] 6시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/18260</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/18260</guid>
+            <pubDate>Sat, 17 Sep 2022 22:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220918_220/1663449238180yQCdf_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[09월 18일 00시] 24시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/18259</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/18259</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/18256</guid>
             <pubDate>Sat, 17 Sep 2022 13:29:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220917_60/1663418671216zqTI9_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[09월 17일 19시] 19시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -591,13 +598,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/18251</guid>
             <pubDate>Sat, 17 Sep 2022 05:37:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[09월 17일 12시] 정오 종합뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/18250</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/18250</guid>
-            <pubDate>Sat, 17 Sep 2022 03:56:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[9월 17일 (토) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
