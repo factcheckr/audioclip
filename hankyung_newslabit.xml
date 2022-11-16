@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/1137</id>
-    <title>오디오클립 ─ 한국경제 뉴스래빗</title>
-    <updated>2022-11-16T16:26:57.218Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ 한국경제 뉴스래빗</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:17:41 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[미니경제] 우유 값 오르자 빵·커피 가격 '도미노 인상'   #밀크플레이션]]></title>
+            <link>https://audioclip.naver.com/channels/1137/clips/829</link>
+            <guid>https://audioclip.naver.com/channels/1137/clips/829</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221111_1/1668147545855hp0iX_JPEG/main_milkflation_copy.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미니경제] 투자, 일단 중국 탈출? #차이나런]]></title>
+            <link>https://audioclip.naver.com/channels/1137/clips/828</link>
+            <guid>https://audioclip.naver.com/channels/1137/clips/828</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221105_124/1667635705368jeyqr_JPEG/main_china_run_copy.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미니경제] 레고랜드 사태에 돈줄 마른 부동산 프로젝트 파이낸싱]]></title>
+            <link>https://audioclip.naver.com/channels/1137/clips/827</link>
+            <guid>https://audioclip.naver.com/channels/1137/clips/827</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221030_241/1667098052583kF4Rq_JPEG/main_PF_copy.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미니경제] 금리, 자고 나면 오른다…오늘 예금 금리 순위는? #뱅보드차트]]></title>
+            <link>https://audioclip.naver.com/channels/1137/clips/826</link>
+            <guid>https://audioclip.naver.com/channels/1137/clips/826</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221021_58/1666341581298HP75j_JPEG/main_bankboardchart_copy.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미니경제] 주식팔아 은행예금으로 #역머니무브]]></title>
+            <link>https://audioclip.naver.com/channels/1137/clips/825</link>
+            <guid>https://audioclip.naver.com/channels/1137/clips/825</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[미니경제] '파업조장' VS '생존권'…국감에서도 공방 #노란봉투법]]></title>
+            <link>https://audioclip.naver.com/channels/1137/clips/824</link>
+            <guid>https://audioclip.naver.com/channels/1137/clips/824</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[미니경제] 국가부도 위험지표#CDS프리미엄]]></title>
+            <link>https://audioclip.naver.com/channels/1137/clips/823</link>
+            <guid>https://audioclip.naver.com/channels/1137/clips/823</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[미니경제] 미국 물가 쇼크에 #울트라스텝 전망까지]]></title>
+            <link>https://audioclip.naver.com/channels/1137/clips/822</link>
+            <guid>https://audioclip.naver.com/channels/1137/clips/822</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[미니경제] "초과근무 이제 그만" MZ 직장인 #조용한사직 돌풍]]></title>
+            <link>https://audioclip.naver.com/channels/1137/clips/821</link>
+            <guid>https://audioclip.naver.com/channels/1137/clips/821</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[미니경제] SNS 범죄 챌린지 표적 된 차 '이것' 없었다 #이모빌라이저]]></title>
+            <link>https://audioclip.naver.com/channels/1137/clips/820</link>
+            <guid>https://audioclip.naver.com/channels/1137/clips/820</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
+        </item>
+    </channel>
+</rss>

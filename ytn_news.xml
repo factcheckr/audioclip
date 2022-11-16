@@ -1,8 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/197</id>
-    <title>오디오클립 ─ YTN 최신 뉴스</title>
-    <updated>2022-11-16T16:26:57.203Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ YTN 최신 뉴스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:17:41 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인구 줄어드는데...국민 절반 "결혼 안 해도 좋아"]]></title>
+            <link>https://audioclip.naver.com/channels/197/clips/59407</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/59407</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221116_109/16685923943365qwoR_JPEG/202211161219008079_t.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트럼프, 2024년 대선 재도전 공식 선언..."미국을 다시 위대하게"]]></title>
+            <link>https://audioclip.naver.com/channels/197/clips/59406</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/59406</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221116_221/1668592394186JRIdR_JPEG/202211161449317234_t.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[특수본, 이상민 장관 본격 수사 검토...용산서 경비과장 조사]]></title>
+            <link>https://audioclip.naver.com/channels/197/clips/59405</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/59405</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221116_56/1668592394072DErCa_JPEG/202211161825285137_t.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수능 D-1...수험생 50만여 명 예비소집]]></title>
+            <link>https://audioclip.naver.com/channels/197/clips/59404</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/59404</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221116_121/1668592393968z91YU_JPEG/202211161647198474_t.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아르테미스 1호 발사 성공...오리온, 달 전이궤도 진입]]></title>
+            <link>https://audioclip.naver.com/channels/197/clips/59403</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/59403</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221116_163/1668592393842nAAcE_JPEG/202211161840264342_t.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헤드라인]]></title>
+            <link>https://audioclip.naver.com/channels/197/clips/59402</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/59402</guid>
+            <pubDate>Wed, 16 Nov 2022 17:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
+        </item>
+    </channel>
+</rss>

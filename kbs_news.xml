@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/1847</id>
-    <title>오디오클립 ─ KBS 뉴스</title>
-    <updated>2022-11-16T16:26:57.190Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ KBS 뉴스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:17:41 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[11월 17일 00시] 24시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/19097</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/19097</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221117_239/1668611629172shE65_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[11월 16일 22시] 22시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/19096</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/19096</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221116_180/1668604433148VhYV0_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[11월 16일 21시] KBS 뉴스 9 (1TV  수중계)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/19095</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/19095</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221116_189/1668602631082e1pxh_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[11월 16일 19시] 저녁 종합뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/19094</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/19094</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221116_19/1668595447864hhcmv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[11월 16일 17시] 17시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/19093</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/19093</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[11월 16일 16시] 16시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/19092</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/19092</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[11월 16일 14시] 뉴스 중계탑]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/19091</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/19091</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[11월 16일 12시] 정오 종합뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/19090</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/19090</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[11월 16일 11시] 11시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/19089</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/19089</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[11월 16일 10시] 10시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/19088</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/19088</guid>
+            <pubDate>Wed, 16 Nov 2022 17:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
