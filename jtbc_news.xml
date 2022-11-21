@@ -4,15 +4,23 @@
         <title>오디오클립 ─ JTBC 뉴스룸</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 13:39:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 14:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 11월 21일 (월) JTBC 뉴스룸]]></title>
+            <link>https://audioclip.naver.com/channels/2946/clips/1497</link>
+            <guid>https://audioclip.naver.com/channels/2946/clips/1497</guid>
+            <pubDate>Mon, 21 Nov 2022 14:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221121_189/1669038226388w3ppU_JPEG/a20963544e5de908f840addfb66290c4.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년 11월 20일 (일) JTBC 뉴스룸]]></title>
             <link>https://audioclip.naver.com/channels/2946/clips/1496</link>
             <guid>https://audioclip.naver.com/channels/2946/clips/1496</guid>
             <pubDate>Sun, 20 Nov 2022 13:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>35분]]></content:encoded>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
             <enclosure url="https://audio-phinf.pstatic.net/20221120_86/1668948235341RyrpG_JPEG/a20963544e5de908f840addfb66290c4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2946/clips/1493</guid>
             <pubDate>Thu, 17 Nov 2022 14:10:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221117_123/1668692635979tOc45_JPEG/a20963544e5de908f840addfb66290c4.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 11월 16일 (수) JTBC 뉴스룸]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2946/clips/1488</guid>
             <pubDate>Wed, 16 Nov 2022 17:13:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 11월 11일 (금) JTBC 뉴스룸]]></title>
-            <link>https://audioclip.naver.com/channels/2946/clips/1487</link>
-            <guid>https://audioclip.naver.com/channels/2946/clips/1487</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>50분]]></content:encoded>
         </item>
     </channel>
 </rss>
