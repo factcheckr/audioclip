@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 채널A 뉴스A</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 14:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 15:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[11월 21일 (월) 뉴스A]]></title>
+            <link>https://audioclip.naver.com/channels/3117/clips/1230</link>
+            <guid>https://audioclip.naver.com/channels/3117/clips/1230</guid>
+            <pubDate>Mon, 21 Nov 2022 15:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221121_114/1669041831731T02mf_PNG/e6b8802c632ba6d1c3181933ed939dbf.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[11월 20 (일) 뉴스A]]></title>
             <link>https://audioclip.naver.com/channels/3117/clips/1229</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3117/clips/1226</guid>
             <pubDate>Thu, 17 Nov 2022 16:16:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221118_127/1668701639362WIxNJ_PNG/e6b8802c632ba6d1c3181933ed939dbf.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[11월 16일 (수) 뉴스A]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3117/clips/1220</guid>
             <pubDate>Wed, 16 Nov 2022 17:15:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[11월 12 (토) 뉴스A]]></title>
-            <link>https://audioclip.naver.com/channels/3117/clips/1221</link>
-            <guid>https://audioclip.naver.com/channels/3117/clips/1221</guid>
-            <pubDate>Wed, 16 Nov 2022 17:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>42분]]></content:encoded>
         </item>
     </channel>
 </rss>
