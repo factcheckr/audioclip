@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 23:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 00:55:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[11월 25일 09시] 9시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/19214</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/19214</guid>
+            <pubDate>Fri, 25 Nov 2022 00:53:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221125_2/1669335255141o1Aoe_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[11월 25일 07시] 뉴스와 화제]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/19213</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/19210</guid>
             <pubDate>Thu, 24 Nov 2022 16:14:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221125_60/1669302831459cvU2U_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[11월 24일 21시] KBS 뉴스 9 (1TV  수중계)]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/1847/clips/19205</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/19205</guid>
             <pubDate>Thu, 24 Nov 2022 06:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[11월 24일 12시] 정오 종합뉴스]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/19204</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/19204</guid>
-            <pubDate>Thu, 24 Nov 2022 04:13:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
         </item>
     </channel>
