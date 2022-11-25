@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 22:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 23:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[11월 26일 07시] 7시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/19226</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/19226</guid>
+            <pubDate>Fri, 25 Nov 2022 23:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221126_243/16694144400332Wmi5_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[11월 26일 06시] KBS뉴스광장(R) (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/19225</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/19225</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/19222</guid>
             <pubDate>Fri, 25 Nov 2022 13:22:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221125_9/1669380238029PViGf_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[11월 25일 19시] 저녁 종합뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -591,13 +598,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/19217</guid>
             <pubDate>Fri, 25 Nov 2022 04:14:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[11월 25일 11시] 11시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/19216</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/19216</guid>
-            <pubDate>Fri, 25 Nov 2022 02:28:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[11월 25일 (금) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
@@ -1091,6 +1091,22 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[11월 26일 07시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/17950</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/17950</guid>
+            <pubDate>Fri, 25 Nov 2022 23:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221126_124/1669416229625q3HWA_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[11월 26일 06시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/17951</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/17951</guid>
+            <pubDate>Fri, 25 Nov 2022 23:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221126_141/1669416230215G0IKk_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[11월 25일 22시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/17947</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/17947</guid>
@@ -1112,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/17949</guid>
             <pubDate>Fri, 25 Nov 2022 13:24:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221125_74/1669382056062aHbpV_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[11월 25일 16시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1120,7 +1135,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/17946</guid>
             <pubDate>Fri, 25 Nov 2022 08:15:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221125_277/1669364030045qj2o7_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[11월 25일 14시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1149,20 +1163,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/17943</guid>
             <pubDate>Fri, 25 Nov 2022 02:29:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[11월 25일 06시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/17941</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/17941</guid>
-            <pubDate>Thu, 24 Nov 2022 22:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[11월 24일 22시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/17939</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/17939</guid>
-            <pubDate>Thu, 24 Nov 2022 14:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2022/11/25] [댓꿀쇼] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1387,6 +1387,22 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[삼프로 상담소 ep.94-1] 고점에 물린 네이버, 일단 팔까요 아니면 버틸까요?  f.강허달림 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/8551</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/8551</guid>
+            <pubDate>Fri, 25 Nov 2022 23:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221125_203/1669386448923a5mtL_JPEG/podcast_%C0%CC%B9%CC%C1%F6.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[신의 경제사 레전드 8] 보호무역주의가 대공황의 원인? ft. 명지대학교 김두얼 교수 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/8518</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/8518</guid>
+            <pubDate>Fri, 25 Nov 2022 23:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>50분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221124_97/16692886606101vkwA_JPEG/podcast_%C0%CC%B9%CC%C1%F6.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[글로벌 개장시황] 폭스콘 사태, 애플 '비상' f. 유에스스탁 박종훈 팀장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
             <link>https://audioclip.naver.com/channels/6519/clips/8550</link>
             <guid>https://audioclip.naver.com/channels/6519/clips/8550</guid>
@@ -1400,7 +1416,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/8549</guid>
             <pubDate>Fri, 25 Nov 2022 14:12:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>97분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221125_174/1669383552594CsXqo_JPEG/KakaoTalk_20221122_163846442.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌 이슈체크] 중국 전기차, 3년째 급등 중... 내년도 가나? f. 찐링 중국주식전문가 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1408,7 +1423,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/8547</guid>
             <pubDate>Fri, 25 Nov 2022 14:12:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221125_171/1669382884804omI8j_JPEG/KakaoTalk_20221122_163846442.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌 마켓브리핑] 금리 상승 멈추면 주가 오를까? f. 미래에셋증권 이상원 선임매니저 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1444,20 +1458,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/8542</guid>
             <pubDate>Fri, 25 Nov 2022 12:23:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>37분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[언더스탠딩] 안전 사고 계속되는 매우 심각한 이유_22.11.25_서울시립대학교 조성일 교수 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/8538</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/8538</guid>
-            <pubDate>Fri, 25 Nov 2022 12:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>75분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[언더스탠딩] 상폐 논란 위믹스, 진실은 어디에?_22.11.25_권순우, 장순원, 어예진 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/8537</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/8537</guid>
-            <pubDate>Fri, 25 Nov 2022 12:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
         </item>
     </channel>
 </rss>
