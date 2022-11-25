@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 03:34:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 04:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -523,6 +523,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[11월 25일 12시] 정오 종합뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/19217</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/19217</guid>
+            <pubDate>Fri, 25 Nov 2022 04:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221125_92/1669347848179s8QRE_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[11월 25일 11시] 11시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/19216</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/19216</guid>
@@ -552,7 +560,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/19213</guid>
             <pubDate>Thu, 24 Nov 2022 23:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221125_18/1669329833145YIkX8_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[11월 25일 06시] KBS뉴스광장(R) (오디오클립 ─ KBS 뉴스)]]></title>
@@ -588,13 +595,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/19208</guid>
             <pubDate>Thu, 24 Nov 2022 11:10:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[11월 24일 17시] 17시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/19207</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/19207</guid>
-            <pubDate>Thu, 24 Nov 2022 08:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[11월 24일 (목) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
