@@ -4,9 +4,17 @@
         <title>오디오클립 ─ MBN 종합뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 11:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 12:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[12월 5일 (월) 뉴스7]]></title>
+            <link>https://audioclip.naver.com/channels/2994/clips/1218</link>
+            <guid>https://audioclip.naver.com/channels/2994/clips/1218</guid>
+            <pubDate>Mon, 05 Dec 2022 12:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221205_56/1670240641655UF7T8_PNG/28e1328785bd3bdc2206ebcb197f765a.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[12월 02일 (금) 뉴스7]]></title>
             <link>https://audioclip.naver.com/channels/2994/clips/1217</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2994/clips/1214</guid>
             <pubDate>Tue, 29 Nov 2022 12:21:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221129_240/1669722244849UCqA7_PNG/28e1328785bd3bdc2206ebcb197f765a.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[11월 28일 (월) 뉴스7]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2994/clips/1209</guid>
             <pubDate>Tue, 22 Nov 2022 12:23:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[11월 21일 (월) 뉴스7]]></title>
-            <link>https://audioclip.naver.com/channels/2994/clips/1208</link>
-            <guid>https://audioclip.naver.com/channels/2994/clips/1208</guid>
-            <pubDate>Mon, 21 Nov 2022 15:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
         </item>
     </channel>
 </rss>
