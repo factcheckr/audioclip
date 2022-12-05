@@ -4,9 +4,25 @@
         <title>오디오클립 ─ CBS뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 00:50:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 02:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12월 05일 11시]]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/18062</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/18062</guid>
+            <pubDate>Mon, 05 Dec 2022 02:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221205_201/1670206440780G0yzM_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[12월 05일 10시]]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/18061</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/18061</guid>
+            <pubDate>Mon, 05 Dec 2022 02:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221205_229/167020467438143ei6_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[12월 05일 06시]]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/18060</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/18058</guid>
             <pubDate>Sun, 04 Dec 2022 13:17:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221204_290/1670157832871zPxfq_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[12월 04일 20시]]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/18057</guid>
             <pubDate>Sun, 04 Dec 2022 12:20:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221204_92/1670154237458FNGpN_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[12월 04일 19시]]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/18053</guid>
             <pubDate>Sun, 04 Dec 2022 08:14:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[12월 04일 14시]]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/18052</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/18052</guid>
-            <pubDate>Sun, 04 Dec 2022 07:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[12월 04일 13시]]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/18051</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/18051</guid>
-            <pubDate>Sun, 04 Dec 2022 04:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
     </channel>
 </rss>
