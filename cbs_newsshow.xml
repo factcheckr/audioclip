@@ -4,9 +4,17 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 00:49:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 02:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2022/12/06] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/8789</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/8789</guid>
+            <pubDate>Tue, 06 Dec 2022 02:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>81분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221206_86/1670289261701vdEY9_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2022/12/06] [뉴스쇼 방송 전체듣기]]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/8788</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/8777</guid>
             <pubDate>Mon, 05 Dec 2022 10:13:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221205_155/1670231639359jIbR2_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022/12/05] [뉴스닥] 한동훈 당대표로 의견일치? "尹 만난 주호영 얘기" vs "윤 스타일 봐~"]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/8782</guid>
             <pubDate>Mon, 05 Dec 2022 10:13:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022/12/02] [놓지마 뉴스]]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/8783</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/8783</guid>
-            <pubDate>Mon, 05 Dec 2022 10:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
