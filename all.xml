@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 11:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 12:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1091,6 +1091,22 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[12월 08일 21시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/18093</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/18093</guid>
+            <pubDate>Thu, 08 Dec 2022 12:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221208_38/1670501624938eQNWU_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[12월 08일 20시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/18094</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/18094</guid>
+            <pubDate>Thu, 08 Dec 2022 12:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221208_125/1670501625104AbM1o_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[12월 08일 16시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/18092</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/18092</guid>
@@ -1112,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/18090</guid>
             <pubDate>Thu, 08 Dec 2022 04:14:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221208_219/16704728261212HlYk_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[12월 08일 11시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1120,7 +1135,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/18089</guid>
             <pubDate>Thu, 08 Dec 2022 02:18:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221208_277/1670465658395btOM5_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[12월 08일 10시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1149,20 +1163,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/18085</guid>
             <pubDate>Wed, 07 Dec 2022 12:19:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[12월 07일 20시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/18084</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/18084</guid>
-            <pubDate>Wed, 07 Dec 2022 12:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[12월 07일 16시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/18083</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/18083</guid>
-            <pubDate>Wed, 07 Dec 2022 08:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2022/12/08] [인터뷰] 교원평가에 'XX 크더라' 본 교사 "수업 시간이 무섭다" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1387,12 +1387,35 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[Live] 클로징벨 라이브 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/8735</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/8735</guid>
-            <pubDate>Thu, 08 Dec 2022 08:15:36 GMT</pubDate>
+            <title><![CDATA[[심층 인터뷰] 바이오, 전망은 좋은데 주가에 반영 안되는 이유! f.현대차증권 엄민용 책임연구원 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/8740</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/8740</guid>
+            <pubDate>Thu, 08 Dec 2022 12:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>49분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221208_283/16704983520306eM7m_JPEG/KakaoTalk_20221122_163846442.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[증시 셔터맨] 마무리 수순 밟는 글로벌 금리 인상.. 침체 or 둔화 확인 필요! f.IBK투자증권 박근형 부장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/8739</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/8739</guid>
+            <pubDate>Thu, 08 Dec 2022 12:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221208_151/1670498317935HmL9Q_JPEG/KakaoTalk_20221122_163846442.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[퇴근길 라이브] 2023 바이오 전망, 바이(buy)인가 빠이(bye)인가?_22.12.08_박근형, 엄민용 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/8738</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/8738</guid>
+            <pubDate>Thu, 08 Dec 2022 12:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>96분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221208_295/1670498238318LxHzV_JPEG/KakaoTalk_20221122_163846442.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[언더스탠딩] 법원은 왜 닥사(DAXA)의 손을 들어줬나_22.12.08_박근모 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/8737</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/8737</guid>
+            <pubDate>Thu, 08 Dec 2022 12:20:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>64분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221208_35/1670462269312jqkKq_JPEG/KakaoTalk_20221122_163846442.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김시덕 박사의 도시야사2 #19] 디지털 트윈으로 도시의 미래를 리허설하다. (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1400,7 +1423,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/8733</guid>
             <pubDate>Thu, 08 Dec 2022 07:12:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221208_224/1670464179470oSd4W_JPEG/podcast_%C0%CC%B9%CC%C1%F6.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘아침 라이브] 고물가 2년, 다시 던지는 3가지 질문과 대답_22.12.08_권순우, 박병창, 김효진, 염승환 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1408,7 +1430,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/8732</guid>
             <pubDate>Thu, 08 Dec 2022 02:18:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>129분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221208_270/1670460287075rdtJD_JPEG/KakaoTalk_20221122_163846442.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[증시 염탐정] 전강후약 전형적 약세장 계속 f. 이베스트투자증권 염승환 이사 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1437,27 +1458,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/8727</guid>
             <pubDate>Thu, 08 Dec 2022 02:18:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스3] 위믹스 상장 폐지, 시총 3800억 허공에...? (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/8726</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/8726</guid>
-            <pubDate>Thu, 08 Dec 2022 02:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[월스트리트 모닝브리핑] 리세션 우려가 갑자기 고조되는 이유_22.12.08_여도은, 장우석, 김석환, 이항영 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/8725</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/8725</guid>
-            <pubDate>Thu, 08 Dec 2022 02:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌 라이브] 제조업의 시대가 돌아오고 있다!_22.12.07_김형선, 이진용, 서병수 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/8724</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/8724</guid>
-            <pubDate>Wed, 07 Dec 2022 14:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>92분]]></content:encoded>
         </item>
     </channel>
 </rss>
