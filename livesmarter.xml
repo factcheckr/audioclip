@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/310</id>
-    <title>오디오클립 ─ 듣똑라</title>
-    <updated>2022-12-10T06:18:35.900Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ 듣똑라</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 10 Dec 2022 07:11:39 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지구가 닭의 행성이라고? 인류세가 뭐길래 (f. 허정림교수)]]></title>
+            <link>https://audioclip.naver.com/channels/310/clips/956</link>
+            <guid>https://audioclip.naver.com/channels/310/clips/956</guid>
+            <pubDate>Sat, 10 Dec 2022 07:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221207_85/1670403618584PkiLf_PNG/%BF%C0%B5%F0%BF%C0_%C5%AC%B8%B3_Episode.123.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['총기 난사 세대'가 금뱃지단 사연]]></title>
+            <link>https://audioclip.naver.com/channels/310/clips/954</link>
+            <guid>https://audioclip.naver.com/channels/310/clips/954</guid>
+            <pubDate>Sat, 10 Dec 2022 07:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221205_164/1670229091414OnsVr_PNG/%BF%C0%B5%F0%BF%C0_%C5%AC%B8%B3_Episode.122.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[미세먼지로 시작했는데 기후변화까지 갔습니다]]></title>
+            <link>https://audioclip.naver.com/channels/310/clips/953</link>
+            <guid>https://audioclip.naver.com/channels/310/clips/953</guid>
+            <pubDate>Sat, 10 Dec 2022 07:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221130_72/1669770091192MeJRu_PNG/%BF%C0%B5%F0%BF%C0_%C5%AC%B8%B3_Episode.121.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[영국 총리가 대처 '손민수' 한 이유]]></title>
+            <link>https://audioclip.naver.com/channels/310/clips/952</link>
+            <guid>https://audioclip.naver.com/channels/310/clips/952</guid>
+            <pubDate>Sat, 10 Dec 2022 07:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221129_243/1669691867178K47XQ_PNG/%BF%C0%B5%F0%BF%C0_%C5%AC%B8%B3_Episode.120_%281%29.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[우리나라 첫 달탐사선 다누리가 지름길을 택하지 않은 이유 (f.황정아 박사)]]></title>
+            <link>https://audioclip.naver.com/channels/310/clips/951</link>
+            <guid>https://audioclip.naver.com/channels/310/clips/951</guid>
+            <pubDate>Sat, 10 Dec 2022 07:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[지금은 ONLY 클라우드 시대!(f.네이버클라우드 개발자, 기획자)]]></title>
+            <link>https://audioclip.naver.com/channels/310/clips/950</link>
+            <guid>https://audioclip.naver.com/channels/310/clips/950</guid>
+            <pubDate>Sat, 10 Dec 2022 07:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[해고, 사칭, 혐오표현..트위터에선 다 가능하다고?]]></title>
+            <link>https://audioclip.naver.com/channels/310/clips/949</link>
+            <guid>https://audioclip.naver.com/channels/310/clips/949</guid>
+            <pubDate>Sat, 10 Dec 2022 07:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어디선가 본 사고, 일어나고 있는 사고]]></title>
+            <link>https://audioclip.naver.com/channels/310/clips/948</link>
+            <guid>https://audioclip.naver.com/channels/310/clips/948</guid>
+            <pubDate>Sat, 10 Dec 2022 07:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[경력 채용]듣똑라 콘텐트 마케터, 유료콘텐트 기획자를 찾습니다!]]></title>
+            <link>https://audioclip.naver.com/channels/310/clips/947</link>
+            <guid>https://audioclip.naver.com/channels/310/clips/947</guid>
+            <pubDate>Sat, 10 Dec 2022 07:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이름값 못한 '빅 테크'(f.3분기 실적)]]></title>
+            <link>https://audioclip.naver.com/channels/310/clips/946</link>
+            <guid>https://audioclip.naver.com/channels/310/clips/946</guid>
+            <pubDate>Sat, 10 Dec 2022 07:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
