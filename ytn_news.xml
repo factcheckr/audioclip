@@ -1,8 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/197</id>
-    <title>오디오클립 ─ YTN 최신 뉴스</title>
-    <updated>2022-12-21T02:09:45.823Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ YTN 최신 뉴스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 21 Dec 2022 03:13:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['가스 가격 상한' 직후 러시아-유럽 잇는 천연가스관 폭발]]></title>
+            <link>https://audioclip.naver.com/channels/197/clips/60025</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/60025</guid>
+            <pubDate>Wed, 21 Dec 2022 03:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221221_126/1671591254852HKfUi_JPEG/202212210529560300_t.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 "北 ICBM 정상각도 발사 엄중한 긴장 고조행위"]]></title>
+            <link>https://audioclip.naver.com/channels/197/clips/60024</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/60024</guid>
+            <pubDate>Wed, 21 Dec 2022 03:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221221_272/16715912547331mIVs_JPEG/202212211020312330_t.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전세보증금 사고 최고치...올해 열 달 동안 8천억 피해]]></title>
+            <link>https://audioclip.naver.com/channels/197/clips/60023</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/60023</guid>
+            <pubDate>Wed, 21 Dec 2022 03:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221221_196/1671591254475zVdMm_JPEG/202212210515324305_t.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 김광동 진실화해위원장, 4·19 가치도 부정..."민주주의 요구 없었다...밥 달란 것"]]></title>
+            <link>https://audioclip.naver.com/channels/197/clips/60022</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/60022</guid>
+            <pubDate>Wed, 21 Dec 2022 03:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221221_237/1671591254346lHtYc_JPEG/202212210511572357_t.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이태원 국조특위 첫 현장조사...여야 합동 진행]]></title>
+            <link>https://audioclip.naver.com/channels/197/clips/60021</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/60021</guid>
+            <pubDate>Wed, 21 Dec 2022 03:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221221_152/1671591254235dNLlU_JPEG/202212211000003898_t.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헤드라인]]></title>
+            <link>https://audioclip.naver.com/channels/197/clips/60020</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/60020</guid>
+            <pubDate>Wed, 21 Dec 2022 03:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
