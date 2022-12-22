@@ -4,7 +4,7 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 02:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 03:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,13 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2022/12/22] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/8869</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/8869</guid>
+            <pubDate>Thu, 22 Dec 2022 03:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>81분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2022/12/21] [토론] 김원재 “남자만 숙직? 얌체같아” vs 최미진 “신체적 차이, 고려해야”]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/8857</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/8857</guid>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/8860</guid>
             <pubDate>Wed, 21 Dec 2022 03:13:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022/12/21] [뉴스쇼 방송 전체듣기]]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/8861</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/8861</guid>
-            <pubDate>Wed, 21 Dec 2022 03:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>101분]]></content:encoded>
         </item>
     </channel>
 </rss>
