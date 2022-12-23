@@ -4,9 +4,17 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 23:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 00:48:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2022/12/23] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/8870</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/8870</guid>
+            <pubDate>Fri, 23 Dec 2022 00:47:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>80분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221223_27/16717544497505MRFM_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2022/12/22] [월간] 유인태 "모범생 한덕수 자꾸 구설 올라.. 이제 늙었나봐"]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/8864</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/8867</guid>
             <pubDate>Thu, 22 Dec 2022 02:10:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221222_96/1671673464550OX80a_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022/12/22] 월패드 해킹범 잡은 경찰 "TV도 나온 전문가, 우리도 깜짝"]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/8859</guid>
             <pubDate>Wed, 21 Dec 2022 03:13:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022/12/21] 박주민 “文 감사가 ‘접시 위 광어’? 산채로 회뜬다니 끔찍해”]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/8860</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/8860</guid>
-            <pubDate>Wed, 21 Dec 2022 03:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
         </item>
     </channel>
 </rss>
