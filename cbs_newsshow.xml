@@ -4,9 +4,17 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 23:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 00:49:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2022/12/30] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/8896</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/8896</guid>
+            <pubDate>Fri, 30 Dec 2022 00:49:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>78분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221230_190/1672359229100Laqke_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2022/12/28] [뉴스쇼 방송 전체듣기]]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/8890</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/8893</guid>
             <pubDate>Wed, 28 Dec 2022 02:09:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221228_81/1672191832871RxHyR_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022/12/28] 이수정 "50대 여친에 기생한 살인범.. 시신 유기 장소가 열쇠"]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/8888</guid>
             <pubDate>Tue, 27 Dec 2022 02:08:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022/12/27] [뉴스 연구소] 北 무인기에 헬기 사격? “탱크로 쥐 잡는 꼴!”]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/8884</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/8884</guid>
-            <pubDate>Tue, 27 Dec 2022 02:08:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
         </item>
     </channel>
 </rss>

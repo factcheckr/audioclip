@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 23:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 00:49:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[12월 30일 09시] 9시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/19710</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/19710</guid>
+            <pubDate>Fri, 30 Dec 2022 00:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221230_75/1672359307365NgSTP_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[12월 30일 07시] 뉴스와 화제 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/19709</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/19709</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/19706</guid>
             <pubDate>Thu, 29 Dec 2022 16:13:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221230_181/1672326850544icDM4_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[12월 29일 22시] 22시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -591,13 +598,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/19701</guid>
             <pubDate>Thu, 29 Dec 2022 08:13:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[12월 29일 14시] 뉴스 중계탑 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/19700</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/19700</guid>
-            <pubDate>Thu, 29 Dec 2022 06:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[12월 29일 (목) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
@@ -1091,6 +1091,22 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[12월 30일 07시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/18333</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/18333</guid>
+            <pubDate>Fri, 30 Dec 2022 00:48:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221230_183/1672355614077SDCTF_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[12월 30일 06시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/18334</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/18334</guid>
+            <pubDate>Fri, 30 Dec 2022 00:48:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221230_126/1672355614564wqDXS_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[12월 29일 22시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/18332</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/18332</guid>
@@ -1112,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/18331</guid>
             <pubDate>Thu, 29 Dec 2022 13:16:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221229_233/1672316064584Xibi3_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[12월 29일 16시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1120,7 +1135,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/18329</guid>
             <pubDate>Thu, 29 Dec 2022 11:10:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221229_12/1672308872734BtpGh_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[12월 29일 14시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1151,18 +1165,12 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[12월 29일 07시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/18324</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/18324</guid>
-            <pubDate>Wed, 28 Dec 2022 23:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[12월 29일 06시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/18323</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/18323</guid>
-            <pubDate>Wed, 28 Dec 2022 23:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <title><![CDATA[[2022/12/30] [뉴스쇼 방송 전체듣기] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/8896</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/8896</guid>
+            <pubDate>Fri, 30 Dec 2022 00:49:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>78분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221230_190/1672359229100Laqke_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022/12/28] [뉴스쇼 방송 전체듣기] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1194,7 +1202,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/8893</guid>
             <pubDate>Wed, 28 Dec 2022 02:09:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221228_81/1672191832871RxHyR_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022/12/28] 이수정 "50대 여친에 기생한 살인범.. 시신 유기 장소가 열쇠" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1230,13 +1237,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/8888</guid>
             <pubDate>Tue, 27 Dec 2022 02:08:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2022/12/27] [뉴스 연구소] 北 무인기에 헬기 사격? “탱크로 쥐 잡는 꼴!” (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/8884</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/8884</guid>
-            <pubDate>Tue, 27 Dec 2022 02:08:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 중간선거 분석 (오디오클립 ─ 아메리카노)]]></title>
@@ -1387,6 +1387,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[몰아보기] 강성용의 남아시아 인사이드 (인도) 11~15화 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/9072</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/9072</guid>
+            <pubDate>Fri, 30 Dec 2022 00:49:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>195분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221229_207/1672304786166SBTn4_JPEG/KakaoTalk_20201228_184324933_01.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본이 전쟁할 수 있는 나라가 됐다 [신과대화: 조성렬 전 주오사카 총영사] (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
             <link>https://audioclip.naver.com/channels/6519/clips/9070</link>
             <guid>https://audioclip.naver.com/channels/6519/clips/9070</guid>
@@ -1408,7 +1416,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/9086</guid>
             <pubDate>Thu, 29 Dec 2022 14:11:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>91분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221229_39/1672321463867nD1LS_JPEG/KakaoTalk_20221122_163846442.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌 이슈체크] 1월~12월 돌아볼수록 눈물만 나는 한 해 f. 정광우 前 펀드매니저 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1451,13 +1458,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/9074</guid>
             <pubDate>Thu, 29 Dec 2022 13:16:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>45분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[언더스탠딩] 비상경영 포스코, 현금흐름 나빠졌다?_22.12.29_김수헌 코리아모니터 편집장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/9073</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/9073</guid>
-            <pubDate>Thu, 29 Dec 2022 13:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
         </item>
     </channel>
 </rss>
