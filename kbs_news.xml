@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 13:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 14:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[01월 01일 22시] 22시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/19745</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/19745</guid>
+            <pubDate>Sun, 01 Jan 2023 14:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230101_5/1672579034097ec0zw_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[01월 01일 21시] KBS 뉴스 9 (1TV  수중계)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/19744</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/19741</guid>
             <pubDate>Sun, 01 Jan 2023 09:10:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230101_39/1672561055997Sbcfp_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[01월 01일 15시] 15시 뉴스]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/1847/clips/19736</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/19736</guid>
             <pubDate>Sun, 01 Jan 2023 00:55:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[01월 01일 07시] 7시 뉴스]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/19735</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/19735</guid>
-            <pubDate>Sat, 31 Dec 2022 23:09:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
     </channel>
