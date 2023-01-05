@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 00:52:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 02:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[01월 05일 10시] 10시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/19794</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/19794</guid>
+            <pubDate>Thu, 05 Jan 2023 02:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230105_245/167288147404674NhP_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[01월 05일 09시] 9시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/19793</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/19793</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/19790</guid>
             <pubDate>Wed, 04 Jan 2023 21:10:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230105_293/1672864829306xOnfh_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[01월 05일 00시] 24시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -590,13 +597,6 @@
             <link>https://audioclip.naver.com/channels/1847/clips/19785</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/19785</guid>
             <pubDate>Wed, 04 Jan 2023 09:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[01월 04일 16시] 16시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/19784</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/19784</guid>
-            <pubDate>Wed, 04 Jan 2023 08:14:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
@@ -1091,6 +1091,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[01월 05일 10시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/18405</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/18405</guid>
+            <pubDate>Thu, 05 Jan 2023 02:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230105_262/1672881473777p9Hl5_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[01월 05일 07시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/18403</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/18403</guid>
@@ -1120,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/18401</guid>
             <pubDate>Wed, 04 Jan 2023 13:19:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230104_3/1672835056853kM7oS_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[1월 4일 20시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1158,11 +1165,43 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[1월 4일 10시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/18394</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/18394</guid>
-            <pubDate>Wed, 04 Jan 2023 02:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <title><![CDATA[[2023/01/05] [뉴스쇼 방송 전체듣기] "6억명 확진된 중국, 춘절 연휴에 해외여행?.. 마스크 해제 가능할까?" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/8921</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/8921</guid>
+            <pubDate>Thu, 05 Jan 2023 02:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230105_218/1672883245968Wz3nS_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2023/01/05] [놓지마 뉴스] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/8922</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/8922</guid>
+            <pubDate>Thu, 05 Jan 2023 02:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230105_194/1672883248304uRHo0_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2023/01/05] [월간] 하태경 "北무인기에 뚫린 용산 .. '안 뚫렸다'던 군 문책 필요" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/8923</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/8923</guid>
+            <pubDate>Thu, 05 Jan 2023 02:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230105_103/1672883250167pamCo_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2023/01/05] [뉴스 연구소] 軍 이래도 되나? "용산, 뚫렸어요" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/8924</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/8924</guid>
+            <pubDate>Thu, 05 Jan 2023 02:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230105_281/16728832520792SCYX_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2023/01/05] [뉴스쇼 방송 전체듣기] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/8925</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/8925</guid>
+            <pubDate>Thu, 05 Jan 2023 02:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>84분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2023/01/04] [뉴스 연구소] 바이든의 "NO" ‘핵무장론’에 답? (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1170,7 +1209,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/8915</guid>
             <pubDate>Wed, 04 Jan 2023 02:14:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230104_218/1672796859089238HG_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2023/01/04] [윤태곤의 판] "권성동 출마의 미스터리, ‘찐 윤핵관’은 누구?" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1178,7 +1216,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/8916</guid>
             <pubDate>Wed, 04 Jan 2023 02:14:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230104_120/1672796861128yxnqz_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2023/01/04] 원희룡 "당대표 차출? 1초도 신경 쓸 여력 없어" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1186,7 +1223,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/8917</guid>
             <pubDate>Wed, 04 Jan 2023 02:14:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230104_143/1672796863096JITGF_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2023/01/04] 이수정 "이기영, 추가 살인 안했다? 아직은 못 믿겠다" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1194,7 +1230,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/8918</guid>
             <pubDate>Wed, 04 Jan 2023 02:14:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230104_268/1672796865465pMD6W_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2023/01/04] 박홍근 "국정조사, 열흘 더... 이상민 안 물러나면 탄핵" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1202,41 +1237,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/8919</guid>
             <pubDate>Wed, 04 Jan 2023 02:14:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2023/01/04] [뉴스쇼 방송 전체듣기] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/8920</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/8920</guid>
-            <pubDate>Wed, 04 Jan 2023 03:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>84분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2023/01/03] [댓꿀쇼] 중대선거구제 진짜 가능할까? | 국민의힘 전당대회: 유승민·나경원 출마할까? (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/8914</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/8914</guid>
-            <pubDate>Tue, 03 Jan 2023 03:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>82분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2023/01/03] [놓지마 뉴스] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/8910</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/8910</guid>
-            <pubDate>Tue, 03 Jan 2023 02:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2023/01/03] [돌쇠토론] 尹은 왜 '중대선거구제'를?  “중요한건 여당” vs "새판 짜기 신호탄” (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/8911</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/8911</guid>
-            <pubDate>Tue, 03 Jan 2023 02:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2023/01/03] [인터뷰] 中 비밀경찰서 폭로단체 "중식당이 왜 영사업무를?” (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/8912</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/8912</guid>
-            <pubDate>Tue, 03 Jan 2023 02:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 중간선거 분석 (오디오클립 ─ 아메리카노)]]></title>
@@ -1387,12 +1387,20 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[Live] 월스트리트 모닝브리핑 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/9154</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/9154</guid>
-            <pubDate>Thu, 05 Jan 2023 00:52:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>185분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230104_169/1672839570060Du8xa_JPEG/KakaoTalk_20221122_163846442.jpg?type=f150_150" length="0" type="image/jpg"/>
+            <title><![CDATA[[조영남의 중국통 4화] 중국 공산당은 무너지지 않는다 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/9118</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/9118</guid>
+            <pubDate>Thu, 05 Jan 2023 02:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230103_101/1672719984457khWPU_JPEG/podcast_%C0%CC%B9%CC%C1%F6.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[증시 염탐정] 다시 주식할 결심? 삼전, 네카오 연일 상승! f.이베스트투자증권 염승환 이사 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/9155</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/9155</guid>
+            <pubDate>Thu, 05 Jan 2023 02:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230105_217/1672879701102O1o0K_JPEG/KakaoTalk_20221122_163846442.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[마켓인사이드] 코스피 8주 연속 하락, 이번 주에 멈출 수 있을까? f. 교보증권 박병창 이사 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1408,7 +1416,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/9152</guid>
             <pubDate>Thu, 05 Jan 2023 00:52:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230105_268/1672876514557Ymvj3_JPEG/KakaoTalk_20221122_163846442.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[뉴스3+] 중국에 밀린 LG엔솔, 앞으로의 미래는? f. 권순우 기자 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1416,7 +1423,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/9151</guid>
             <pubDate>Thu, 05 Jan 2023 00:52:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230105_99/1672876444691ctSaq_JPEG/KakaoTalk_20221122_163846442.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[월스트리트 모닝브리핑] 엇갈린 경제지표, 뉴욕증시 모처럼 반등_23.01.05_이지환, 이항영, 장우석, 여도은 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1452,13 +1458,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/9146</guid>
             <pubDate>Wed, 04 Jan 2023 14:13:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌 라이브] 글로벌 부동산 투자, 앵글을 바꾸면 신세계가 열린다!_23.01.04_김형선, 이진용, 이광수 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/9145</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/9145</guid>
-            <pubDate>Wed, 04 Jan 2023 14:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>95분]]></content:encoded>
         </item>
     </channel>
 </rss>
