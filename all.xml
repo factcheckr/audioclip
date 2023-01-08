@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 05:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 06:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -523,6 +523,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[01월 08일 14시] 14시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/19839</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/19839</guid>
+            <pubDate>Sun, 08 Jan 2023 06:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230108_198/1673155062024mUf46_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[01월 08일 12시] 정오 종합뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/19838</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/19838</guid>
@@ -552,7 +560,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/19835</guid>
             <pubDate>Sun, 08 Jan 2023 00:52:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230108_195/16731370467217BeHb_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[01월 08일 07시] 7시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -588,13 +595,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/19830</guid>
             <pubDate>Sat, 07 Jan 2023 14:09:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[01월 07일 21시] KBS 뉴스 9 (1TV  수중계) (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/19829</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/19829</guid>
-            <pubDate>Sat, 07 Jan 2023 13:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[01월 07 (토) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
