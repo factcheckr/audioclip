@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 04:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 05:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1087,6 +1087,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[1월 9일 13시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/18457</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/18457</guid>
+            <pubDate>Mon, 09 Jan 2023 05:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230109_1/1673237897934aLA61_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[1월 9일 11시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/18456</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/18456</guid>
@@ -1116,7 +1124,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/18453</guid>
             <pubDate>Sun, 08 Jan 2023 23:11:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230109_3/1673216236455HFBFW_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[01월 08일 22시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1152,13 +1159,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/18449</guid>
             <pubDate>Sun, 08 Jan 2023 12:18:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[01월 08일 18시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/18450</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/18450</guid>
-            <pubDate>Sun, 08 Jan 2023 12:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2023/01/09] [뉴스닥] 김근식-정기남 "고? 스톱? 나경원의 선택은?" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
