@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 02:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 03:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[01월 11일 11시] 11시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/19881</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/19881</guid>
+            <pubDate>Wed, 11 Jan 2023 03:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230111_225/1673403541100hz2ji_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[01월 11일 10시] 10시 뉴스]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/19880</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/19877</guid>
             <pubDate>Tue, 10 Jan 2023 22:11:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230111_298/1673387230153mOdp2_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[01월 11일 05시] 5시 뉴스]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/19872</guid>
             <pubDate>Tue, 10 Jan 2023 12:19:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[01월 10일 17시] 17시 뉴스]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/19871</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/19871</guid>
-            <pubDate>Tue, 10 Jan 2023 09:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
     </channel>
 </rss>
