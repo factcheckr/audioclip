@@ -4,7 +4,7 @@
         <title>오디오클립 ─ 채널A 뉴스 TOP 10</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 16:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 17:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 19 Jan 2023 20:12:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>85분]]></content:encoded>
             <enclosure url="https://audio-phinf.pstatic.net/20230120_36/16741466571105aRov_PNG/256f786be70a33a5c9cec789390d82c1.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[1월 20일 (금) 뉴스 TOP 10]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/903</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/903</guid>
+            <pubDate>Fri, 20 Jan 2023 17:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>82분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230121_260/16742313974354Je6e_PNG/256f786be70a33a5c9cec789390d82c1.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[1월 18일 (수) 뉴스 TOP 10]]></title>
@@ -29,7 +37,6 @@
             <guid>https://audioclip.naver.com/channels/3118/clips/900</guid>
             <pubDate>Tue, 17 Jan 2023 14:10:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>85분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230117_239/1673963289858V4VqX_PNG/256f786be70a33a5c9cec789390d82c1.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[1월 16일 (월) 뉴스 TOP 10]]></title>
@@ -71,13 +78,6 @@
             <link>https://audioclip.naver.com/channels/3118/clips/894</link>
             <guid>https://audioclip.naver.com/channels/3118/clips/894</guid>
             <pubDate>Mon, 09 Jan 2023 12:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>85분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1월 6일 (금) 뉴스 TOP 10]]></title>
-            <link>https://audioclip.naver.com/channels/3118/clips/893</link>
-            <guid>https://audioclip.naver.com/channels/3118/clips/893</guid>
-            <pubDate>Fri, 06 Jan 2023 15:20:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>85분]]></content:encoded>
         </item>
     </channel>
