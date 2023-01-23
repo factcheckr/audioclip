@@ -4,9 +4,25 @@
         <title>오디오클립 ─ KBS 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Jan 2023 12:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 13:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[01월 23일 22시] 22시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/20059</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/20059</guid>
+            <pubDate>Mon, 23 Jan 2023 13:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230123_146/1674479624552XUSk2_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[01월 23일 21시] KBS 뉴스 9 (1TV  수중계)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/20058</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/20058</guid>
+            <pubDate>Mon, 23 Jan 2023 13:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230123_2/16744778880293dg3G_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[01월 23일 19시] 저녁 종합뉴스]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/20057</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/20055</guid>
             <pubDate>Mon, 23 Jan 2023 08:14:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230123_299/1674458020076BVhAB_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[01월 23일 14시] 1R 14시뉴스]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/20054</guid>
             <pubDate>Mon, 23 Jan 2023 06:13:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230123_230/1674450996989ycVoi_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[01월 23일 12시] 정오 종합뉴스]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/20050</guid>
             <pubDate>Mon, 23 Jan 2023 00:47:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[01월 23일 07시] 1R 7시뉴스]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/20049</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/20049</guid>
-            <pubDate>Sun, 22 Jan 2023 23:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[01월 23일 06시] 1R 6시뉴스]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/20048</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/20048</guid>
-            <pubDate>Sun, 22 Jan 2023 22:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
 </rss>
