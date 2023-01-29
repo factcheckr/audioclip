@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Jan 2023 05:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 06:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -519,6 +519,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[01월 29일 14시] 14시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/20138</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/20138</guid>
+            <pubDate>Sun, 29 Jan 2023 06:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230129_171/1674969221457G18lV_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[01월 29일 12시] 정오 종합뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/20137</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/20137</guid>
@@ -540,7 +548,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/20135</guid>
             <pubDate>Sun, 29 Jan 2023 02:19:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230129_174/1674954815365lIVVR_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[01월 29일 09시] 9시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -583,13 +590,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/20129</guid>
             <pubDate>Sat, 28 Jan 2023 14:09:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[01월 28일 21시] KBS 뉴스 9 (1TV  수중계) (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/20128</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/20128</guid>
-            <pubDate>Sat, 28 Jan 2023 13:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1월 27일 (금) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
@@ -1075,12 +1075,35 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[01월 29일 14시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/18684</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/18684</guid>
+            <pubDate>Sun, 29 Jan 2023 06:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230129_16/1674971024679QGo00_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[01월 29일 13시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/18682</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/18682</guid>
+            <pubDate>Sun, 29 Jan 2023 06:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230129_98/16749692207709qsYy_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[01월 29일 12시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/18683</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/18683</guid>
+            <pubDate>Sun, 29 Jan 2023 06:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230129_14/16749692210523Ujmi_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[01월 29일 11시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/18681</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/18681</guid>
             <pubDate>Sun, 29 Jan 2023 02:20:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230129_57/1674958424521jswT2_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[01월 29일 10시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1088,7 +1111,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/18677</guid>
             <pubDate>Sun, 29 Jan 2023 02:20:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230129_100/1674954814490V0PpE_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[01월 29일 08시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1096,7 +1118,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/18678</guid>
             <pubDate>Sun, 29 Jan 2023 02:20:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230129_133/1674954814774GJ5Im_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[01월 29일 07시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1125,27 +1146,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/18676</guid>
             <pubDate>Sat, 28 Jan 2023 14:10:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[01월 28일 20시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/18673</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/18673</guid>
-            <pubDate>Sat, 28 Jan 2023 12:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[01월 28일 19시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/18674</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/18674</guid>
-            <pubDate>Sat, 28 Jan 2023 12:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[01월 28일 18시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/18672</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/18672</guid>
-            <pubDate>Sat, 28 Jan 2023 11:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2023/01/27] [댓꿀쇼] MBTI 검사 초등학생은 못하게 해야 한다? 해도 된다? | 재벌 3세의 대마 카르텔 | OTT 계정공유 앞으로는 불법?! (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
