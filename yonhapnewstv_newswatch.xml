@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 연합뉴스TV 뉴스워치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 11:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 12:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2월 3일 (금) 뉴스워치]]></title>
+            <link>https://audioclip.naver.com/channels/3089/clips/724</link>
+            <guid>https://audioclip.naver.com/channels/3089/clips/724</guid>
+            <pubDate>Fri, 03 Feb 2023 12:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230203_218/1675422867696y4YFN_PNG/79caef51776caaaf77a3388373f0e8cd.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2월 2일 (목) 뉴스워치]]></title>
             <link>https://audioclip.naver.com/channels/3089/clips/723</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3089/clips/720</guid>
             <pubDate>Mon, 30 Jan 2023 17:11:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230131_24/1675097070749sIwn5_PNG/79caef51776caaaf77a3388373f0e8cd.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[1월 27일 (금) 뉴스워치]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/3089/clips/716</link>
             <guid>https://audioclip.naver.com/channels/3089/clips/716</guid>
             <pubDate>Fri, 20 Jan 2023 17:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1월 18일 (수) 뉴스워치]]></title>
-            <link>https://audioclip.naver.com/channels/3089/clips/714</link>
-            <guid>https://audioclip.naver.com/channels/3089/clips/714</guid>
-            <pubDate>Wed, 18 Jan 2023 15:12:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
         </item>
     </channel>
