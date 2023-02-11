@@ -4,7 +4,7 @@
         <title>오디오클립 ─ TV조선 뉴스9</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Feb 2023 18:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 19:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 10 Feb 2023 18:14:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
             <enclosure url="https://audio-phinf.pstatic.net/20230211_142/1676049254370wlykM_PNG/23939818e7c14b96c6546958148d1e29.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[02월 11 (토) TV CHOSUN 뉴스9]]></title>
+            <link>https://audioclip.naver.com/channels/3108/clips/1304</link>
+            <guid>https://audioclip.naver.com/channels/3108/clips/1304</guid>
+            <pubDate>Sat, 11 Feb 2023 19:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>44분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230212_100/1676139235405u2PVo_PNG/23939818e7c14b96c6546958148d1e29.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2월 8일 (수) TV CHOSUN 뉴스9]]></title>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3108/clips/1300</guid>
             <pubDate>Mon, 06 Feb 2023 18:14:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>51분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230207_46/1675700051107SoUdi_PNG/23939818e7c14b96c6546958148d1e29.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[02월 05 (일) TV CHOSUN 뉴스9]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3108/clips/1295</guid>
             <pubDate>Wed, 01 Feb 2023 16:14:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>51분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1월 31일 (화) TV CHOSUN 뉴스9]]></title>
-            <link>https://audioclip.naver.com/channels/3108/clips/1294</link>
-            <guid>https://audioclip.naver.com/channels/3108/clips/1294</guid>
-            <pubDate>Tue, 31 Jan 2023 17:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
         </item>
     </channel>
 </rss>
