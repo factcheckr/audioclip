@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Feb 2023 06:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 07:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[02월 12일 15시] 15시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/20339</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/20339</guid>
+            <pubDate>Sun, 12 Feb 2023 07:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230212_88/1676182420934dyFfj_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[02월 12일 14시] 14시 뉴스]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/20338</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/20335</guid>
             <pubDate>Sun, 12 Feb 2023 02:21:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230212_91/1676164451078g9kRu_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[02월 12일 09시] 9시 뉴스]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/1847/clips/20330</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/20330</guid>
             <pubDate>Sat, 11 Feb 2023 15:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[02월 11일 22시] 22시 뉴스]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/20329</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/20329</guid>
-            <pubDate>Sat, 11 Feb 2023 13:15:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
     </channel>
