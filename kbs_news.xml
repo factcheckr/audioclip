@@ -4,9 +4,25 @@
         <title>오디오클립 ─ KBS 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 22:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 23:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[02월 19일 07시] 7시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/20431</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/20431</guid>
+            <pubDate>Sat, 18 Feb 2023 23:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230219_286/1676759151500qxUdy_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[02월 19일 06시] 6시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/20430</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/20430</guid>
+            <pubDate>Sat, 18 Feb 2023 23:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230219_125/1676756429693zDkQ1_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[02월 19일 00시] 24시 뉴스]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/20429</link>
@@ -29,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/20427</guid>
             <pubDate>Sat, 18 Feb 2023 15:11:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230218_81/16767282252340sdEj_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[02월 18일 21시] KBS 뉴스 9 (1TV  수중계)]]></title>
@@ -37,7 +52,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/20426</guid>
             <pubDate>Sat, 18 Feb 2023 14:09:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230218_18/16767245921218ueGs_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[02월 18일 19시] 19시 뉴스]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/20422</guid>
             <pubDate>Sat, 18 Feb 2023 08:13:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[02월 18일 14시] 14시 뉴스]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/20421</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/20421</guid>
-            <pubDate>Sat, 18 Feb 2023 07:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[02월 18일 12시] 정오 종합뉴스]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/20420</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/20420</guid>
-            <pubDate>Sat, 18 Feb 2023 05:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
         </item>
     </channel>
 </rss>
