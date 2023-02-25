@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 05:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 06:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[02월 25일 12시] 정오 종합뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/20496</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/20496</guid>
+            <pubDate>Sat, 25 Feb 2023 06:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230225_37/1677300230957pV6cS_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[02월 25일 11시] 11시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/20495</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/20495</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/20492</guid>
             <pubDate>Sat, 25 Feb 2023 00:53:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230225_192/16772773784556df0c_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[02월 25일 00시] 24시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -591,13 +598,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/20487</guid>
             <pubDate>Thu, 23 Feb 2023 06:14:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[02월 23일 10시] 10시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/20486</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/20486</guid>
-            <pubDate>Thu, 23 Feb 2023 05:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2월 24일 (금) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
@@ -1091,6 +1091,22 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[02월 25일 13시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/18985</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/18985</guid>
+            <pubDate>Sat, 25 Feb 2023 06:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230225_237/16773002301385mwx9_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[02월 25일 12시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/18986</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/18986</guid>
+            <pubDate>Sat, 25 Feb 2023 06:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230225_102/1677300230632nCIoL_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[02월 25일 11시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/18984</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/18984</guid>
@@ -1112,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/18983</guid>
             <pubDate>Sat, 25 Feb 2023 03:17:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230225_9/1677288608984jOgnh_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[02월 25일 07시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1120,7 +1135,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/18980</guid>
             <pubDate>Sat, 25 Feb 2023 02:21:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230225_94/1677283032579Oco37_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[02월 25일 06시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1148,20 +1162,6 @@
             <link>https://audioclip.naver.com/channels/1635/clips/18978</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/18978</guid>
             <pubDate>Fri, 24 Feb 2023 15:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[02월 24일 16시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/18976</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/18976</guid>
-            <pubDate>Fri, 24 Feb 2023 09:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[02월 24일 14시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/18974</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/18974</guid>
-            <pubDate>Fri, 24 Feb 2023 08:15:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
@@ -1387,6 +1387,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[스머프 시즌2 ep.08 채용 구직] 입사 전 회사 평점 미리 보세요. 1점 회사 걸러야 하는 이유 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/9911</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/9911</guid>
+            <pubDate>Sat, 25 Feb 2023 06:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230224_121/1677243571555hj3Nj_JPEG/podcast_%C0%CC%B9%CC%C1%F6.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미생 윤태호 작가가 보는 MZ세대 직장 문화 [신과대화: 윤태호 작가] (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
             <link>https://audioclip.naver.com/channels/6519/clips/9906</link>
             <guid>https://audioclip.naver.com/channels/6519/clips/9906</guid>
@@ -1408,7 +1416,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/9840</guid>
             <pubDate>Fri, 24 Feb 2023 23:13:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230221_111/16769738150513khfD_JPEG/podcast_%C0%CC%B9%CC%C1%F6.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌 라이브] 양회 앞둔 중국, 기대할 포인트 있나?_23.02.24_박성우, 박수현, 장우석, 이주호 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1451,13 +1458,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/9908</guid>
             <pubDate>Fri, 24 Feb 2023 12:21:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>98분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[데일리 힌트] 외국인과 기관의 매도.. PCE 발표 앞둔 숨 고르기? f. IBK투자증권 박근형 부장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/9904</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/9904</guid>
-            <pubDate>Fri, 24 Feb 2023 12:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
         </item>
     </channel>
 </rss>
