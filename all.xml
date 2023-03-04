@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 11:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 12:19:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1091,6 +1091,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[03월 04일 20시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/19072</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/19072</guid>
+            <pubDate>Sat, 04 Mar 2023 12:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230304_229/1677928425901oCxdV_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[03월 04일 19시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/19070</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/19070</guid>
@@ -1120,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/19069</guid>
             <pubDate>Sat, 04 Mar 2023 09:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230304_231/1677917661431DdiXg_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[03월 04일 14시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1156,13 +1163,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/19063</guid>
             <pubDate>Sat, 04 Mar 2023 02:17:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[03월 04일 08시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/19062</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/19062</guid>
-            <pubDate>Sat, 04 Mar 2023 00:53:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2023/03/03] [댓꿀쇼] 출산율 OECD 꼴지 0.78명! 저출산과 저출생 용어 논란? | BYC 유산 상속 전쟁, 유류분이 도대체 뭐야? | 클린스만 대표팀 감독 선임 논란 (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
