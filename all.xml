@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 11:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 12:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1091,6 +1091,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[03월 20일 20시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/19256</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/19256</guid>
+            <pubDate>Mon, 20 Mar 2023 12:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230320_206/1679310876343JXiF9_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[03월 20일 16시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/19255</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/19255</guid>
@@ -1120,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/19252</guid>
             <pubDate>Mon, 20 Mar 2023 03:12:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230320_253/1679278533778Wgbl4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[03월 20일 10시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1155,13 +1162,6 @@
             <link>https://audioclip.naver.com/channels/1635/clips/19247</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/19247</guid>
             <pubDate>Sun, 19 Mar 2023 13:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[03월 19일 20시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/19246</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/19246</guid>
-            <pubDate>Sun, 19 Mar 2023 12:18:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
