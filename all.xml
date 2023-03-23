@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 07:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 08:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1387,6 +1387,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[Live] 클로징벨 라이브 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/10295</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/10295</guid>
+            <pubDate>Thu, 23 Mar 2023 08:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230323_136/1679533330740obibo_JPEG/KakaoTalk_20221122_163846442.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[김시덕 박사의 도시야사2 #35] 맛집 천국으로만 알던 목포에 일제의 흔적들? (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
             <link>https://audioclip.naver.com/channels/6519/clips/10274</link>
             <guid>https://audioclip.naver.com/channels/6519/clips/10274</guid>
@@ -1408,7 +1416,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/10293</guid>
             <pubDate>Thu, 23 Mar 2023 03:12:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230323_291/1679536323503nnM4T_JPEG/KakaoTalk_20221122_163846442.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[마켓인사이드] 옐런 말바꾸기에 흔들린 미국, 한국에는 영향 적을 것 f. 교보증권 박병창 이사 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1451,13 +1458,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/10286</guid>
             <pubDate>Wed, 22 Mar 2023 15:13:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌 라이브] 3월 FOMC는 시장에 안정을 줄까?_23.03.22_조경상, 허준영, 장우석, 이주호 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/10285</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/10285</guid>
-            <pubDate>Wed, 22 Mar 2023 15:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>94분]]></content:encoded>
         </item>
     </channel>
 </rss>
