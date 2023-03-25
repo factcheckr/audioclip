@@ -4,7 +4,7 @@
         <title>오디오클립 ─ TV조선 뉴스9</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 17:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 18:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 24 Mar 2023 19:09:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>47분]]></content:encoded>
             <enclosure url="https://audio-phinf.pstatic.net/20230325_144/1679681729662ENCCq_PNG/23939818e7c14b96c6546958148d1e29.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[03월 25 (토) TV CHOSUN 뉴스9]]></title>
+            <link>https://audioclip.naver.com/channels/3108/clips/1342</link>
+            <guid>https://audioclip.naver.com/channels/3108/clips/1342</guid>
+            <pubDate>Sat, 25 Mar 2023 18:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>45분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230326_141/1679766237684RE360_PNG/23939818e7c14b96c6546958148d1e29.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[3월 23일 (목) TV CHOSUN 뉴스9]]></title>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3108/clips/1338</guid>
             <pubDate>Tue, 21 Mar 2023 15:10:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230321_123/1679409863085wo1dj_PNG/23939818e7c14b96c6546958148d1e29.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[3월 20일 (월) TV CHOSUN 뉴스9]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3108/clips/1333</guid>
             <pubDate>Thu, 16 Mar 2023 18:14:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>47분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[3월 14일 (화) TV CHOSUN 뉴스9]]></title>
-            <link>https://audioclip.naver.com/channels/3108/clips/1332</link>
-            <guid>https://audioclip.naver.com/channels/3108/clips/1332</guid>
-            <pubDate>Tue, 14 Mar 2023 16:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
         </item>
     </channel>
 </rss>
