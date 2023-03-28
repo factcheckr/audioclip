@@ -4,9 +4,17 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 23:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 00:51:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2023/03/28] [뉴스쇼 방송 전체 듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/9269</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/9269</guid>
+            <pubDate>Tue, 28 Mar 2023 00:51:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>82분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230328_229/16799624761364TlRd_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2023/03/27] [놓지마 뉴스]]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/9263</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/9266</guid>
             <pubDate>Mon, 27 Mar 2023 02:05:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230327_244/16798821264673F6QV_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2023/03/27] [뉴스 연구소] ‘검수원복’ 내걸고 한동훈 출마?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/9257</guid>
             <pubDate>Fri, 24 Mar 2023 02:06:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2023/03/24] [인터뷰] 박범계 "한동훈은 사퇴하고, 민형배는 복당 시켜야"]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/9258</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/9258</guid>
-            <pubDate>Fri, 24 Mar 2023 02:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
         </item>
     </channel>
 </rss>
