@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 23:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 00:50:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[03월 31일 09시] 9시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/20958</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/20958</guid>
+            <pubDate>Fri, 31 Mar 2023 00:48:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230331_139/168022162056017RQf_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[03월 31일 07시] 뉴스와 화제]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/20957</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/20954</guid>
             <pubDate>Thu, 30 Mar 2023 16:14:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230331_251/1680189211775xJnWE_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[03월 30일 22시] 22시 뉴스]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/20949</guid>
             <pubDate>Thu, 30 Mar 2023 08:14:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[03월 30일 14시] 뉴스 중계탑]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/20948</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/20948</guid>
-            <pubDate>Thu, 30 Mar 2023 06:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
         </item>
     </channel>
 </rss>
