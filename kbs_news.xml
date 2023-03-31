@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 15:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 16:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[04월 01일 00시] 24시 뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/20968</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/20968</guid>
+            <pubDate>Fri, 31 Mar 2023 16:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230401_24/16802760133685B8VQ_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[03월 31일 22시] 22시 뉴스]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/20967</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/20964</guid>
             <pubDate>Fri, 31 Mar 2023 10:11:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230331_295/1680253659212SRxe2_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[03월 31일 16시] 16시 뉴스]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/1847/clips/20959</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/20959</guid>
             <pubDate>Fri, 31 Mar 2023 02:06:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[03월 31일 09시] 9시 뉴스]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/20958</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/20958</guid>
-            <pubDate>Fri, 31 Mar 2023 00:48:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
     </channel>
