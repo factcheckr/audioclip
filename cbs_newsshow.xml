@@ -4,7 +4,7 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 21:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 22:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,13 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2023/04/07] [뉴스쇼 방송 전체 듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/9324</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/9324</guid>
+            <pubDate>Fri, 07 Apr 2023 22:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>82분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2023/04/06] [젊치 토론] 김남국 "한동훈, 나랑 붙자" vs 장예찬 "개딸 보라고 자꾸 호출"]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/9314</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/9314</guid>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/9317</guid>
             <pubDate>Thu, 06 Apr 2023 04:13:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2023/04/06] [뉴스쇼 방송 전체듣기]]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/9318</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/9318</guid>
-            <pubDate>Thu, 06 Apr 2023 04:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>82분]]></content:encoded>
         </item>
     </channel>
 </rss>
