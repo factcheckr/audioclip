@@ -4,9 +4,17 @@
         <title>오디오클립 ─ CBS뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 00:45:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 02:02:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[04월 18일 10시]]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/19565</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/19565</guid>
+            <pubDate>Tue, 18 Apr 2023 02:01:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230418_224/1681780435817kzRxs_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[04월 18일 07시]]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/19564</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/19561</guid>
             <pubDate>Mon, 17 Apr 2023 12:20:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230417_193/1681730016327irKyN_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[04월 17일 16시]]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/19557</guid>
             <pubDate>Mon, 17 Apr 2023 04:13:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[04월 17일 07시]]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/19555</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/19555</guid>
-            <pubDate>Sun, 16 Apr 2023 23:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
         </item>
     </channel>
 </rss>
