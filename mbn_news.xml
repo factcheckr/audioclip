@@ -4,9 +4,17 @@
         <title>오디오클립 ─ MBN 종합뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 15:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 16:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월 18일 (화) 뉴스7]]></title>
+            <link>https://audioclip.naver.com/channels/2994/clips/1309</link>
+            <guid>https://audioclip.naver.com/channels/2994/clips/1309</guid>
+            <pubDate>Tue, 18 Apr 2023 16:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230419_5/1681831200780FVHOh_PNG/28e1328785bd3bdc2206ebcb197f765a.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[4월 18일 (화) 굿모닝 MBN]]></title>
             <link>https://audioclip.naver.com/channels/2994/clips/1308</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2994/clips/1305</guid>
             <pubDate>Thu, 13 Apr 2023 16:13:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230414_175/1681398978772S0Tar_PNG/28e1328785bd3bdc2206ebcb197f765a.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[4월 12일 (수) 뉴스7]]></title>
@@ -72,13 +79,6 @@
             <link>https://audioclip.naver.com/channels/2994/clips/1300</link>
             <guid>https://audioclip.naver.com/channels/2994/clips/1300</guid>
             <pubDate>Fri, 07 Apr 2023 19:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[4월 5일 (수) 뉴스7]]></title>
-            <link>https://audioclip.naver.com/channels/2994/clips/1299</link>
-            <guid>https://audioclip.naver.com/channels/2994/clips/1299</guid>
-            <pubDate>Wed, 05 Apr 2023 16:15:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
         </item>
     </channel>
