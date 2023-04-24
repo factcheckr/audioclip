@@ -1,8 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/197</id>
-    <title>오디오클립 ─ YTN 최신 뉴스</title>
-    <updated>2023-04-24T13:15:34.849Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ YTN 최신 뉴스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 24 Apr 2023 14:15:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[교사 덜 뽑는다...4년 뒤 신규 채용 최대 30% 감소]]></title>
+            <link>https://audioclip.naver.com/channels/197/clips/62263</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/62263</guid>
+            <pubDate>Mon, 24 Apr 2023 14:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230424_234/1682326454557vN9C5_JPEG/202304241534053087_t.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 국방장관 "러시아, 계속 민간인 공격"...한미 정상회담 결과 주목]]></title>
+            <link>https://audioclip.naver.com/channels/197/clips/62262</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/62262</guid>
+            <pubDate>Mon, 24 Apr 2023 14:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230424_101/1682326454452ntHBD_JPEG/202304241326468034_t.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[尹, 오늘 국빈 방미...26일 정상회담·27일 의회 연설]]></title>
+            <link>https://audioclip.naver.com/channels/197/clips/62261</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/62261</guid>
+            <pubDate>Mon, 24 Apr 2023 14:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230424_161/1682326454331qMtiq_JPEG/202304241359141148_t.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송영길 귀국에도 檢 "일정대로 수사"...피의자 무더기 출국금지]]></title>
+            <link>https://audioclip.naver.com/channels/197/clips/62260</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/62260</guid>
+            <pubDate>Mon, 24 Apr 2023 14:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230424_265/1682326454212EXDfL_JPEG/202304241555569382_t.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['돈 봉투 의혹' 송영길 귀국..."가족부터 만날 것"]]></title>
+            <link>https://audioclip.naver.com/channels/197/clips/62259</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/62259</guid>
+            <pubDate>Mon, 24 Apr 2023 14:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230424_292/1682326454098TRD7T_JPEG/202304241551065214_t.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헤드라인]]></title>
+            <link>https://audioclip.naver.com/channels/197/clips/62258</link>
+            <guid>https://audioclip.naver.com/channels/197/clips/62258</guid>
+            <pubDate>Mon, 24 Apr 2023 14:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
