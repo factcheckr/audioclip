@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 연합뉴스TV 뉴스워치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 15:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 16:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월 12일 (금) 뉴스워치]]></title>
+            <link>https://audioclip.naver.com/channels/3089/clips/789</link>
+            <guid>https://audioclip.naver.com/channels/3089/clips/789</guid>
+            <pubDate>Fri, 12 May 2023 16:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230513_250/16839062403770k2gw_PNG/79caef51776caaaf77a3388373f0e8cd.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[5월 11일 (목) 뉴스워치]]></title>
             <link>https://audioclip.naver.com/channels/3089/clips/788</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3089/clips/785</guid>
             <pubDate>Mon, 08 May 2023 17:10:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230509_99/1683562437095G2TiI_PNG/79caef51776caaaf77a3388373f0e8cd.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[5월 4일 (목) 뉴스워치]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3089/clips/780</guid>
             <pubDate>Fri, 28 Apr 2023 16:14:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[4월 27일 (목) 뉴스워치]]></title>
-            <link>https://audioclip.naver.com/channels/3089/clips/779</link>
-            <guid>https://audioclip.naver.com/channels/3089/clips/779</guid>
-            <pubDate>Thu, 27 Apr 2023 15:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
         </item>
     </channel>
 </rss>
