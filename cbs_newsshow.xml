@@ -4,9 +4,17 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 23:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 00:48:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2023/05/12] [뉴스쇼 방송 전체 듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/9473</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/9473</guid>
+            <pubDate>Fri, 12 May 2023 00:47:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>82분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230512_208/1683852224895XBCih_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2023/05/11] 박원순 다큐 논란 "첫 변론 기회" vs "궤변을 멈춰라"]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/9467</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/9470</guid>
             <pubDate>Thu, 11 May 2023 02:02:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230511_240/1683769503259TKr4Q_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2023/05/11] [뉴스 연구소] 태영호 “살려는 드릴게” 이게 입막음용?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/9464</guid>
             <pubDate>Wed, 10 May 2023 03:12:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2023/05/10] [뉴스 연구소] 오염수 시찰 동상이몽? 한국 "전문적 검증" vs 일본 "평가 아냐"]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/9465</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/9465</guid>
-            <pubDate>Wed, 10 May 2023 03:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
         </item>
     </channel>
 </rss>
