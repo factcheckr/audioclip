@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/3118</id>
-    <title>오디오클립 ─ 채널A 뉴스 TOP 10</title>
-    <updated>2023-05-22T13:15:51.832Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ 채널A 뉴스 TOP 10</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 22 May 2023 14:12:29 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월 22일 (월) 뉴스 TOP 10]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/987</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/987</guid>
+            <pubDate>Mon, 22 May 2023 14:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>85분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230522_202/1684757643615w2LGW_PNG/256f786be70a33a5c9cec789390d82c1.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[5월 19일 (금) 뉴스 TOP 10]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/986</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/986</guid>
+            <pubDate>Mon, 22 May 2023 14:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>85분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230520_209/1684511049449Umr4z_PNG/256f786be70a33a5c9cec789390d82c1.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[5월 18일 (목) 뉴스 TOP 10]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/985</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/985</guid>
+            <pubDate>Mon, 22 May 2023 14:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>85분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230518_21/1684421025814FBTvJ_PNG/256f786be70a33a5c9cec789390d82c1.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[5월 17일 (수)  뉴스 TOP 10]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/984</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/984</guid>
+            <pubDate>Mon, 22 May 2023 14:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>85분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230517_93/1684332859750IsDSJ_PNG/256f786be70a33a5c9cec789390d82c1.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[5월 16일 (화) 뉴스 TOP 10]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/983</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/983</guid>
+            <pubDate>Mon, 22 May 2023 14:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>85분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5월 15일 (월) 뉴스 TOP 10]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/982</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/982</guid>
+            <pubDate>Mon, 22 May 2023 14:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>84분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5월 12일 (금) 뉴스 TOP 10]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/981</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/981</guid>
+            <pubDate>Mon, 22 May 2023 14:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>81분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5월 11일 (목) 뉴스 TOP 10]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/980</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/980</guid>
+            <pubDate>Mon, 22 May 2023 14:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>85분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5월 10일 (수) 뉴스 TOP 10]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/979</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/979</guid>
+            <pubDate>Mon, 22 May 2023 14:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>85분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[5월 9일 (화) 뉴스 TOP 10]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/978</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/978</guid>
+            <pubDate>Mon, 22 May 2023 14:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>85분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
