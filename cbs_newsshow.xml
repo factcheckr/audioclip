@@ -4,9 +4,17 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 02:05:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 03:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2023/05/25] 제보자 "공군 '계집파일'엔 여장교와 아이돌 합성 사진도..."]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/9535</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/9535</guid>
+            <pubDate>Thu, 25 May 2023 03:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230525_63/1684982623093nFGM7_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2023/05/25] 박정호 "반도체 위기라는데 ‘삼전’ 주가 왜 오를까"]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/9531</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/9534</guid>
             <pubDate>Thu, 25 May 2023 02:04:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>82분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230525_206/1684979041400xObaw_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2023/05/24] [뉴스 연구소] ‘노무현 정신’, 정치권의 아전인수 해석들]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/9529</guid>
             <pubDate>Wed, 24 May 2023 03:12:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2023/05/24] [뉴스쇼 방송 전체듣기]]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/9530</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/9530</guid>
-            <pubDate>Wed, 24 May 2023 03:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>82분]]></content:encoded>
         </item>
     </channel>
 </rss>
