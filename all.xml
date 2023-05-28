@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 05:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 06:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>70분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[05월 28일 14시] 14시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/21750</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/21750</guid>
+            <pubDate>Sun, 28 May 2023 06:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230528_264/16852508237823Qxk8_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[05월 28일 12시] 정오 종합뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/21749</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/21749</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/21746</guid>
             <pubDate>Sun, 28 May 2023 00:53:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230528_103/1685232834584xpF64_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[05월 28일 07시] 7시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -591,13 +598,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/21741</guid>
             <pubDate>Sat, 27 May 2023 14:09:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[05월 27일 21시] KBS 뉴스 9 (1TV  수중계) (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/21740</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/21740</guid>
-            <pubDate>Sat, 27 May 2023 13:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[05월 27 (토) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
