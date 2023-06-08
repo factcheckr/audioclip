@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 14:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 15:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -822,6 +822,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>45분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[6월 8일 (목) 뉴스7 (오디오클립 ─ MBN 종합뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/2994/clips/1343</link>
+            <guid>https://audioclip.naver.com/channels/2994/clips/1343</guid>
+            <pubDate>Thu, 08 Jun 2023 15:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230608_210/1686235425778ppUgD_PNG/28e1328785bd3bdc2206ebcb197f765a.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[6월 7일 (수) 뉴스7 (오디오클립 ─ MBN 종합뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/2994/clips/1342</link>
             <guid>https://audioclip.naver.com/channels/2994/clips/1342</guid>
@@ -851,7 +859,6 @@
             <guid>https://audioclip.naver.com/channels/2994/clips/1339</guid>
             <pubDate>Sat, 03 Jun 2023 07:09:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230602_247/1685709828099XrJkx_PNG/28e1328785bd3bdc2206ebcb197f765a.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[6월 1일 (목) 뉴스7 (오디오클립 ─ MBN 종합뉴스)]]></title>
@@ -887,13 +894,6 @@
             <guid>https://audioclip.naver.com/channels/2994/clips/1334</guid>
             <pubDate>Sat, 03 Jun 2023 07:09:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[5월 24일 (수) 뉴스7 (오디오클립 ─ MBN 종합뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/2994/clips/1333</link>
-            <guid>https://audioclip.naver.com/channels/2994/clips/1333</guid>
-            <pubDate>Sat, 03 Jun 2023 07:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김은중호, '빗장 수비' 이탈리아 넘고 결승 갈까? (오디오클립 ─ YTN 최신 뉴스)]]></title>
