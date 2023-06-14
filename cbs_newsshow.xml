@@ -4,7 +4,7 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 02:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 03:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,13 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2023/06/14] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/9625</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/9625</guid>
+            <pubDate>Wed, 14 Jun 2023 03:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>82분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2023/06/13] [댓꿀쇼] 돈봉투 이성만·윤관석 체포동의안 부결 | 조국-우병우 출마 가능성 | 싱하이밍 - 이재명 회동 | 이동관 방통위원장 내정될까?]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/9617</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/9617</guid>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/9616</guid>
             <pubDate>Tue, 13 Jun 2023 02:14:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2023/06/13] [돌쇠토론] 장성철 “한동훈, ‘부결돼라~’ 도발했다” vs 박원석 "한동훈 때문에 부결? ‘우린 바보다’ 선언“]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/9614</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/9614</guid>
-            <pubDate>Tue, 13 Jun 2023 02:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
         </item>
     </channel>
 </rss>
