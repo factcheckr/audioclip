@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 11:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 12:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -600,6 +600,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[7월 28일 (금) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
+            <link>https://audioclip.naver.com/channels/3117/clips/1475</link>
+            <guid>https://audioclip.naver.com/channels/3117/clips/1475</guid>
+            <pubDate>Fri, 28 Jul 2023 12:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>49분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_157/1687886527837MKyTG_PNG/e6b8802c632ba6d1c3181933ed939dbf.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[7월 27일 (목) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
             <link>https://audioclip.naver.com/channels/3117/clips/1474</link>
             <guid>https://audioclip.naver.com/channels/3117/clips/1474</guid>
@@ -629,7 +637,6 @@
             <guid>https://audioclip.naver.com/channels/3117/clips/1471</guid>
             <pubDate>Mon, 24 Jul 2023 12:19:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_157/1687886527837MKyTG_PNG/e6b8802c632ba6d1c3181933ed939dbf.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[07월 23 (일) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
@@ -665,13 +672,6 @@
             <guid>https://audioclip.naver.com/channels/3117/clips/1466</guid>
             <pubDate>Wed, 19 Jul 2023 16:13:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
-            <link>https://audioclip.naver.com/channels/3117/clips/1465</link>
-            <guid>https://audioclip.naver.com/channels/3117/clips/1465</guid>
-            <pubDate>Tue, 18 Jul 2023 12:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7월 28일 (금) 뉴스 TOP 10 (오디오클립 ─ 채널A 뉴스 TOP 10)]]></title>
@@ -1091,6 +1091,22 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[07월 28일 21시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/20639</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/20639</guid>
+            <pubDate>Fri, 28 Jul 2023 12:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[07월 28일 20시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/20638</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/20638</guid>
+            <pubDate>Fri, 28 Jul 2023 12:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[07월 28일 16시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/20637</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/20637</guid>
@@ -1112,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/20635</guid>
             <pubDate>Fri, 28 Jul 2023 05:10:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[07월 28일 11시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1120,7 +1135,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/20634</guid>
             <pubDate>Fri, 28 Jul 2023 02:30:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[07월 28일 10시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1149,20 +1163,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/20630</guid>
             <pubDate>Thu, 27 Jul 2023 12:19:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[07월 27일 20시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/20629</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/20629</guid>
-            <pubDate>Thu, 27 Jul 2023 12:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[07월 27일 16시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/20628</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/20628</guid>
-            <pubDate>Thu, 27 Jul 2023 08:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2023/07/28] [댓꿀쇼] 여행하기 위험한 나라 TOP5 | "안그래도 더워죽겠는데" 더 열받는 뉴스: 가짜추모함, 축제테마 731부대, 스무디싸대기 | 96년생 윤세준을 찾습니다, 오사카에서 실종된 청년 (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1387,12 +1387,35 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[퇴근길 라이브] 하반기 전략, 펀더멘털을 이기는 악재는 없다! f. 박근형, 이경민, 박제영, 명민준 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/12282</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/12282</guid>
+            <pubDate>Fri, 28 Jul 2023 12:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>96분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230728_158/1690543893934QKkPn_JPEG/00%BE%F7%B7%CE%B5%E5%BF%EB.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[심층인터뷰] 하반기 증시 흐름은 2차전지, 반도체 중심으로 흐른다 f. 대신증권 이경민 투자전략팀장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/12281</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/12281</guid>
+            <pubDate>Fri, 28 Jul 2023 12:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230728_106/1690543774122GRFOr_JPEG/00%BE%F7%B7%CE%B5%E5%BF%EB.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[데일리힌트] 빨간불 켜진 시장, 반등 소식과 함께 마무리하다 f. IBK투자증권 박근형 부장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/12280</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/12280</guid>
+            <pubDate>Fri, 28 Jul 2023 12:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230728_126/1690540011793Y4sbm_JPEG/00%BE%F7%B7%CE%B5%E5%BF%EB.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[언더스탠딩] 한국의 자원개발 어쩌다 폭망했나_23.07.28 f. 언더스탠딩 김상훈 기자 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
             <link>https://audioclip.naver.com/channels/6519/clips/12278</link>
             <guid>https://audioclip.naver.com/channels/6519/clips/12278</guid>
             <pubDate>Fri, 28 Jul 2023 11:10:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230728_258/1690536392591T9hJ9_JPEG/00%BE%F7%B7%CE%B5%E5%BF%EB.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[클로징벨 라이브] 현실 파악한 삼성전자, 반도체 레벱업에 미칠 영향은?_23.07.28 f. 김장열 투자전략본부장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1400,7 +1423,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/12277</guid>
             <pubDate>Fri, 28 Jul 2023 10:12:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230728_40/1690532367390xbSPi_JPEG/00%BE%F7%B7%CE%B5%E5%BF%EB.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[SML] 현대차그룹 실성장동력 하이브리드 f.삼프로TV 류종은 기자 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1408,7 +1430,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/12273</guid>
             <pubDate>Fri, 28 Jul 2023 02:01:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230728_69/1690506778492Nl2zg_JPEG/00%BE%F7%B7%CE%B5%E5%BF%EB.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오늘아침 라이브] 또 살아난 FOMO... 혼란스러운 시장_23.07.28_류종은,박병창,이선엽,염승환 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1437,27 +1458,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/12269</guid>
             <pubDate>Fri, 28 Jul 2023 00:47:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[미스터마켓] 미 국채가 하락…ECB 9월 동결시사에도 美경제연착륙 기대 f.김프로 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/12268</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/12268</guid>
-            <pubDate>Fri, 28 Jul 2023 00:47:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스3+] 삼성전자 반도체·SK하이닉스 상반기 15兆 적자…"바닥 찍었다?" f.삼프로TV 류종은 기자 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/12267</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/12267</guid>
-            <pubDate>Fri, 28 Jul 2023 00:47:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[월스트리트 모닝브리핑] 경제 성장률 '호조'•실적 '부진' 속 뉴욕증시 3대지수 '하락'_이남우,이항영 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/12266</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/12266</guid>
-            <pubDate>Thu, 27 Jul 2023 23:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>57분]]></content:encoded>
         </item>
     </channel>
 </rss>
