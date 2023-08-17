@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 15:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 16:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>75분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[08월 18일 00시] 24시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/22902</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/22902</guid>
+            <pubDate>Thu, 17 Aug 2023 16:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[08월 17일 22시] 22시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/22901</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/22901</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/22898</guid>
             <pubDate>Thu, 17 Aug 2023 09:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[08월 17일 16시] 16시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -590,13 +597,6 @@
             <link>https://audioclip.naver.com/channels/1847/clips/22893</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/22893</guid>
             <pubDate>Thu, 17 Aug 2023 01:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[08월 17일 09시] 9시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/22892</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/22892</guid>
-            <pubDate>Thu, 17 Aug 2023 00:38:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
@@ -748,6 +748,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>87분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[8월 17일 (목) TV CHOSUN 뉴스9 (오디오클립 ─ TV조선 뉴스9)]]></title>
+            <link>https://audioclip.naver.com/channels/3108/clips/1475</link>
+            <guid>https://audioclip.naver.com/channels/3108/clips/1475</guid>
+            <pubDate>Thu, 17 Aug 2023 16:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>51분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_265/1687886524998bJrOy_PNG/23939818e7c14b96c6546958148d1e29.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[8월 16일 (수) TV CHOSUN 뉴스9 (오디오클립 ─ TV조선 뉴스9)]]></title>
             <link>https://audioclip.naver.com/channels/3108/clips/1474</link>
             <guid>https://audioclip.naver.com/channels/3108/clips/1474</guid>
@@ -777,7 +785,6 @@
             <guid>https://audioclip.naver.com/channels/3108/clips/1470</guid>
             <pubDate>Sun, 13 Aug 2023 15:09:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>45분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_265/1687886524998bJrOy_PNG/23939818e7c14b96c6546958148d1e29.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8월 11일 (금) TV CHOSUN 뉴스9 (오디오클립 ─ TV조선 뉴스9)]]></title>
@@ -815,11 +822,12 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>50분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[08월 06 (일) TV CHOSUN 뉴스9 (오디오클립 ─ TV조선 뉴스9)]]></title>
-            <link>https://audioclip.naver.com/channels/3108/clips/1465</link>
-            <guid>https://audioclip.naver.com/channels/3108/clips/1465</guid>
-            <pubDate>Sun, 06 Aug 2023 14:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>45분]]></content:encoded>
+            <title><![CDATA[8월 17일 (목) 뉴스7 (오디오클립 ─ MBN 종합뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/2994/clips/1392</link>
+            <guid>https://audioclip.naver.com/channels/2994/clips/1392</guid>
+            <pubDate>Thu, 17 Aug 2023 16:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_182/1687886514783KXJUs_PNG/28e1328785bd3bdc2206ebcb197f765a.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8월 16일 (수) 뉴스7 (오디오클립 ─ MBN 종합뉴스)]]></title>
@@ -851,7 +859,6 @@
             <guid>https://audioclip.naver.com/channels/2994/clips/1388</guid>
             <pubDate>Fri, 11 Aug 2023 16:14:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_182/1687886514783KXJUs_PNG/28e1328785bd3bdc2206ebcb197f765a.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8월 10일 (목) 뉴스7 (오디오클립 ─ MBN 종합뉴스)]]></title>
@@ -886,13 +893,6 @@
             <link>https://audioclip.naver.com/channels/2994/clips/1383</link>
             <guid>https://audioclip.naver.com/channels/2994/clips/1383</guid>
             <pubDate>Fri, 04 Aug 2023 17:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[8월 3일 (목) 뉴스7 (오디오클립 ─ MBN 종합뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/2994/clips/1382</link>
-            <guid>https://audioclip.naver.com/channels/2994/clips/1382</guid>
-            <pubDate>Thu, 03 Aug 2023 16:21:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
         </item>
         <item>
@@ -943,6 +943,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[8월 17일 (목) 뉴스워치 (오디오클립 ─ 연합뉴스TV 뉴스워치)]]></title>
+            <link>https://audioclip.naver.com/channels/3089/clips/848</link>
+            <guid>https://audioclip.naver.com/channels/3089/clips/848</guid>
+            <pubDate>Thu, 17 Aug 2023 16:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_188/1687886521331RM0Ra_PNG/79caef51776caaaf77a3388373f0e8cd.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[8월 16일 (수) 뉴스워치 (오디오클립 ─ 연합뉴스TV 뉴스워치)]]></title>
             <link>https://audioclip.naver.com/channels/3089/clips/847</link>
             <guid>https://audioclip.naver.com/channels/3089/clips/847</guid>
@@ -972,7 +980,6 @@
             <guid>https://audioclip.naver.com/channels/3089/clips/844</guid>
             <pubDate>Wed, 09 Aug 2023 17:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_188/1687886521331RM0Ra_PNG/79caef51776caaaf77a3388373f0e8cd.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8월 8일 (화) 뉴스워치 (오디오클립 ─ 연합뉴스TV 뉴스워치)]]></title>
@@ -1008,13 +1015,6 @@
             <guid>https://audioclip.naver.com/channels/3089/clips/839</guid>
             <pubDate>Wed, 02 Aug 2023 18:13:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[8월 1일 (화) 뉴스워치 (오디오클립 ─ 연합뉴스TV 뉴스워치)]]></title>
-            <link>https://audioclip.naver.com/channels/3089/clips/838</link>
-            <guid>https://audioclip.naver.com/channels/3089/clips/838</guid>
-            <pubDate>Tue, 01 Aug 2023 13:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[미니경제] 불황에 더 타격 입는 부자들 #리치세션 (오디오클립 ─ 한국경제 뉴스래빗)]]></title>
