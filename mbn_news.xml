@@ -4,9 +4,17 @@
         <title>오디오클립 ─ MBN 종합뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 17:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 18:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8월 25일 (금) 뉴스7]]></title>
+            <link>https://audioclip.naver.com/channels/2994/clips/1398</link>
+            <guid>https://audioclip.naver.com/channels/2994/clips/1398</guid>
+            <pubDate>Fri, 25 Aug 2023 18:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>64분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_182/1687886514783KXJUs_PNG/28e1328785bd3bdc2206ebcb197f765a.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[8월 24일 (목) 뉴스7]]></title>
             <link>https://audioclip.naver.com/channels/2994/clips/1397</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2994/clips/1394</guid>
             <pubDate>Mon, 21 Aug 2023 13:14:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_182/1687886514783KXJUs_PNG/28e1328785bd3bdc2206ebcb197f765a.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[8월 18일 (금) 뉴스7]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2994/clips/1389</guid>
             <pubDate>Mon, 14 Aug 2023 13:13:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[8월 11일 (금) 뉴스7]]></title>
-            <link>https://audioclip.naver.com/channels/2994/clips/1388</link>
-            <guid>https://audioclip.naver.com/channels/2994/clips/1388</guid>
-            <pubDate>Fri, 11 Aug 2023 16:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
         </item>
     </channel>
 </rss>
