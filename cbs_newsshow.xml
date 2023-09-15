@@ -4,9 +4,17 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 23:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 00:42:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2023/09/15] [뉴스쇼 방송 전체 듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10046</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10046</guid>
+            <pubDate>Fri, 15 Sep 2023 00:41:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>82분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_215/1687886430058Tgl56_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2023/09/14] [인터뷰] 서울대 신범식 "북한이 무기 주면 우크라 전황 확 바뀐다"]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/10041</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10044</guid>
             <pubDate>Thu, 14 Sep 2023 01:44:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_215/1687886430058Tgl56_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2023/09/14] [놓지마 뉴스]]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10036</guid>
             <pubDate>Wed, 13 Sep 2023 02:19:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2023/09/13] [인터뷰] 오세훈 "무제한 교통카드 경기도 소외? 김동연 의지의 문제"]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10037</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10037</guid>
-            <pubDate>Wed, 13 Sep 2023 02:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
         </item>
     </channel>
 </rss>
