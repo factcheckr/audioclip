@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 03:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 04:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>80분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[09월 28일 12시] 정오 종합뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/23490</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/23490</guid>
+            <pubDate>Thu, 28 Sep 2023 04:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[09월 28일 11시] 11시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/23489</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/23489</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/23486</guid>
             <pubDate>Wed, 27 Sep 2023 23:09:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[09월 28일 06시] 1R 6시뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -591,13 +598,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/23481</guid>
             <pubDate>Wed, 27 Sep 2023 12:17:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[09월 27일 19시] 저녁 종합뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/23480</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/23480</guid>
-            <pubDate>Wed, 27 Sep 2023 11:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[9월 27일 (수) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
