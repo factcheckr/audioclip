@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 03:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 04:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>80분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[10월 03일 12시] 정오 종합뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/23561</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/23561</guid>
+            <pubDate>Tue, 03 Oct 2023 04:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[10월 03일 11시] 11시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/23560</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/23560</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/23557</guid>
             <pubDate>Mon, 02 Oct 2023 22:09:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[10월 03일 05시] 5시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -591,13 +598,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/23552</guid>
             <pubDate>Mon, 02 Oct 2023 11:08:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[10월 02일 17시] 17시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/23551</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/23551</guid>
-            <pubDate>Mon, 02 Oct 2023 09:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[10월 2일 (월) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
@@ -1165,12 +1165,50 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2023/10/03] 추석민심, 민주당의 길(홍익표 원내대표) 추석민심을 읽는 키워드들(장성철·박원석) 29년 만에 모녀가 금메달(김혜정·정소영) (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10112</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10112</guid>
+            <pubDate>Tue, 03 Oct 2023 04:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>83분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_215/1687886430058Tgl56_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2023/10/03] [돌쇠토론] "한동훈 뻥카 드러나" vs "탄핵? 개딸 달래기용" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10113</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10113</guid>
+            <pubDate>Tue, 03 Oct 2023 04:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_215/1687886430058Tgl56_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2023/10/03] [인터뷰] 홍익표 새 원내대표 "이재명 구속영장 기각 이후..협치, 내분, 청문회, 탄핵?" "이균용...尹, 이런 식 인사면 부결" "한동훈 탄핵? 10월 국감 후 결정" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10114</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10114</guid>
+            <pubDate>Tue, 03 Oct 2023 04:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_215/1687886430058Tgl56_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2023/10/03] [뉴스연구소] 한동훈 탄핵 카드, 민주당은 왜 만지작만지작 할까? 득실 계산해보니 (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10115</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10115</guid>
+            <pubDate>Tue, 03 Oct 2023 04:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_215/1687886430058Tgl56_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2023/10/03] [인터뷰] 배드민턴 금메달 모녀 "집에선 운동 얘기 안 해요" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10116</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10116</guid>
+            <pubDate>Tue, 03 Oct 2023 04:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2023/10/02] [추석 특집 좌담5] 김태우, 40억이 애교? “뻔뻔해” vs “민주당이 할 소리?” (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/10105</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/10105</guid>
             <pubDate>Mon, 02 Oct 2023 03:12:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_215/1687886430058Tgl56_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2023/10/02] [추석 특집 좌담2] 이재명 영수회담 제안? "尹과 셀카용" vs "득보는 건 尹" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1178,7 +1216,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10107</guid>
             <pubDate>Mon, 02 Oct 2023 03:12:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_215/1687886430058Tgl56_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2023/10/02] [추석 특집 좌담4] 친명, 외상값? “이재명 배제의 길 간다” vs “하나된 힘으로 이미 답해” (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1186,7 +1223,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10106</guid>
             <pubDate>Mon, 02 Oct 2023 03:12:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_215/1687886430058Tgl56_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2023/10/02] [추석 특집 좌담3] “한동훈 탄핵? 역풍 불걸” vs “허풍, 무능의 아이콘” (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1194,7 +1230,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10108</guid>
             <pubDate>Mon, 02 Oct 2023 03:12:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_215/1687886430058Tgl56_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2023/10/02] [추석 특집 좌담1] “이재명? 체증 내린 느낌” vs “왜 못집어넣었냐고” (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1202,41 +1237,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10109</guid>
             <pubDate>Mon, 02 Oct 2023 03:12:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2023/10/02] [뉴스 연구소] 김태우 '40억 애교'? 코끼리는 생각 말라니까! (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10110</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10110</guid>
-            <pubDate>Mon, 02 Oct 2023 04:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2023/10/02] [뉴스쇼 방송 전체듣기] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10111</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10111</guid>
-            <pubDate>Mon, 02 Oct 2023 04:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>100분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2023/09/29] 시대영감 - 부모 편 | 이영미 대중예술 평론가 [추석특집: 김현정의 뉴스쇼] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10104</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10104</guid>
-            <pubDate>Thu, 28 Sep 2023 23:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>84분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2023/09/28] 시대영감 - 며느리 편 | 이영미 대중예술 평론가 [추석특집: 김현정의 뉴스쇼] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10103</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10103</guid>
-            <pubDate>Wed, 27 Sep 2023 23:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>83분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2023/09/27] [놓지마 뉴스] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10100</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10100</guid>
-            <pubDate>Wed, 27 Sep 2023 02:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뉴스 해설: "미국 대 구글" 막 오른 반독점 소송 (오디오클립 ─ 아메리카노)]]></title>
