@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 13:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 14:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>80분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[10월 10일 22시] 22시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/23665</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/23665</guid>
+            <pubDate>Tue, 10 Oct 2023 14:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[10월 10일 21시] KBS 뉴스 9 (1TV  수중계) (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/23664</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/23664</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/23661</guid>
             <pubDate>Tue, 10 Oct 2023 08:13:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[10월 10일 14시] 뉴스 중계탑 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -591,13 +598,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/23656</guid>
             <pubDate>Tue, 10 Oct 2023 00:42:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[10월 10일 07시] 뉴스와 화제 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/23655</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/23655</guid>
-            <pubDate>Mon, 09 Oct 2023 23:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[10월 5일 (목) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
@@ -1387,12 +1387,35 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[글로벌 뉴스3] 전쟁 장기화 경우 공급망 차질 불가피하다 f. 박종훈 팀장, 이주호 기자 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <title><![CDATA[[글로벌 라이브] 전쟁 장기화 경우 공급망 차질 불가피하다_23.10.10_최홍석, 유사남 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/13370</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/13370</guid>
+            <pubDate>Tue, 10 Oct 2023 14:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>97분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231010_181/1696945980077pPezS_JPEG/00%BE%F7%B7%CE%B5%E5%BF%EB.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌 개장시황] 중동 전쟁이 美 증시에 미치는 영향 f. 유튜버 유사남 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/13369</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/13369</guid>
+            <pubDate>Tue, 10 Oct 2023 14:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231010_271/1696945652741InBsh_JPEG/00%BE%F7%B7%CE%B5%E5%BF%EB.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌 이슈체크] 투자자의 도구 : 황금비 f. 미래에셋증권 최홍석 선임매니저 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/13367</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/13367</guid>
+            <pubDate>Tue, 10 Oct 2023 14:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231010_140/1696944022486anQ34_JPEG/00%BE%F7%B7%CE%B5%E5%BF%EB.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌 뉴스3] 이스라엘-하마스 분쟁 / 크게 요동치지 않았던 시장 f. 박종훈 팀장, 이주호 기자 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
             <link>https://audioclip.naver.com/channels/6519/clips/13366</link>
             <guid>https://audioclip.naver.com/channels/6519/clips/13366</guid>
             <pubDate>Tue, 10 Oct 2023 13:15:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231010_101/1696941613554nHoGy_JPEG/00%BE%F7%B7%CE%B5%E5%BF%EB.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[언더스탠딩] 애플이 당측정기 개발에 열을 올리는 이유 f. 정재훈 약사 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1400,7 +1423,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/13365</guid>
             <pubDate>Tue, 10 Oct 2023 13:15:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>79분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231010_48/1696940495047Kulcs_JPEG/00%BE%F7%B7%CE%B5%E5%BF%EB.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[퇴근길 라이브] 연착륙을 방해하는 중동 리스크와 고금리,고유가_23.10.10_박근형, 허재환 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1408,7 +1430,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/13364</guid>
             <pubDate>Tue, 10 Oct 2023 12:20:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>70분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231010_70/16969399819437tF0e_JPEG/00%BE%F7%B7%CE%B5%E5%BF%EB.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[심층인터뷰] 주도주 시소게임, 빅테크 강세가 꺾였다? f. 유진투자증권 허재환 이사 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1437,27 +1458,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/13356</guid>
             <pubDate>Tue, 10 Oct 2023 12:20:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[클로징벨 라이브] 또 다시 재현된 2시의 악몽…어쩐지 잘 버틴다 했는데, 코스닥 2.6%하락_23.10.10 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/13355</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/13355</guid>
-            <pubDate>Tue, 10 Oct 2023 09:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[오프닝벨라이브] 상승 출발하는 시장, 이유는 삼성전자·SK하이닉스 f.염승환,박근형 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/13353</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/13353</guid>
-            <pubDate>Tue, 10 Oct 2023 01:47:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>37분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[오늘아침 라이브] 이스라엘-하마스 전면전…'신(新)중동전쟁' 벌어질까_23.10.10_권순우,박병창,성일광 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/13351</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/13351</guid>
-            <pubDate>Tue, 10 Oct 2023 01:47:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>88분]]></content:encoded>
         </item>
     </channel>
 </rss>
