@@ -4,7 +4,7 @@
         <title>오디오클립 ─ 채널A 뉴스A</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 13:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 14:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://audio-phinf.pstatic.net/20230628_157/1687886527837MKyTG_PNG/e6b8802c632ba6d1c3181933ed939dbf.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[10월 14 (토) 뉴스A]]></title>
+            <link>https://audioclip.naver.com/channels/3117/clips/1544</link>
+            <guid>https://audioclip.naver.com/channels/3117/clips/1544</guid>
+            <pubDate>Sun, 15 Oct 2023 14:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_157/1687886527837MKyTG_PNG/e6b8802c632ba6d1c3181933ed939dbf.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[10월 12일 (목) 뉴스A]]></title>
             <link>https://audioclip.naver.com/channels/3117/clips/1541</link>
             <guid>https://audioclip.naver.com/channels/3117/clips/1541</guid>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3117/clips/1540</guid>
             <pubDate>Thu, 12 Oct 2023 15:11:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_157/1687886527837MKyTG_PNG/e6b8802c632ba6d1c3181933ed939dbf.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[10월 11일 (수) 뉴스A]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3117/clips/1535</guid>
             <pubDate>Mon, 02 Oct 2023 12:18:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>57분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[10월 01 (일) 뉴스A]]></title>
-            <link>https://audioclip.naver.com/channels/3117/clips/1534</link>
-            <guid>https://audioclip.naver.com/channels/3117/clips/1534</guid>
-            <pubDate>Sun, 01 Oct 2023 16:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
     </channel>
 </rss>
