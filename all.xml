@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 00:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 01:43:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[10월 21일 10시] 10시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/23812</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/23812</guid>
+            <pubDate>Sat, 21 Oct 2023 01:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[10월 21일 09시] 9시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/23811</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/23811</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/23808</guid>
             <pubDate>Fri, 20 Oct 2023 16:12:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[10월 20일 22시] 22시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -591,13 +598,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/23803</guid>
             <pubDate>Fri, 20 Oct 2023 08:13:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[10월 20일 14시] 뉴스 중계탑 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/23802</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/23802</guid>
-            <pubDate>Fri, 20 Oct 2023 06:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[10월 20일 (금) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
