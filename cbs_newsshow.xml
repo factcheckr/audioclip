@@ -4,7 +4,7 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 03:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 04:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,13 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2023/11/07] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10276</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10276</guid>
+            <pubDate>Tue, 07 Nov 2023 04:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>81분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2023/11/07] [댓꿀쇼] 이상민도 함께하는 신당? 어차피 힘쓰지 못할 거 같은데... | 조국 출마 가능성? | 김준일의 정치선언!?]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/10270</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/10270</guid>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10266</guid>
             <pubDate>Mon, 06 Nov 2023 01:52:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>106분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2023/11/06] 오신환 "이준석, 인요한 퇴짜 놨지만 이건 시작... 또 손 내밀 것"]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10267</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10267</guid>
-            <pubDate>Mon, 06 Nov 2023 01:52:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
         </item>
     </channel>
 </rss>
