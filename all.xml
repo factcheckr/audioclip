@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 21:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 22:09:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>74분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[11월 13일 06시] KBS뉴스광장(R) (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/24139</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/24139</guid>
+            <pubDate>Sun, 12 Nov 2023 22:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[11월 13일 05시] 5시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/24138</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/24138</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/24135</guid>
             <pubDate>Sun, 12 Nov 2023 14:08:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[11월 12일 21시] KBS 뉴스 9 (1TV  수중계) (오디오클립 ─ KBS 뉴스)]]></title>
@@ -590,13 +597,6 @@
             <link>https://audioclip.naver.com/channels/1847/clips/24130</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/24130</guid>
             <pubDate>Sun, 12 Nov 2023 07:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[11월 12일 14시] 14시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/24129</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/24129</guid>
-            <pubDate>Sun, 12 Nov 2023 06:11:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
@@ -1411,13 +1411,6 @@
             <enclosure url="https://audio-phinf.pstatic.net/20231110_28/1699607541383WGpwM_JPEG/KakaoTalk_20201228_184324933_01.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼프로 방송 테스트 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/13890</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/13890</guid>
-            <pubDate>Sat, 11 Nov 2023 08:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[압권 92화] 일본 자동차 시장을 어떻게 뚫어야 할까? (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
             <link>https://audioclip.naver.com/channels/6519/clips/13889</link>
             <guid>https://audioclip.naver.com/channels/6519/clips/13889</guid>
@@ -1458,6 +1451,13 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/13886</guid>
             <pubDate>Fri, 10 Nov 2023 17:10:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌 뉴스3] 삼프로TV 진행자들에게 물어봤습니다 f. 박종훈, 이주호, 명민준, 최홍석, 박하윤 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/13885</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/13885</guid>
+            <pubDate>Sun, 12 Nov 2023 22:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
         </item>
     </channel>
 </rss>
