@@ -4,7 +4,7 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 01:54:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 02:26:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,13 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>80분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2023/11/16] [뉴스 연구소] “내 뒤에 尹” vs “친윤 갈고 찐윤?”]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10319</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10319</guid>
+            <pubDate>Thu, 16 Nov 2023 02:25:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2023/11/15] 정성호 "조국, 야당의 셀럽 맞지만… 일단 사법리스크부터"]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/10309</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/10309</guid>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10311</guid>
             <pubDate>Wed, 15 Nov 2023 01:54:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2023/11/15] [놓지마 뉴스]]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10312</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10312</guid>
-            <pubDate>Wed, 15 Nov 2023 01:54:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
