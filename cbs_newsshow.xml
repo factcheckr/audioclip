@@ -4,7 +4,7 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 02:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 03:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,13 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2023/11/29] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10375</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10375</guid>
+            <pubDate>Wed, 29 Nov 2023 03:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>108분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2023/11/28] 댓꿀쇼 819회]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/10363</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/10363</guid>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10366</guid>
             <pubDate>Tue, 28 Nov 2023 01:55:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2023/11/28] 유상범 "이준석 신당, 되겠어요? 당과 함께할 여지 남아"]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10367</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10367</guid>
-            <pubDate>Tue, 28 Nov 2023 01:55:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
         </item>
     </channel>
 </rss>
