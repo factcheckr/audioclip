@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Dec 2023 13:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 14:10:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>74분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[12월 02일 22시] 22시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/24420</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/24420</guid>
+            <pubDate>Sat, 02 Dec 2023 14:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[12월 02일 21시] KBS 뉴스 9 (1TV  수중계) (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/24419</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/24419</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/24416</guid>
             <pubDate>Sat, 02 Dec 2023 09:09:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[12월 02일 15시] 15시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -593,18 +600,19 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[12월 02일 09시] 9시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/24410</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/24410</guid>
-            <pubDate>Sat, 02 Dec 2023 00:41:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[12월 01일 (금) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
             <link>https://audioclip.naver.com/channels/3117/clips/1590</link>
             <guid>https://audioclip.naver.com/channels/3117/clips/1590</guid>
             <pubDate>Fri, 01 Dec 2023 17:09:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_157/1687886527837MKyTG_PNG/e6b8802c632ba6d1c3181933ed939dbf.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[12월 02일 (토) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
+            <link>https://audioclip.naver.com/channels/3117/clips/1591</link>
+            <guid>https://audioclip.naver.com/channels/3117/clips/1591</guid>
+            <pubDate>Sat, 02 Dec 2023 14:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
             <enclosure url="https://audio-phinf.pstatic.net/20230628_157/1687886527837MKyTG_PNG/e6b8802c632ba6d1c3181933ed939dbf.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
@@ -629,7 +637,6 @@
             <guid>https://audioclip.naver.com/channels/3117/clips/1587</guid>
             <pubDate>Tue, 28 Nov 2023 17:09:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_157/1687886527837MKyTG_PNG/e6b8802c632ba6d1c3181933ed939dbf.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[11월 27일 (월) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
@@ -664,13 +671,6 @@
             <link>https://audioclip.naver.com/channels/3117/clips/1582</link>
             <guid>https://audioclip.naver.com/channels/3117/clips/1582</guid>
             <pubDate>Thu, 23 Nov 2023 19:08:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[11월 22일 (수) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
-            <link>https://audioclip.naver.com/channels/3117/clips/1581</link>
-            <guid>https://audioclip.naver.com/channels/3117/clips/1581</guid>
-            <pubDate>Wed, 22 Nov 2023 17:09:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
         </item>
         <item>
@@ -756,6 +756,14 @@
             <enclosure url="https://audio-phinf.pstatic.net/20230628_265/1687886524998bJrOy_PNG/23939818e7c14b96c6546958148d1e29.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[12월 02일 (토) TV CHOSUN 뉴스9 (오디오클립 ─ TV조선 뉴스9)]]></title>
+            <link>https://audioclip.naver.com/channels/3108/clips/1573</link>
+            <guid>https://audioclip.naver.com/channels/3108/clips/1573</guid>
+            <pubDate>Sat, 02 Dec 2023 14:08:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>45분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_265/1687886524998bJrOy_PNG/23939818e7c14b96c6546958148d1e29.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[11월 30일 (목) TV CHOSUN 뉴스9 (오디오클립 ─ TV조선 뉴스9)]]></title>
             <link>https://audioclip.naver.com/channels/3108/clips/1571</link>
             <guid>https://audioclip.naver.com/channels/3108/clips/1571</guid>
@@ -777,7 +785,6 @@
             <guid>https://audioclip.naver.com/channels/3108/clips/1569</guid>
             <pubDate>Tue, 28 Nov 2023 16:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_265/1687886524998bJrOy_PNG/23939818e7c14b96c6546958148d1e29.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[11월 27일 (월) TV CHOSUN 뉴스9 (오디오클립 ─ TV조선 뉴스9)]]></title>
@@ -812,13 +819,6 @@
             <link>https://audioclip.naver.com/channels/3108/clips/1564</link>
             <guid>https://audioclip.naver.com/channels/3108/clips/1564</guid>
             <pubDate>Thu, 23 Nov 2023 18:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[11월 22일 (수) TV CHOSUN 뉴스9 (오디오클립 ─ TV조선 뉴스9)]]></title>
-            <link>https://audioclip.naver.com/channels/3108/clips/1563</link>
-            <guid>https://audioclip.naver.com/channels/3108/clips/1563</guid>
-            <pubDate>Wed, 22 Nov 2023 16:13:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
         </item>
         <item>
