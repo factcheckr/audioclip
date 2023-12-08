@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 17:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 18:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -822,6 +822,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>51분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[12월 8일 (금) 뉴스7 (오디오클립 ─ MBN 종합뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/2994/clips/1470</link>
+            <guid>https://audioclip.naver.com/channels/2994/clips/1470</guid>
+            <pubDate>Fri, 08 Dec 2023 18:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_182/1687886514783KXJUs_PNG/28e1328785bd3bdc2206ebcb197f765a.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[12월 7일 (목) 뉴스7 (오디오클립 ─ MBN 종합뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/2994/clips/1469</link>
             <guid>https://audioclip.naver.com/channels/2994/clips/1469</guid>
@@ -851,7 +859,6 @@
             <guid>https://audioclip.naver.com/channels/2994/clips/1466</guid>
             <pubDate>Mon, 04 Dec 2023 17:10:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_182/1687886514783KXJUs_PNG/28e1328785bd3bdc2206ebcb197f765a.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[12월 01일 (금) 뉴스7 (오디오클립 ─ MBN 종합뉴스)]]></title>
@@ -887,13 +894,6 @@
             <guid>https://audioclip.naver.com/channels/2994/clips/1461</guid>
             <pubDate>Mon, 27 Nov 2023 18:13:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[11월 24일 (금) 뉴스7 (오디오클립 ─ MBN 종합뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/2994/clips/1460</link>
-            <guid>https://audioclip.naver.com/channels/2994/clips/1460</guid>
-            <pubDate>Fri, 24 Nov 2023 15:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[수능 성적표 배부...'불수능'에 수시 탈락 많을 듯 (오디오클립 ─ YTN 최신 뉴스)]]></title>
