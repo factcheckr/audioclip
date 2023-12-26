@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 11:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 12:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -600,6 +600,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[12월 26일 (화) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
+            <link>https://audioclip.naver.com/channels/3117/clips/1614</link>
+            <guid>https://audioclip.naver.com/channels/3117/clips/1614</guid>
+            <pubDate>Tue, 26 Dec 2023 12:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_157/1687886527837MKyTG_PNG/e6b8802c632ba6d1c3181933ed939dbf.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[12월 25일 (월) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
             <link>https://audioclip.naver.com/channels/3117/clips/1613</link>
             <guid>https://audioclip.naver.com/channels/3117/clips/1613</guid>
@@ -629,7 +637,6 @@
             <guid>https://audioclip.naver.com/channels/3117/clips/1609</guid>
             <pubDate>Thu, 21 Dec 2023 16:12:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_157/1687886527837MKyTG_PNG/e6b8802c632ba6d1c3181933ed939dbf.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[12월 22일 (금) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
@@ -667,11 +674,12 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>40분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[12월 17일 (일) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
-            <link>https://audioclip.naver.com/channels/3117/clips/1605</link>
-            <guid>https://audioclip.naver.com/channels/3117/clips/1605</guid>
-            <pubDate>Sun, 17 Dec 2023 14:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
+            <title><![CDATA[12월 26일 (화) 뉴스 TOP 10 (오디오클립 ─ 채널A 뉴스 TOP 10)]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/1135</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/1135</guid>
+            <pubDate>Tue, 26 Dec 2023 12:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>92분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_32/1687886527982OCwHK_PNG/256f786be70a33a5c9cec789390d82c1.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[12월 21일 (목) 뉴스 TOP 10 (오디오클립 ─ 채널A 뉴스 TOP 10)]]></title>
@@ -703,7 +711,6 @@
             <guid>https://audioclip.naver.com/channels/3118/clips/1131</guid>
             <pubDate>Tue, 19 Dec 2023 12:19:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>92분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_32/1687886527982OCwHK_PNG/256f786be70a33a5c9cec789390d82c1.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[12월 18일 (월) 뉴스 TOP 10 (오디오클립 ─ 채널A 뉴스 TOP 10)]]></title>
@@ -739,13 +746,6 @@
             <guid>https://audioclip.naver.com/channels/3118/clips/1126</guid>
             <pubDate>Tue, 12 Dec 2023 13:14:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>93분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[12월 11일 (월) 뉴스 TOP 10 (오디오클립 ─ 채널A 뉴스 TOP 10)]]></title>
-            <link>https://audioclip.naver.com/channels/3118/clips/1125</link>
-            <guid>https://audioclip.naver.com/channels/3118/clips/1125</guid>
-            <pubDate>Mon, 11 Dec 2023 12:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>90분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[12월 25일 (월) TV CHOSUN 뉴스9 (오디오클립 ─ TV조선 뉴스9)]]></title>
@@ -1091,6 +1091,22 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[12월 26일 21시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/22151</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/22151</guid>
+            <pubDate>Tue, 26 Dec 2023 12:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[12월 26일 20시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/22150</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/22150</guid>
+            <pubDate>Tue, 26 Dec 2023 12:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[12월 26일 16시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/22149</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/22149</guid>
@@ -1112,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/22147</guid>
             <pubDate>Tue, 26 Dec 2023 05:10:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[12월 26일 11시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1120,7 +1135,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/22146</guid>
             <pubDate>Tue, 26 Dec 2023 02:21:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[12월 26일10시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1149,20 +1163,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/22142</guid>
             <pubDate>Mon, 25 Dec 2023 12:18:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[12월 25일 16시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/22141</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/22141</guid>
-            <pubDate>Mon, 25 Dec 2023 08:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[12월 25일 14시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/22140</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/22140</guid>
-            <pubDate>Mon, 25 Dec 2023 06:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2023/12/26] [댓꿀쇼] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1387,6 +1387,22 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[퇴근길 라이브] 2023 증시를 달군 핫 이슈 정리_23.12.26_박근형, 김종효, 박종훈, 최홍석 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/14587</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/14587</guid>
+            <pubDate>Tue, 26 Dec 2023 12:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>70분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231226_235/1703588665014B8F1F_JPEG/00%BE%F7%B7%CE%B5%E5%BF%EB.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[심층인터뷰] 올해 시장엔 이런일이 있었다! f. 알파경제 김종효 이사 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/14586</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/14586</guid>
+            <pubDate>Tue, 26 Dec 2023 12:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>36분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231226_135/1703588633903qCSsc_JPEG/00%BE%F7%B7%CE%B5%E5%BF%EB.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[데일리힌트] 기관의 대량 매수로 하방 지지한 시장, 이틀 남은 시장 흐름은? f. IBK투자증권 박근형 부장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
             <link>https://audioclip.naver.com/channels/6519/clips/14585</link>
             <guid>https://audioclip.naver.com/channels/6519/clips/14585</guid>
@@ -1400,7 +1416,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/14584</guid>
             <pubDate>Tue, 26 Dec 2023 10:12:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231226_107/1703583688286Js5W7_JPEG/00%BE%F7%B7%CE%B5%E5%BF%EB.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[언더스탠딩] 엔비디아 CEO가 동남아를 주목하는 이유 f.서병수 애널리스트 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1408,7 +1423,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/14583</guid>
             <pubDate>Tue, 26 Dec 2023 10:12:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231226_130/1703582352274Q9vaO_JPEG/00%BE%F7%B7%CE%B5%E5%BF%EB.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[클로징벨 라이브] 올해 마지막 한주! 개인이 캐리한다?_23.12.26_하창완,김장열,박하윤,박종훈 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1444,20 +1458,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/14575</guid>
             <pubDate>Tue, 26 Dec 2023 00:42:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[미스터마켓] 애널리스트 성과에 대한 비판은 하되 인격과 인신에 대한 공격은 안된다 f. 김프로 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/14574</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/14574</guid>
-            <pubDate>Tue, 26 Dec 2023 00:42:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스3+] 연장근로 위반 여부는 하루 아닌 일주일? f. 권순우 취재팀장 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/14573</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/14573</guid>
-            <pubDate>Tue, 26 Dec 2023 00:42:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
         </item>
     </channel>
 </rss>
