@@ -4,7 +4,7 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 01:48:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 02:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,13 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2023/12/27] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10497</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10497</guid>
+            <pubDate>Wed, 27 Dec 2023 02:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>104분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2023/12/26] [댓꿀쇼]]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/10491</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/10491</guid>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10489</guid>
             <pubDate>Tue, 26 Dec 2023 01:46:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2023/12/26] [뉴스쇼 방송 전체듣기]]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10490</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10490</guid>
-            <pubDate>Tue, 26 Dec 2023 01:46:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>81분]]></content:encoded>
         </item>
     </channel>
 </rss>
