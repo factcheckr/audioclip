@@ -4,7 +4,7 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 01:55:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 02:27:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,13 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2024/01/08] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10544</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10544</guid>
+            <pubDate>Mon, 08 Jan 2024 02:27:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>100분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2024/01/05] [댓꿀쇼] 이색적인 ‘꿀’알바 모음 | 경복궁 낙서 사건 이어 또 문화재 낙서 | 매년 실패하는 신년 계획 Top 16]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/10538</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/10538</guid>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10535</guid>
             <pubDate>Fri, 05 Jan 2024 01:53:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/01/05] 장경태 "이재명 서울행? 부산 권역센터는 더 급한 환자 위해…"]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10536</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10536</guid>
-            <pubDate>Fri, 05 Jan 2024 01:53:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
         </item>
     </channel>
 </rss>
