@@ -4,9 +4,17 @@
         <title>오디오클립 ─ CBS뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 04:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 05:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[01월 12일 13시]]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/22311</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/22311</guid>
+            <pubDate>Fri, 12 Jan 2024 05:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[01월 12일 11시]]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/22310</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/22307</guid>
             <pubDate>Thu, 11 Jan 2024 14:10:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[01월 11일 20시]]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/22302</guid>
             <pubDate>Thu, 11 Jan 2024 02:27:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[01월 11일 10시]]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/22301</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/22301</guid>
-            <pubDate>Thu, 11 Jan 2024 01:55:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
     </channel>
 </rss>
