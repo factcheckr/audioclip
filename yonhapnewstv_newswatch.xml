@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 연합뉴스TV 뉴스워치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 11:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 12:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1월 15일 (월) 뉴스워치]]></title>
+            <link>https://audioclip.naver.com/channels/3089/clips/946</link>
+            <guid>https://audioclip.naver.com/channels/3089/clips/946</guid>
+            <pubDate>Mon, 15 Jan 2024 12:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_188/1687886521331RM0Ra_PNG/79caef51776caaaf77a3388373f0e8cd.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[1월 12일 (금) 뉴스워치]]></title>
             <link>https://audioclip.naver.com/channels/3089/clips/945</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3089/clips/942</guid>
             <pubDate>Tue, 09 Jan 2024 12:18:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_188/1687886521331RM0Ra_PNG/79caef51776caaaf77a3388373f0e8cd.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[1월 8일 (월) 뉴스워치]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3089/clips/937</guid>
             <pubDate>Tue, 02 Jan 2024 12:18:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[12월 29일 (금) 뉴스워치]]></title>
-            <link>https://audioclip.naver.com/channels/3089/clips/936</link>
-            <guid>https://audioclip.naver.com/channels/3089/clips/936</guid>
-            <pubDate>Fri, 29 Dec 2023 17:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
         </item>
     </channel>
 </rss>
