@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 채널A 뉴스A</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Jan 2024 16:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jan 2024 17:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1월 21일 (일) 뉴스A]]></title>
+            <link>https://audioclip.naver.com/channels/3117/clips/1639</link>
+            <guid>https://audioclip.naver.com/channels/3117/clips/1639</guid>
+            <pubDate>Sun, 21 Jan 2024 17:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>42분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_157/1687886527837MKyTG_PNG/e6b8802c632ba6d1c3181933ed939dbf.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[1월 19일 (금) 뉴스A]]></title>
             <link>https://audioclip.naver.com/channels/3117/clips/1637</link>
@@ -16,7 +24,7 @@
             <enclosure url="https://audio-phinf.pstatic.net/20230628_157/1687886527837MKyTG_PNG/e6b8802c632ba6d1c3181933ed939dbf.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[01월 20일 (토) 뉴스A]]></title>
+            <title><![CDATA[1월 20일 (토) 뉴스A]]></title>
             <link>https://audioclip.naver.com/channels/3117/clips/1638</link>
             <guid>https://audioclip.naver.com/channels/3117/clips/1638</guid>
             <pubDate>Sat, 20 Jan 2024 17:09:41 GMT</pubDate>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3117/clips/1635</guid>
             <pubDate>Wed, 17 Jan 2024 14:11:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_157/1687886527837MKyTG_PNG/e6b8802c632ba6d1c3181933ed939dbf.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[1월 16일 (화) 뉴스A]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3117/clips/1630</guid>
             <pubDate>Fri, 12 Jan 2024 12:17:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1월 11일 (목) 뉴스A]]></title>
-            <link>https://audioclip.naver.com/channels/3117/clips/1629</link>
-            <guid>https://audioclip.naver.com/channels/3117/clips/1629</guid>
-            <pubDate>Thu, 11 Jan 2024 17:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
         </item>
     </channel>
 </rss>
