@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 00:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 01:58:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>70분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[01월 23일 10시] 10시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/25154</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/25154</guid>
+            <pubDate>Tue, 23 Jan 2024 01:56:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[01월 23일 09시] 9시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/25153</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/25153</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/25150</guid>
             <pubDate>Mon, 22 Jan 2024 21:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[01월 23일 00시] 24시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -589,13 +596,6 @@
             <title><![CDATA[[01월 22일 17시] 17시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/25145</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/25145</guid>
-            <pubDate>Mon, 22 Jan 2024 08:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[01월 22일 16시] 16시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/25144</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/25144</guid>
             <pubDate>Mon, 22 Jan 2024 08:14:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
@@ -1091,6 +1091,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[01월 23일 10시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/22425</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/22425</guid>
+            <pubDate>Tue, 23 Jan 2024 01:57:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[01월 22일 22시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/22424</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/22424</guid>
@@ -1120,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/22421</guid>
             <pubDate>Mon, 22 Jan 2024 08:15:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[01월 22일 14시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1158,11 +1165,12 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[01월 21일 21시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/22415</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/22415</guid>
-            <pubDate>Sun, 21 Jan 2024 13:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <title><![CDATA[[2024/01/23] [뉴스쇼 방송 전체듣기] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10608</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10608</guid>
+            <pubDate>Tue, 23 Jan 2024 01:57:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>84분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_215/1687886430058Tgl56_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2024/01/22] [댓꿀쇼] 윤석열 vs 한동훈, 승자는 누구일까? | “골든타임 지나”··· 제3지대 ‘빅텐트’는 어떻게 될까? (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1194,7 +1202,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10603</guid>
             <pubDate>Mon, 22 Jan 2024 01:59:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_215/1687886430058Tgl56_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2024/01/22] [뉴스 연구소] 尹, 한동훈 충돌! “사퇴해!” 짜고 쳤다? (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1230,13 +1237,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10595</guid>
             <pubDate>Fri, 19 Jan 2024 02:28:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/01/19] [인터뷰] 오은영 "SNS에 자해 공유하는 아이들, 관종이 아니라…" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10596</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10596</guid>
-            <pubDate>Fri, 19 Jan 2024 02:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2화: 트럼프, 아이오와 코커스 낙승 (오디오클립 ─ 아메리카노)]]></title>
@@ -1387,6 +1387,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[오프닝벨 라이브] 혼조세 보이는 시장, 오늘 시장을 지탱하는 섹터는? f.염승환,김종효 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/14990</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/14990</guid>
+            <pubDate>Tue, 23 Jan 2024 01:58:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240123_131/1705970489090LRi2w_JPEG/00%BE%F7%B7%CE%B5%E5%BF%EB.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[오늘아침 라이브] 이제는 바뀌어야 한다! 코리아 디스카운트 언제까지?_24.01.23_권순우,박병창,이남우 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
             <link>https://audioclip.naver.com/channels/6519/clips/14989</link>
             <guid>https://audioclip.naver.com/channels/6519/clips/14989</guid>
@@ -1408,7 +1416,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/14987</guid>
             <pubDate>Tue, 23 Jan 2024 00:46:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240123_217/1705966888968DQFUi_JPEG/00%BE%F7%B7%CE%B5%E5%BF%EB.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[미스터마켓] 홍콩 증시 또 급락… 관련 국내 ETN, 결국 상장폐지 f.김프로 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1451,13 +1458,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/14980</guid>
             <pubDate>Mon, 22 Jan 2024 14:12:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[글로벌 뉴스3] 최고치 경신한 S&P500, 걱정해야 하나? f. 박종훈 팀장, 이주호 기자 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/14979</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/14979</guid>
-            <pubDate>Mon, 22 Jan 2024 13:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
         </item>
     </channel>
 </rss>
