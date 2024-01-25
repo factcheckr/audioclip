@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 14:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 15:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1387,6 +1387,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[Live] 언더스탠딩 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/15047</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/15047</guid>
+            <pubDate>Thu, 25 Jan 2024 15:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>351분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240122_131/1705899704331sfzIQ_JPEG/00%BE%F7%B7%CE%B5%E5%BF%EB.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[글로벌 라이브] 연준은 QT를 언제 종료할까?_24.01.25_변정규, 유사남 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
             <link>https://audioclip.naver.com/channels/6519/clips/15046</link>
             <guid>https://audioclip.naver.com/channels/6519/clips/15046</guid>
@@ -1408,7 +1416,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/15043</guid>
             <pubDate>Thu, 25 Jan 2024 14:11:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>32분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240125_39/1706188740090WFM5l_JPEG/00%BE%F7%B7%CE%B5%E5%BF%EB.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[글로벌 뉴스3] 불타는 홍해가 인플레이션을 불러올까 f. 박종훈 팀장, 이주호 기자 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1451,13 +1458,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/15037</guid>
             <pubDate>Thu, 25 Jan 2024 10:12:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[언더스탠딩] 인공위성과 AI가 만나면? f. 에스아이에이 전태균 대표 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/15036</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/15036</guid>
-            <pubDate>Thu, 25 Jan 2024 10:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
         </item>
     </channel>
 </rss>
