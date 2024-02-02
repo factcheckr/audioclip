@@ -4,9 +4,17 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 02:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 03:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2024/02/02] [댓꿀쇼]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10661</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10661</guid>
+            <pubDate>Fri, 02 Feb 2024 03:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>78분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_215/1687886430058Tgl56_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2024/02/02] [뉴스 연구소] 의대정원 확대 얼마나 늘어날까?]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/10656</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10659</guid>
             <pubDate>Fri, 02 Feb 2024 02:17:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_215/1687886430058Tgl56_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2024/02/02] [뉴스게임] 이용호 "유승민, 허드렛일조차 마다 않을 것" vs 최재성 "유승민 얘긴 들어봤나?"]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10652</guid>
             <pubDate>Thu, 01 Feb 2024 01:49:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/02/01] "뇌에 칩 이식... 이제 공부할 필요 없다?"]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10654</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10654</guid>
-            <pubDate>Thu, 01 Feb 2024 01:49:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
         </item>
     </channel>
 </rss>
