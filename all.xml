@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 04:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 05:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1091,6 +1091,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[02월 15일 13시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/22653</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/22653</guid>
+            <pubDate>Thu, 15 Feb 2024 05:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[02월 15일 11시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/22652</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/22652</guid>
@@ -1120,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/22649</guid>
             <pubDate>Wed, 14 Feb 2024 12:17:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[02월 14일 20시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1156,13 +1163,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/22644</guid>
             <pubDate>Wed, 14 Feb 2024 03:12:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[02월 14일 10시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/22643</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/22643</guid>
-            <pubDate>Wed, 14 Feb 2024 01:44:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2024/02/15] [월간] 유인태 “尹 지지율만 보다간 민주당, 큰 코 다쳐... 이재명의 민주당 말고, 더불어민주당 해야” (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
