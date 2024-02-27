@@ -4,7 +4,7 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 01:42:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 02:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,13 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>10분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2024/02/27] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10753</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10753</guid>
+            <pubDate>Tue, 27 Feb 2024 02:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>86분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2024/02/26] [댓꿀쇼]]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/10744</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/10744</guid>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10747</guid>
             <pubDate>Mon, 26 Feb 2024 01:45:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/02/26] 설훈 “출마한다...민주당으론 불가능”]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10742</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10742</guid>
-            <pubDate>Mon, 26 Feb 2024 01:45:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
         </item>
     </channel>
 </rss>
