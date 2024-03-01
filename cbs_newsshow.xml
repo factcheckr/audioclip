@@ -4,9 +4,17 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Mar 2024 01:51:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Mar 2024 02:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2024/03/01] [댓꿀쇼]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10771</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10771</guid>
+            <pubDate>Fri, 01 Mar 2024 02:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>99분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_215/1687886430058Tgl56_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2024/03/01] [뉴스 연구소] 쌍특검법 부결어디가 얼마나 이탈했나?]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/10766</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10769</guid>
             <pubDate>Fri, 01 Mar 2024 01:51:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_215/1687886430058Tgl56_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2024/03/01] 조기숙 "임종석, 새미래로 와서 호남 출마 가능성"]]></title>
@@ -45,6 +52,13 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10770</guid>
             <pubDate>Fri, 01 Mar 2024 01:51:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[2024/03/01] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10772</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10772</guid>
+            <pubDate>Fri, 01 Mar 2024 02:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>85분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2024/02/29] 이철우 지사 "저출생과의 전쟁 선포, 문제는 수도권병"]]></title>
@@ -66,20 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10763</guid>
             <pubDate>Thu, 29 Feb 2024 02:16:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/02/29] [놓지마 뉴스]]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10764</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10764</guid>
-            <pubDate>Thu, 29 Feb 2024 02:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/02/29] [뉴스 연구소] ‘그래서, 어쩔건데?’ 친명 유튜브 말대로 ‘수박 척결’ 공천 논란]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10765</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10765</guid>
-            <pubDate>Thu, 29 Feb 2024 02:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
         </item>
     </channel>
 </rss>
