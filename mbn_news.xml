@@ -4,9 +4,17 @@
         <title>오디오클립 ─ MBN 종합뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Mar 2024 14:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Mar 2024 15:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 1일 (금) 뉴스7]]></title>
+            <link>https://audioclip.naver.com/channels/2994/clips/1529</link>
+            <guid>https://audioclip.naver.com/channels/2994/clips/1529</guid>
+            <pubDate>Fri, 01 Mar 2024 15:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>51분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_182/1687886514783KXJUs_PNG/28e1328785bd3bdc2206ebcb197f765a.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2월 29일 (목) 뉴스7]]></title>
             <link>https://audioclip.naver.com/channels/2994/clips/1528</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2994/clips/1525</guid>
             <pubDate>Mon, 26 Feb 2024 16:13:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_182/1687886514783KXJUs_PNG/28e1328785bd3bdc2206ebcb197f765a.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[2월 23일 (금) 뉴스7]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2994/clips/1520</guid>
             <pubDate>Fri, 16 Feb 2024 17:11:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2월 15일 (목) 뉴스7]]></title>
-            <link>https://audioclip.naver.com/channels/2994/clips/1519</link>
-            <guid>https://audioclip.naver.com/channels/2994/clips/1519</guid>
-            <pubDate>Thu, 15 Feb 2024 16:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
         </item>
     </channel>
 </rss>
