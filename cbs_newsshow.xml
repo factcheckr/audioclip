@@ -4,7 +4,7 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 02:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 03:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,13 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2024/03/06] [놓지마 뉴스]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10791</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10791</guid>
+            <pubDate>Wed, 06 Mar 2024 03:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2024/03/05] 상온 초전도체는 왜 ‘꿈의 물질’일까? 새 LK-99? “달라진 게 없어요” | 김창영 교수]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/10780</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/10780</guid>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10783</guid>
             <pubDate>Tue, 05 Mar 2024 02:16:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/03/05] [뉴스쇼 방송 전체듣기]]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10784</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10784</guid>
-            <pubDate>Tue, 05 Mar 2024 02:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>115분]]></content:encoded>
         </item>
     </channel>
 </rss>
