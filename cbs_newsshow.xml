@@ -4,7 +4,7 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 01:45:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 02:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,13 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2024/03/21] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10861</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10861</guid>
+            <pubDate>Thu, 21 Mar 2024 02:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>94분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2024/03/20] [일타 박성민] "윤한 갈등 2차전? 尹이 무조건 진다"]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/10852</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/10852</guid>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10855</guid>
             <pubDate>Wed, 20 Mar 2024 02:17:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/03/20] 조배숙 “수모 견뎠더니 홀대? 이러면 누가 헌신할까?”]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10850</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10850</guid>
-            <pubDate>Wed, 20 Mar 2024 02:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
     </channel>
 </rss>
