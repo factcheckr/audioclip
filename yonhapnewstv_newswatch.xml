@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 연합뉴스TV 뉴스워치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 13:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 14:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 28일 (목) 뉴스워치]]></title>
+            <link>https://audioclip.naver.com/channels/3089/clips/995</link>
+            <guid>https://audioclip.naver.com/channels/3089/clips/995</guid>
+            <pubDate>Thu, 28 Mar 2024 14:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_188/1687886521331RM0Ra_PNG/79caef51776caaaf77a3388373f0e8cd.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[3월 27일 (수) 뉴스워치]]></title>
             <link>https://audioclip.naver.com/channels/3089/clips/994</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3089/clips/991</guid>
             <pubDate>Fri, 22 Mar 2024 15:10:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_188/1687886521331RM0Ra_PNG/79caef51776caaaf77a3388373f0e8cd.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[3월 21일 (목) 뉴스워치]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3089/clips/986</guid>
             <pubDate>Fri, 15 Mar 2024 13:12:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[3월 14일 (목) 뉴스워치]]></title>
-            <link>https://audioclip.naver.com/channels/3089/clips/985</link>
-            <guid>https://audioclip.naver.com/channels/3089/clips/985</guid>
-            <pubDate>Thu, 14 Mar 2024 12:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
         </item>
     </channel>
 </rss>
