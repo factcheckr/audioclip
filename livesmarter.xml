@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/310</id>
-    <title>오디오클립 ─ 듣똑라</title>
-    <updated>2024-03-28T15:14:21.666Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ 듣똑라</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 28 Mar 2024 16:13:26 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[듣똑라의 마지막 인사]]></title>
+            <link>https://audioclip.naver.com/channels/310/clips/1076</link>
+            <guid>https://audioclip.naver.com/channels/310/clips/1076</guid>
+            <pubDate>Thu, 28 Mar 2024 16:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231227_130/1703641546310rnDk5_PNG/%BF%C0%B5%F0%BF%C0_%C5%AC%B8%B3_Episode.249.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2023년 우리 한국 사회를 돌아보며...]]></title>
+            <link>https://audioclip.naver.com/channels/310/clips/1075</link>
+            <guid>https://audioclip.naver.com/channels/310/clips/1075</guid>
+            <pubDate>Thu, 28 Mar 2024 16:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231213_183/17024417171131o54L_PNG/%BF%C0%B5%F0%BF%C0_%C5%AC%B8%B3_Episode.248.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[우리가 경제 뉴스에 흥미를 잃어버린 이유]]></title>
+            <link>https://audioclip.naver.com/channels/310/clips/1074</link>
+            <guid>https://audioclip.naver.com/channels/310/clips/1074</guid>
+            <pubDate>Thu, 28 Mar 2024 16:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231212_160/1702357745642aiiHv_PNG/%BF%C0%B5%F0%BF%C0_%C5%AC%B8%B3_Episode.247.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[매년 2만명이 선택하는 요즘 '자퇴' 이야기]]></title>
+            <link>https://audioclip.naver.com/channels/310/clips/1073</link>
+            <guid>https://audioclip.naver.com/channels/310/clips/1073</guid>
+            <pubDate>Thu, 28 Mar 2024 16:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231211_4/1702273100284jWvw5_PNG/%BF%C0%B5%F0%BF%C0_%C5%AC%B8%B3_Episode.246.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2024년 가장 기대되는 콘텐츠는? (f.한국콘텐츠진흥원)]]></title>
+            <link>https://audioclip.naver.com/channels/310/clips/1072</link>
+            <guid>https://audioclip.naver.com/channels/310/clips/1072</guid>
+            <pubDate>Thu, 28 Mar 2024 16:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[플로리다에선 게이를 말하면 안 된다?]]></title>
+            <link>https://audioclip.naver.com/channels/310/clips/1070</link>
+            <guid>https://audioclip.naver.com/channels/310/clips/1070</guid>
+            <pubDate>Thu, 28 Mar 2024 16:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[제3지대? 장관 총선 출마? 요즘 정치권 이야기(f. 채윤경 기자)]]></title>
+            <link>https://audioclip.naver.com/channels/310/clips/1071</link>
+            <guid>https://audioclip.naver.com/channels/310/clips/1071</guid>
+            <pubDate>Thu, 28 Mar 2024 16:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[듣똑라x겨울서점에 오신 것을 환영합니다!(f.김겨울 작가)]]></title>
+            <link>https://audioclip.naver.com/channels/310/clips/1069</link>
+            <guid>https://audioclip.naver.com/channels/310/clips/1069</guid>
+            <pubDate>Thu, 28 Mar 2024 16:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[옷을 사지 않는 사람들]]></title>
+            <link>https://audioclip.naver.com/channels/310/clips/1068</link>
+            <guid>https://audioclip.naver.com/channels/310/clips/1068</guid>
+            <pubDate>Thu, 28 Mar 2024 16:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서울, 누구나 살고 싶고 떠나고 싶은 도시]]></title>
+            <link>https://audioclip.naver.com/channels/310/clips/1067</link>
+            <guid>https://audioclip.naver.com/channels/310/clips/1067</guid>
+            <pubDate>Thu, 28 Mar 2024 16:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
