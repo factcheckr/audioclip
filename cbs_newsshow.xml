@@ -4,9 +4,17 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 02:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 03:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2024/04/05] [댓꿀쇼]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10930</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10930</guid>
+            <pubDate>Fri, 05 Apr 2024 03:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>94분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2024/04/05] "삼성전자 어닝서프라이즈...반도체의 봄, 언제까지?"]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/10924</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10927</guid>
             <pubDate>Fri, 05 Apr 2024 01:45:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2024/04/05] [뉴스 연구소] 사전투표율 40% 총 투표율 70% ....근거는?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10919</guid>
             <pubDate>Thu, 04 Apr 2024 01:45:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/04/04] [뉴스쇼 방송 전체듣기]]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10921</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10921</guid>
-            <pubDate>Thu, 04 Apr 2024 01:45:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>84분]]></content:encoded>
         </item>
     </channel>
 </rss>
