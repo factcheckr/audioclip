@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Apr 2024 00:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 01:46:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>70분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[04월 16일 10시] 10시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/26349</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/26349</guid>
+            <pubDate>Tue, 16 Apr 2024 01:44:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[04월 16일 09시] 9시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/26348</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/26348</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/26345</guid>
             <pubDate>Mon, 15 Apr 2024 21:11:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[04월 16일 00시] 24시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -590,13 +597,6 @@
             <link>https://audioclip.naver.com/channels/1847/clips/26340</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/26340</guid>
             <pubDate>Mon, 15 Apr 2024 09:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[04월 15일 16시] 16시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/26339</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/26339</guid>
-            <pubDate>Mon, 15 Apr 2024 08:11:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
@@ -1091,6 +1091,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[04월 16일 10시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/23229</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/23229</guid>
+            <pubDate>Tue, 16 Apr 2024 01:45:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[04월 15일 21시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/23228</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/23228</guid>
@@ -1120,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/23225</guid>
             <pubDate>Mon, 15 Apr 2024 06:15:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[04월 15일 13시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1158,11 +1165,50 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[04월 14일 20시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/23219</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/23219</guid>
-            <pubDate>Sun, 14 Apr 2024 14:28:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <title><![CDATA[[2024/04/16] [뉴스쇼 방송 전체듣기] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10979</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10979</guid>
+            <pubDate>Tue, 16 Apr 2024 01:45:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>94분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2024/04/16] 이상민 “홍준표, 쓰러진 전우 등에 소금 뿌리나? 한동훈 활용한 건 당” (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10980</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10980</guid>
+            <pubDate>Tue, 16 Apr 2024 01:45:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2024/04/16] '지성 아빠' 문종택 "세월호 다큐, 침몰 장면이 빠진 이유" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10981</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10981</guid>
+            <pubDate>Tue, 16 Apr 2024 01:45:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2024/04/16] 이철희 “尹 섶 지고 불로 뛰어들어... 정신 못 차렸다 이러다 험한 꼴 여당한테 당해” (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10982</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10982</guid>
+            <pubDate>Tue, 16 Apr 2024 01:45:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2024/04/16] [뉴스 연구소] 채상병 특검 가면 尹 탄핵 이어진다? (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10983</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10983</guid>
+            <pubDate>Tue, 16 Apr 2024 01:45:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[2024/04/16] [놓지마 뉴스] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/10984</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/10984</guid>
+            <pubDate>Tue, 16 Apr 2024 01:45:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2024/04/15] [댓꿀쇼] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1170,7 +1216,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10978</guid>
             <pubDate>Mon, 15 Apr 2024 03:16:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>72분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2024/04/15] [한칼토론] 尹 새 비서실장? "정무감각 이정현 VS 쓴소리 하태경" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1178,7 +1223,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10973</guid>
             <pubDate>Mon, 15 Apr 2024 03:16:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2024/04/15] [놓지마 뉴스] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1186,7 +1230,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10974</guid>
             <pubDate>Mon, 15 Apr 2024 03:16:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2024/04/15] 김재섭 “당대표는 과분.. 반성 백서 필요해.. 조기전당대회? 쓰레기에 이불 덮기..짠물정당은 안돼” (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1194,49 +1237,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/10975</guid>
             <pubDate>Mon, 15 Apr 2024 03:16:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2024/04/15] 5차 중동전 가능성? 20%대.. 이란, 미국과 물밑 조율... 미사일 언제 어디서 쏠지 알려줬다..체면치레용 공격 (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10976</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10976</guid>
-            <pubDate>Mon, 15 Apr 2024 03:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/04/15] [뉴스 연구소] 尹의 총선 수습 인적쇄신.. 감동 카드가 없는 이유 (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10977</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10977</guid>
-            <pubDate>Mon, 15 Apr 2024 03:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/04/15] [뉴스쇼 방송 전체듣기] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10972</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10972</guid>
-            <pubDate>Mon, 15 Apr 2024 03:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>94분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/04/12] [댓꿀쇼] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10971</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10971</guid>
-            <pubDate>Fri, 12 Apr 2024 02:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>93분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/04/12] "금투세 폐지? 찬성하는 학자 한명도 못 봐" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10966</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10966</guid>
-            <pubDate>Fri, 12 Apr 2024 01:45:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/04/12] [뉴스게임] 최재성 김재원 "포스트 한동훈? 1순위는 나경원" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/10967</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/10967</guid>
-            <pubDate>Fri, 12 Apr 2024 01:45:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[9화: 트럼프의 소셜미디어 '트루스 소셜', 2024년 최고의 밈 주식? (오디오클립 ─ 아메리카노)]]></title>
@@ -1387,6 +1387,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[Live] 월스트리트 모닝브리핑 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
+            <link>https://audioclip.naver.com/channels/6519/clips/16001</link>
+            <guid>https://audioclip.naver.com/channels/6519/clips/16001</guid>
+            <pubDate>Tue, 16 Apr 2024 01:46:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>258분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240412_81/1712866550609Xd1nC_JPEG/00%BE%F7%B7%CE%B5%E5%BF%EB.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[마켓 인사이드] 뚜렷한 리스크 없이 흘러내리는 시장, 지금을 잘 버텨내야 한다. f. 교보증권 박병창 이사 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
             <link>https://audioclip.naver.com/channels/6519/clips/15998</link>
             <guid>https://audioclip.naver.com/channels/6519/clips/15998</guid>
@@ -1408,7 +1416,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/15996</guid>
             <pubDate>Mon, 15 Apr 2024 23:11:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>75분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240416_169/1713220048568PdO3l_JPEG/00%BE%F7%B7%CE%B5%E5%BF%EB.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[언더스탠딩] 일촉즉발 중동 사태, 확전 가능성은? f박현도/태양이 두 개가 되면 인류는 무한 에너지를 얻게 됩니다 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
@@ -1451,13 +1458,6 @@
             <guid>https://audioclip.naver.com/channels/6519/clips/15988</guid>
             <pubDate>Mon, 15 Apr 2024 03:17:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>99분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[마켓 인사이드] 중동 리스크에 환율·금리·물가 불확실성 확대_24.04.15_교보증권 박병창 이사 (오디오클립 ─ 삼프로TV 경제의 신과함께)]]></title>
-            <link>https://audioclip.naver.com/channels/6519/clips/15986</link>
-            <guid>https://audioclip.naver.com/channels/6519/clips/15986</guid>
-            <pubDate>Mon, 15 Apr 2024 03:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
         </item>
     </channel>
 </rss>
