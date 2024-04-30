@@ -4,7 +4,7 @@
         <title>오디오클립 ─ CBS뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Apr 2024 04:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 05:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[04월 30일 13시]]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/23359</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/23359</guid>
+            <pubDate>Tue, 30 Apr 2024 05:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[04월 29일 21시]]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/23356</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/23356</guid>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/23355</guid>
             <pubDate>Mon, 29 Apr 2024 12:19:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[04월 29일 16시]]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/23350</guid>
             <pubDate>Mon, 29 Apr 2024 01:50:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[04월 28일 22시]]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/23348</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/23348</guid>
-            <pubDate>Sun, 28 Apr 2024 14:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
     </channel>
 </rss>
