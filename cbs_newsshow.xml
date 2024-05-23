@@ -4,7 +4,7 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 02:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 03:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,13 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2024/05/23] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/11152</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/11152</guid>
+            <pubDate>Thu, 23 May 2024 03:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>103분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2024/05/22] 김정숙 초청장 논란... 외교부가 거짓말, 정치질 | 윤건영 의원]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/11144</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/11144</guid>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/11146</guid>
             <pubDate>Wed, 22 May 2024 01:54:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/05/22] [뉴스쇼 방송 전체듣기]]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/11141</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/11141</guid>
-            <pubDate>Wed, 22 May 2024 01:54:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>120분]]></content:encoded>
         </item>
     </channel>
 </rss>
