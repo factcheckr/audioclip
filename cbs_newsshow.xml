@@ -4,7 +4,7 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 02:01:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 02:36:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,13 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2024/06/10] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/11226</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/11226</guid>
+            <pubDate>Mon, 10 Jun 2024 02:36:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>114분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2024/06/07] [댓꿀쇼]]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/11220</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/11220</guid>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/11217</guid>
             <pubDate>Fri, 07 Jun 2024 01:58:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/06/07] [뉴스쇼 방송 전체듣기]]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/11218</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/11218</guid>
-            <pubDate>Fri, 07 Jun 2024 01:58:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>107분]]></content:encoded>
         </item>
     </channel>
 </rss>
