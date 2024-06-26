@@ -4,7 +4,7 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jun 2024 02:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jun 2024 03:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,13 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>126분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2024/06/26] [놓지마 뉴스]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/11305</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/11305</guid>
+            <pubDate>Wed, 26 Jun 2024 03:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2024/06/25] [댓꿀쇼]]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/11293</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/11293</guid>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/11296</guid>
             <pubDate>Tue, 25 Jun 2024 01:59:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/06/25] [놓지마 뉴스]]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/11297</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/11297</guid>
-            <pubDate>Tue, 25 Jun 2024 01:59:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
