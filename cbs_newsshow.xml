@@ -4,7 +4,7 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 02:00:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 02:33:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,13 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2024/7/4] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/11342</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/11342</guid>
+            <pubDate>Thu, 04 Jul 2024 02:33:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>92분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2024/07/03] [일타 박성민] "한동훈 화법은 노무현 스타일... 찬반 두려워하지 않아"]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/11331</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/11331</guid>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/11334</guid>
             <pubDate>Wed, 03 Jul 2024 01:59:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>119분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/07/03] [놓지마 뉴스]]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/11335</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/11335</guid>
-            <pubDate>Wed, 03 Jul 2024 01:59:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
     </channel>
 </rss>
