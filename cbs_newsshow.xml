@@ -4,9 +4,17 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jul 2024 00:47:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 01:59:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2024/07/05] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/11344</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/11344</guid>
+            <pubDate>Fri, 05 Jul 2024 01:59:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>93분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2024/7/4] [댓꿀쇼]]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/11343</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/11339</guid>
             <pubDate>Thu, 04 Jul 2024 02:00:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2024/7/4] 이성윤 "검사들, 탄핵 반발? 어느 행정기관이 국회에 대들까”  “尹과는 동기지만..맞짱 뜨겠다”]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/11333</guid>
             <pubDate>Wed, 03 Jul 2024 01:59:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/07/03] 김재원 "한동훈 앞섰지만 '어대한'은 아냐"]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/11332</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/11332</guid>
-            <pubDate>Wed, 03 Jul 2024 01:59:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
         </item>
     </channel>
 </rss>
