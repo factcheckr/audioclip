@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 채널A 뉴스A</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Jul 2024 16:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jul 2024 17:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 06일 (토) 뉴스A]]></title>
+            <link>https://audioclip.naver.com/channels/3117/clips/1803</link>
+            <guid>https://audioclip.naver.com/channels/3117/clips/1803</guid>
+            <pubDate>Sat, 06 Jul 2024 17:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>44분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_157/1687886527837MKyTG_PNG/e6b8802c632ba6d1c3181933ed939dbf.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[7월 05일 (금) 뉴스A]]></title>
             <link>https://audioclip.naver.com/channels/3117/clips/1802</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3117/clips/1799</guid>
             <pubDate>Tue, 02 Jul 2024 12:19:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_157/1687886527837MKyTG_PNG/e6b8802c632ba6d1c3181933ed939dbf.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[7월 01일 (월) 뉴스A]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3117/clips/1794</guid>
             <pubDate>Wed, 26 Jun 2024 13:14:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>59분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[6월 25일 (화) 뉴스A]]></title>
-            <link>https://audioclip.naver.com/channels/3117/clips/1793</link>
-            <guid>https://audioclip.naver.com/channels/3117/clips/1793</guid>
-            <pubDate>Tue, 25 Jun 2024 12:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>57분]]></content:encoded>
         </item>
     </channel>
 </rss>
