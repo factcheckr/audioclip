@@ -4,7 +4,7 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 02:02:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 02:38:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,13 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>111분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2024/07/08] [놓지마 뉴스]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/11356</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/11356</guid>
+            <pubDate>Mon, 08 Jul 2024 02:37:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2024/07/05] [댓꿀쇼]]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/11345</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/11345</guid>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/11349</guid>
             <pubDate>Fri, 05 Jul 2024 02:31:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/07/05] 권성동 "검사탄핵? 기각 땐 민주당 전원 무고죄 고소"]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/11348</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/11348</guid>
-            <pubDate>Fri, 05 Jul 2024 02:31:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
         </item>
     </channel>
 </rss>

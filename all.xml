@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 02:02:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 02:38:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[07월 08일 11시] 11시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/27528</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/27528</guid>
+            <pubDate>Mon, 08 Jul 2024 02:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[07월 08일 10시] 10시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/27527</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/27527</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/27524</guid>
             <pubDate>Sun, 07 Jul 2024 22:11:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[07월 08일 05시] 5시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -591,13 +598,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/27519</guid>
             <pubDate>Sun, 07 Jul 2024 13:11:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[07월 07일 19시] 19시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/27518</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/27518</guid>
-            <pubDate>Sun, 07 Jul 2024 11:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[7월 07일 (일) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
@@ -1099,6 +1099,14 @@
             <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[07월 08일 11시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/23979</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/23979</guid>
+            <pubDate>Mon, 08 Jul 2024 02:37:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[07월 08일 10시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/23978</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/23978</guid>
@@ -1120,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/23974</guid>
             <pubDate>Sun, 07 Jul 2024 11:10:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[07월 07일 18시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1156,13 +1163,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/23970</guid>
             <pubDate>Sun, 07 Jul 2024 05:14:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[07월 07일 12시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/23969</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/23969</guid>
-            <pubDate>Sun, 07 Jul 2024 03:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2024/07/08] [뉴스닥] "읽씹 문자, 누가 흘렸나?"... 박수현·김근식 "최소한 김건희 여사도 동의한 것 (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1204,6 +1204,13 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>111분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2024/07/08] [놓지마 뉴스] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/11356</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/11356</guid>
+            <pubDate>Mon, 08 Jul 2024 02:37:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2024/07/05] [댓꿀쇼] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/11345</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/11345</guid>
@@ -1230,13 +1237,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/11349</guid>
             <pubDate>Fri, 05 Jul 2024 02:31:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/07/05] 권성동 "검사탄핵? 기각 땐 민주당 전원 무고죄 고소" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/11348</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/11348</guid>
-            <pubDate>Fri, 05 Jul 2024 02:31:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[11화: 민주당은 바이든을 교체할 수 있을까? (오디오클립 ─ 아메리카노)]]></title>
