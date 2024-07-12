@@ -4,7 +4,7 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jul 2024 02:00:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jul 2024 02:34:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,13 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2024/07/12] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/11382</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/11382</guid>
+            <pubDate>Fri, 12 Jul 2024 02:33:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>110분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2024/07/11] [탐정 손수호] 발칵 뒤집힌 스포츠계... 허웅부터 오재원까지]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/11375</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/11375</guid>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/11372</guid>
             <pubDate>Thu, 11 Jul 2024 02:01:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/07/11] 인터뷰 중 오열... 대전 폭우 의인 "바다가 된 마을서 헤엄치며 구출]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/11373</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/11373</guid>
-            <pubDate>Thu, 11 Jul 2024 02:01:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
         </item>
     </channel>
 </rss>
