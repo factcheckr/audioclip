@@ -4,7 +4,7 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Aug 2024 02:05:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2024 03:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,13 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>130분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2024/08/14] [놓지마 뉴스]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/11536</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/11536</guid>
+            <pubDate>Wed, 14 Aug 2024 03:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2024/08/13] [댓꿀쇼]]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/11530</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/11530</guid>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/11526</guid>
             <pubDate>Tue, 13 Aug 2024 02:05:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/08/13] 독립기념관을 떠나라? 김형석 "억울해 내가 뉴라이트?"]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/11527</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/11527</guid>
-            <pubDate>Tue, 13 Aug 2024 02:05:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
         </item>
     </channel>
 </rss>
