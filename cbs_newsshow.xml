@@ -4,7 +4,7 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 02:11:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 03:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,13 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>8분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2024/09/02] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/11621</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/11621</guid>
+            <pubDate>Mon, 02 Sep 2024 03:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>99분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2024/08/30] [댓꿀쇼]]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/11615</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/11615</guid>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/11612</guid>
             <pubDate>Fri, 30 Aug 2024 02:09:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/08/30] [주민 인터뷰] 싱크홀 직접 보니 "땅 밑에 거대한 동굴처럼..."]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/11613</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/11613</guid>
-            <pubDate>Fri, 30 Aug 2024 02:09:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
     </channel>
 </rss>
