@@ -4,7 +4,7 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Sep 2024 02:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 03:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -47,6 +47,13 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2024/09/06] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/11646</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/11646</guid>
+            <pubDate>Fri, 06 Sep 2024 03:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>105분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2024/09/05] 응급실 지키는 의사 “뺑뺑이... 왜 환자를 안 받냐고요? 치료를 못해요... 마음이 무너지는 중”]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/11639</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/11639</guid>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/11636</guid>
             <pubDate>Thu, 05 Sep 2024 00:53:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>7분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2024/09/05] 조국 “文 뭉칫돈, 호화별장? 제 2의 논두렁 시계... 尹 실정 김건희 명품백 가리기용”]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/11637</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/11637</guid>
-            <pubDate>Thu, 05 Sep 2024 00:53:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
         </item>
     </channel>
 </rss>
