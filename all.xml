@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Oct 2024 00:55:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Oct 2024 02:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>72분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[10월 12일 10시] 10시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/28888</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/28888</guid>
+            <pubDate>Sat, 12 Oct 2024 02:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[10월 12일 09시] 9시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/28887</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/28887</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/28884</guid>
             <pubDate>Fri, 11 Oct 2024 16:15:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[10월 11일 22시] 22시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -591,13 +598,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/28879</guid>
             <pubDate>Fri, 11 Oct 2024 08:16:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[10월 11일 14시] 뉴스 중계탑 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/28878</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/28878</guid>
-            <pubDate>Fri, 11 Oct 2024 06:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[10월 10일 (목) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
@@ -1091,6 +1091,30 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[10월 12일 10시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/24829</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/24829</guid>
+            <pubDate>Sat, 12 Oct 2024 02:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[10월 12일 08시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/24830</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/24830</guid>
+            <pubDate>Sat, 12 Oct 2024 02:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[10월 12일 07시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/24831</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/24831</guid>
+            <pubDate>Sat, 12 Oct 2024 02:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[10월 12일 06시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/24828</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/24828</guid>
@@ -1104,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/24827</guid>
             <pubDate>Fri, 11 Oct 2024 12:23:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[10월 11일 20시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1112,7 +1135,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/24826</guid>
             <pubDate>Fri, 11 Oct 2024 12:23:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[10월 11일 16시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1120,7 +1142,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/24825</guid>
             <pubDate>Fri, 11 Oct 2024 08:17:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[10월 11일 14시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1142,27 +1163,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/24822</guid>
             <pubDate>Fri, 11 Oct 2024 02:15:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[10월 11일 10시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/24821</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/24821</guid>
-            <pubDate>Fri, 11 Oct 2024 02:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[10월 10일 21시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/24819</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/24819</guid>
-            <pubDate>Thu, 10 Oct 2024 13:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[10월 10일 20시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/24820</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/24820</guid>
-            <pubDate>Thu, 10 Oct 2024 13:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[2024/10/11] [댓꿀쇼] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
