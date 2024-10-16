@@ -4,9 +4,17 @@
         <title>오디오클립 ─ KBS 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 10:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 11:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[10월 16일 19시] 저녁 종합뉴스]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/28953</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/28953</guid>
+            <pubDate>Wed, 16 Oct 2024 11:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[10월 16일 17시] 17시 뉴스]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/28952</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/28949</guid>
             <pubDate>Wed, 16 Oct 2024 04:16:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[10월 16일 11시] 11시 뉴스]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/28944</guid>
             <pubDate>Tue, 15 Oct 2024 22:12:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[10월 16일 05시] 5시 뉴스]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/28943</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/28943</guid>
-            <pubDate>Tue, 15 Oct 2024 21:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
     </channel>
 </rss>
