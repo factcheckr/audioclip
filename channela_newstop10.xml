@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 채널A 뉴스 TOP 10</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jan 2025 11:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2025 12:24:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[01월 27일 (월) 뉴스 TOP 10]]></title>
+            <link>https://audioclip.naver.com/channels/3118/clips/1416</link>
+            <guid>https://audioclip.naver.com/channels/3118/clips/1416</guid>
+            <pubDate>Mon, 27 Jan 2025 12:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>65분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_32/1687886527982OCwHK_PNG/256f786be70a33a5c9cec789390d82c1.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[01월 24일 (금) 뉴스 TOP 10]]></title>
             <link>https://audioclip.naver.com/channels/3118/clips/1415</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3118/clips/1412</guid>
             <pubDate>Wed, 22 Jan 2025 12:23:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>95분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_32/1687886527982OCwHK_PNG/256f786be70a33a5c9cec789390d82c1.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[01월 21일 (화) 뉴스 TOP 10]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3118/clips/1407</guid>
             <pubDate>Wed, 15 Jan 2025 12:22:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>123분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[01월 14일 (화) 뉴스 TOP 10]]></title>
-            <link>https://audioclip.naver.com/channels/3118/clips/1406</link>
-            <guid>https://audioclip.naver.com/channels/3118/clips/1406</guid>
-            <pubDate>Tue, 14 Jan 2025 11:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>95분]]></content:encoded>
         </item>
     </channel>
 </rss>
