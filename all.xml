@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jan 2025 00:58:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2025 02:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>73분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[01월 27일 10시] 10시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/30411</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/30411</guid>
+            <pubDate>Mon, 27 Jan 2025 02:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[01월 27일 09시] 9시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/30410</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/30410</guid>
@@ -555,7 +563,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/30407</guid>
             <pubDate>Sun, 26 Jan 2025 21:11:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[01월 27일 00시] 24시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -590,13 +597,6 @@
             <link>https://audioclip.naver.com/channels/1847/clips/30402</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/30402</guid>
             <pubDate>Sun, 26 Jan 2025 11:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[01월 26일 18시] 18시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/30401</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/30401</guid>
-            <pubDate>Sun, 26 Jan 2025 10:12:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
@@ -1091,6 +1091,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>1분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[01월 27일 10시] (오디오클립 ─ CBS뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1635/clips/25786</link>
+            <guid>https://audioclip.naver.com/channels/1635/clips/25786</guid>
+            <pubDate>Mon, 27 Jan 2025 02:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>2분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[01월 26일 21시] (오디오클립 ─ CBS뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1635/clips/25784</link>
             <guid>https://audioclip.naver.com/channels/1635/clips/25784</guid>
@@ -1120,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1635/clips/25783</guid>
             <pubDate>Sun, 26 Jan 2025 11:10:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_74/1687886465776o6Tt4_JPEG/20190319165632.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[01월 26일 17시] (오디오클립 ─ CBS뉴스)]]></title>
@@ -1158,11 +1165,28 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[01월 26일 11시] (오디오클립 ─ CBS뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1635/clips/25776</link>
-            <guid>https://audioclip.naver.com/channels/1635/clips/25776</guid>
-            <pubDate>Sun, 26 Jan 2025 02:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
+            <title><![CDATA[[2025/01/27] [스페셜 뉴스닥] 이재명 vs 김문수, 본선 대결 갈까? (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/12266</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/12266</guid>
+            <pubDate>Mon, 27 Jan 2025 02:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>103분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2025/01/27] [뉴스쇼 방송 전체듣기] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/12267</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/12267</guid>
+            <pubDate>Mon, 27 Jan 2025 02:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>131분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2025/01/27] [뉴스 연구소] "尹 석방은 불가" 구속 기소 택한 속사정은? (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/12268</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/12268</guid>
+            <pubDate>Mon, 27 Jan 2025 02:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2025/01/24] [댓꿀쇼] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1178,7 +1202,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/12259</guid>
             <pubDate>Fri, 24 Jan 2025 02:12:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>93분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2025/01/24] [탐정 손수호] "박사방 피해자의 3배...'목사방' 총책은 누구?" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1186,7 +1209,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/12260</guid>
             <pubDate>Fri, 24 Jan 2025 02:12:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2025/01/24] [뉴스게임] 김성태 "제2의 장세동 꿈꾸는 김용현" vs 최재성 "尹 구하기" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1194,7 +1216,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/12261</guid>
             <pubDate>Fri, 24 Jan 2025 02:12:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2025/01/24] 정성호 "이재명, 3월말 2심 선고? 촉박해" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1215,27 +1236,6 @@
             <link>https://audioclip.naver.com/channels/1256/clips/12264</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/12264</guid>
             <pubDate>Fri, 24 Jan 2025 02:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2025/01/23] 조갑제 "윤석열, 보수를 좀비로 만들어..尹과 한몸 썩은 동아줄 잡고 조기대선 인수봉 오르는 중” (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/12253</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/12253</guid>
-            <pubDate>Thu, 23 Jan 2025 02:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>39분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2025/01/23] 박지원 “내란 수괴가 김용현? 尹 비열함...남미 마약 갱보다 못해.. 김용현 뒤집어쓸까? 자자손손 이완용 취급" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/12254</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/12254</guid>
-            <pubDate>Thu, 23 Jan 2025 02:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2025/01/23] [놓치마 뉴스] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/12255</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/12255</guid>
-            <pubDate>Thu, 23 Jan 2025 02:12:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>6분]]></content:encoded>
         </item>
         <item>
