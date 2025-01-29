@@ -4,9 +4,17 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jan 2025 02:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jan 2025 03:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2025/01/29] [뉴스쇼 방송 전체듣기]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/12270</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/12270</guid>
+            <pubDate>Wed, 29 Jan 2025 03:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>93분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2025/01/28] [뉴스쇼 방송 전체듣기]]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/12269</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/12268</guid>
             <pubDate>Mon, 27 Jan 2025 02:14:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2025/01/24] [댓꿀쇼]]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/12262</guid>
             <pubDate>Fri, 24 Jan 2025 02:12:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2025/01/24] [뉴스 연구소] 김용현은 왜 '장세동의 길' 택했나?]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/12263</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/12263</guid>
-            <pubDate>Fri, 24 Jan 2025 02:12:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
         </item>
     </channel>
 </rss>
