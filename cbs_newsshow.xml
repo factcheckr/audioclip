@@ -4,9 +4,17 @@
         <title>오디오클립 ─ CBS 김현정의 뉴스쇼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Feb 2025 02:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 03:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2025/02/03] [댓꿀쇼]]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/12285</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/12285</guid>
+            <pubDate>Mon, 03 Feb 2025 03:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>65분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2025/02/03] [뉴스쇼 방송 전체듣기]]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/12279</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/12282</guid>
             <pubDate>Mon, 03 Feb 2025 02:13:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2025/02/03] 김근식 “헌법재판관 가족도 콩가루” vs 박수현 “마지막 보루, 흔들지 말라”]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/12274</guid>
             <pubDate>Fri, 31 Jan 2025 03:15:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>5분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2025/01/31] [인터뷰] "기내 보조배터리 전면 금지? 어려운 이유는.."]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/12275</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/12275</guid>
-            <pubDate>Fri, 31 Jan 2025 03:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
         </item>
     </channel>
 </rss>
