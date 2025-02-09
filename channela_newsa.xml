@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 채널A 뉴스A</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Feb 2025 17:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Feb 2025 18:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[02월 09일 (일) 뉴스A]]></title>
+            <link>https://audioclip.naver.com/channels/3117/clips/2016</link>
+            <guid>https://audioclip.naver.com/channels/3117/clips/2016</guid>
+            <pubDate>Sun, 09 Feb 2025 18:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>42분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_157/1687886527837MKyTG_PNG/e6b8802c632ba6d1c3181933ed939dbf.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[02월 08일 (토) 뉴스A]]></title>
             <link>https://audioclip.naver.com/channels/3117/clips/2015</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/3117/clips/2012</guid>
             <pubDate>Wed, 05 Feb 2025 13:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_157/1687886527837MKyTG_PNG/e6b8802c632ba6d1c3181933ed939dbf.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[02월 04일 (화) 뉴스A]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/3117/clips/2007</guid>
             <pubDate>Fri, 31 Jan 2025 12:22:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[01월 30일 (목) 뉴스A]]></title>
-            <link>https://audioclip.naver.com/channels/3117/clips/2006</link>
-            <guid>https://audioclip.naver.com/channels/3117/clips/2006</guid>
-            <pubDate>Thu, 30 Jan 2025 12:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>50분]]></content:encoded>
         </item>
     </channel>
 </rss>
