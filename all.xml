@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Mar 2025 10:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 11:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -452,6 +452,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>65분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[03월 12일 19시] 저녁 종합뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
+            <link>https://audioclip.naver.com/channels/1847/clips/31042</link>
+            <guid>https://audioclip.naver.com/channels/1847/clips/31042</guid>
+            <pubDate>Wed, 12 Mar 2025 11:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[03월 12일 17시] 17시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
             <link>https://audioclip.naver.com/channels/1847/clips/31041</link>
             <guid>https://audioclip.naver.com/channels/1847/clips/31041</guid>
@@ -481,7 +489,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/31038</guid>
             <pubDate>Wed, 12 Mar 2025 04:16:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230628_269/1687886470882sQaHv_PNG/logo-icon-1024.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[03월 12일 11시] 11시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
@@ -517,13 +524,6 @@
             <guid>https://audioclip.naver.com/channels/1847/clips/31033</guid>
             <pubDate>Tue, 11 Mar 2025 22:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[03월 12일 05시] 5시 뉴스 (오디오클립 ─ KBS 뉴스)]]></title>
-            <link>https://audioclip.naver.com/channels/1847/clips/31032</link>
-            <guid>https://audioclip.naver.com/channels/1847/clips/31032</guid>
-            <pubDate>Tue, 11 Mar 2025 20:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>4분]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[02월 27일 (목) 뉴스A (오디오클립 ─ 채널A 뉴스A)]]></title>
