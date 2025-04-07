@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 03:02:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 03:39:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1091,6 +1091,14 @@
             <content:encoded><![CDATA[<span class="blind">재생시간</span>3분]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[2025/04/07] [댓꿀쇼] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
+            <link>https://audioclip.naver.com/channels/1256/clips/12587</link>
+            <guid>https://audioclip.naver.com/channels/1256/clips/12587</guid>
+            <pubDate>Mon, 07 Apr 2025 03:38:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>64분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[2025/04/07] [놓치마 뉴스] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/12581</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/12581</guid>
@@ -1120,7 +1128,6 @@
             <guid>https://audioclip.naver.com/channels/1256/clips/12584</guid>
             <pubDate>Mon, 07 Apr 2025 03:02:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240402_27/1712038435378EwebP_JPEG/image.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2025/04/07] [뉴스쇼 방송 전체듣기] (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
@@ -1154,13 +1161,6 @@
             <title><![CDATA[[2025/04/04] 신동욱 "5:3, 尹 메시지 낼듯" vs 김성회 "8:0, 尹 이삿짐 쌀 시간만" (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
             <link>https://audioclip.naver.com/channels/1256/clips/12577</link>
             <guid>https://audioclip.naver.com/channels/1256/clips/12577</guid>
-            <pubDate>Fri, 04 Apr 2025 02:27:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[2025/04/04] [훅뉴스] "비상계엄 선포"부터 "주문"까지...尹 122일간 기록 (오디오클립 ─ CBS 김현정의 뉴스쇼)]]></title>
-            <link>https://audioclip.naver.com/channels/1256/clips/12578</link>
-            <guid>https://audioclip.naver.com/channels/1256/clips/12578</guid>
             <pubDate>Fri, 04 Apr 2025 02:27:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
         </item>
